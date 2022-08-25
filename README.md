@@ -1,4 +1,3 @@
-# abcdmatrix1 HOME
 
 ## Spiritualidad
 * [Association de la Médaille Miraculeuse](https://www.medaille-miraculeuse.fr/category/meditation)
