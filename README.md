@@ -6,6 +6,8 @@
 * [El evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
 * [The Word](https://www.americamagazine.org/section/word)
 
+![Disciple to Apostle](https://www.ncronline.org/files/styles/article_one-third_width/public/Jacob%27s%20ladder_1.jpg?itok=UuEU2Mpt)
+
 ## Novedades
 * [Zenit](https://es.zenit.org/)
 * [America Magazine](https://www.americamagazine.org/sections/current-issue)
