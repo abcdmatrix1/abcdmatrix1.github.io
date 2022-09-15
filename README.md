@@ -9,12 +9,12 @@
 * [Pencil preaching](https://www.ncronline.org/columns/pencil-preaching)
 * [Méditation](https://www.medaille-miraculeuse.fr/category/meditation)
 * [The Word](https://www.americamagazine.org/section/word)
-* [El evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
+* [El Evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
 
 
 ## Biblia
 * [Novum Testamentum Graece](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/51/60001/69999/ch/06799b2ab9e1b95fa1f3e1d53cf2f7de/)
-* [USCCB](https://bible.usccb.org/bible/mark/0)
+* [USCCB Bible](https://bible.usccb.org/bible/mark/0)
 * [San Pablo](https://www.sanpablo.es/biblia-latinoamericana)
 * [Daily](http://maria.catholic.or.kr/mi_pr/missa/missa.asp)
 
@@ -24,23 +24,26 @@
 * [Vaticano](http://w2.vatican.va/content/vatican/en.html)
 * [Estados Unidos](http://www.usccb.org/)
 * [Libreria](http://lib.catholic.ac.kr)
-* Hierarchy
-* [Vocations](http://vocation.jesuits.kr/)
+* [Catholic Hierarchy](https://www.catholic-hierarchy.org/diocese/qview.html)
+* [Jesuit Vocations](http://vocation.jesuits.kr/)
 * [Metz](http://metz.catholique.fr)
-* [La Voce](http://lavocedelnordest.eu)
+* [La Voce del Nord est](http://lavocedelnordest.eu)
 
 ## Libros
-* [Aladin](http://www.aladin.co.kr/)
+* [aladin](http://www.aladin.co.kr/)
 * [yes24](http://www.yes24.com/)
 
 
 ## Novedades
 * [Zenit](https://es.zenit.org/)
 * [America Magazine](https://www.americamagazine.org/sections/current-issue)
+- [Workflowy blog](https://blog.workflowy.com/)
+- [Bear](https://blog.bear.app/)
+
 
 ## acc
-* [wordpress](http://www.wordpress.com/)
-* [github]
+* [wordpress](http://bczqn6.wordpress.com/)
+* [github](https://github.com/abcdmatrix1/abcdmatrix1.github.io)
 
 
 ## Work
