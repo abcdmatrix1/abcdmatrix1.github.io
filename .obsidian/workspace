@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1ed32af67663509b",
+        "id": "ffdda37f07a2bccc",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "ecu2.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 192.5
   },
   "right": {
     "id": "8b1dc4b09f155e28",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ecu2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ecu2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,18 +116,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ecu2.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 244.5
   },
-  "active": "1ed32af67663509b",
+  "active": "ffdda37f07a2bccc",
   "lastOpenFiles": [
-    "README.md"
+    "ecu.md",
+    "ecu2.md",
+    "README.md",
+    "mbti8.md",
+    "sacra-pagina.md",
+    "day1.md"
   ]
 }
