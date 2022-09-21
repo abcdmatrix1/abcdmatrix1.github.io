@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ecu2.md",
-            "mode": "preview",
+            "file": "matri.md",
+            "mode": "source",
+            "backlinks": true,
             "source": true
           }
         }
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ecu2.md",
+                "file": "matri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ecu2.md",
+                "file": "matri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ecu2.md"
+                "file": "matri.md"
               }
             }
           }
@@ -130,9 +131,11 @@
   },
   "active": "ffdda37f07a2bccc",
   "lastOpenFiles": [
-    "ecu.md",
-    "ecu2.md",
+    "2022f-salmo.md",
+    "loaves-sacra.md",
     "README.md",
+    "ecu2.md",
+    "ecu.md",
     "mbti8.md",
     "sacra-pagina.md",
     "day1.md"
