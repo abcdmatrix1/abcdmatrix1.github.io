@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "loaves-sacra.md",
+            "file": "tree.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loaves-sacra.md",
+                "file": "tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loaves-sacra.md",
+                "file": "tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loaves-sacra.md"
+                "file": "tree.md"
               }
             }
           }
@@ -131,13 +131,15 @@
   },
   "active": "ffdda37f07a2bccc",
   "lastOpenFiles": [
-    "2022f-salmo.md",
+    "med0920.md",
+    "pencil0920.md",
+    "pencil0921.md",
     "loaves-sacra.md",
+    "2022f-salmo.md",
     "README.md",
     "ecu2.md",
     "ecu.md",
     "mbti8.md",
-    "sacra-pagina.md",
-    "day1.md"
+    "sacra-pagina.md"
   ]
 }
