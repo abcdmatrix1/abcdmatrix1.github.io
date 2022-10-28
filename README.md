@@ -51,4 +51,3 @@
 ## Work
 - [diccionario](https://dict.naver.com/)
 - [spell](http://speller.cs.pusan.ac.kr/)
-- [ecu2](./ecu2.md)
