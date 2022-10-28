@@ -7,3 +7,4 @@
 .DS_Store
 *.json
 .obsidian/*.*
+.obsidian/themes/obsidian_ia/*.*
