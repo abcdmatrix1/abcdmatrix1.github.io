@@ -1,9 +1,11 @@
 #### abcdmatrix1.github.io
 ###### 1998-2022 Sunghoon Choi
 
-| ![Disciple to Apostle](https://www.ncronline.org/files/styles/article_one-third_width/public/Jacob%27s%20ladder_1.jpg?itok=UuEU2Mpt) | ![Set Free](https://www.ncronline.org/files/styles/article_one-third_width/public/beelzebul_9.jpg?itok=4IXKzLkF) |
+| ![Disciple to Apostle](https://www.ncronline.org/files/styles/article_one-third_width/public/Jacob%27s%20ladder_1.jpg) | ![Set Free](https://www.ncronline.org/files/styles/article_one-third_width/public/beelzebul_9.jpg) |
 | :--: | :--: |
-| «Veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1:51) | |
+|  | |
+
+«Veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1:51)
 
 ## Spiritualidad
 * [Pencil preaching](https://www.ncronline.org/columns/pencil-preaching)

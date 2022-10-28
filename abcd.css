@@ -1,0 +1,31 @@
+/* basic attributes */
+html, body, div, span { margin: 0; padding: 0; font: 9pt 'Tahoma'; }
+body { background-color: rgb(253, 255, 174); }
+a { text-decoration: underline; color: #363636; }
+
+/* attributes for tables */
+.table { margin: 10px 10px; border-width: 3px; border-style: solid; width: auto; min-width: 210px; max-width: 300px;  }
+.headline { font-weight: bold; padding: 0.7em; }
+.links { padding: 1em 3em; background-color: rgb(253, 255, 174); color: black; }
+
+/* colors */
+.red { border-color: red; background-color: red; color: white; }
+.green { border-color: green; background-color: green; color: white; }
+.purple { border-color: purple; background-color: purple; color: white; }
+.orange { border-color: orange; background-color: orange; color: white; }
+.blue { border-color: blue; background-color: blue; color: white; }
+.teal { border-color: teal; background-color: teal; color: white; }
+
+/* categories */
+#a { position: relative; float: left; }
+#b { position: relative; float: left; }
+#c { position: relative; float: left; }
+#d { position: relative; float: left; }
+#e { position: relative; float: left; }
+#f { position: relative; float: left; }
+
+#x { text-align: center; margin: 30px auto; }
+
+/* list attributes */
+dl { }
+dt { line-height: 180%; }
