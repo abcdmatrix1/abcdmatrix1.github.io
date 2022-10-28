@@ -7,3 +7,9 @@
 .obsidian/appearance.json
 .obsidian/app.json
 .obsidian/workspace
+*.json
+.obsidian/themes/Sanctum.css
+.obsidian/themes/obsidian_ia.css
+.obsidian/themes/Big Sur Aesthetic.css
+.obsidian/themes/Sanctum/theme.css
+.obsidian/appearance.json
