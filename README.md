@@ -8,7 +8,7 @@
 «Veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1:51)
 
 ## Spiritualidad
-* [Pencil preaching](https://www.ncronline.org/columns/pencil-preaching)
+* [Pencil preaching](https://www.ncronline.org/sections/spirituality/pencil-preaching)
 * [Méditation](https://www.medaille-miraculeuse.fr/category/meditation)
 * [The Word](https://www.americamagazine.org/section/word)
 * [El Evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
