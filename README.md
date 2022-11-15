@@ -3,7 +3,7 @@
 
 | ![Disciple to Apostle](https://www.ncronline.org/files/styles/article_one-third_width/public/Jacob%27s%20ladder_1.jpg) | ![Set Free](https://www.ncronline.org/files/styles/article_one-third_width/public/beelzebul_9.jpg) |
 | :--: | :--: |
-|  | |
+|  |  |
 
 «Veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1:51)
 
@@ -18,7 +18,7 @@
 * [Novum Testamentum Graece](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/51/60001/69999/ch/06799b2ab9e1b95fa1f3e1d53cf2f7de/)
 * [USCCB Bible](https://bible.usccb.org/bible/mark/0)
 * [San Pablo](https://www.sanpablo.es/biblia-latinoamericana)
-* [Daily](http://maria.catholic.or.kr/mi_pr/missa/missa.asp)
+* [Daily aos](http://maria.catholic.or.kr/mi_pr/missa/missa.asp)
 
 
 ## Iglesia
@@ -41,6 +41,9 @@
 * [America Magazine](https://www.americamagazine.org/sections/current-issue)
 - [Workflowy blog](https://blog.workflowy.com/)
 - [Bear](https://blog.bear.app/)
+
+
+![Présentation de Marie au Temple ](https://www.medaille-miraculeuse.fr/wp-content/uploads/2020/11/Marie-presentee-au-Temple-Vitraux-de-la-nef-Cathedrale-Notre-Dame-Ottawa.jpg)
 
 
 ## acc
