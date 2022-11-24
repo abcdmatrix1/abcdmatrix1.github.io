@@ -1,29 +1,36 @@
-# 주님의 축일, 신비
+# Domini Nostri Iesu Christi Universorum Regis
 - 온 누리의 임금이신 우리 주 예수 그리스도왕 대축일
-Solemnidad de Nuestro Señor Jesucristo, Rey del Universo
+- Solemnidad de Nuestro Señor Jesucristo, Rey del Universo
+- The Solemnity of Our Lord Jesus Christ, King of the Universe
 
 ### Introitus
-- Rev 5:12; 1:6
-- Dignus est Agnus, qui occisus est, accipere virtutem et divinitatem et sapientiam et fortitudinem et honorem. Ipsi gloria et imperium in saecula saeculorum.
-- How worthy is the Lamb who was slain, to receive power and divinity, and wisdom and strength and honor. To him belong glory and power for ever and ever.
+`Rev 5:12; 1:6`
+> Dignus est Agnus, qui occisus est, accipere virtutem et divinitatem et sapientiam et fortitudinem et honorem. Ipsi gloria et imperium in saecula saeculorum.
+> How worthy is the Lamb who was slain, to receive power and divinity, and wisdom and strength and honor. To him belong glory and power for ever and ever.
+
+
 
 ## A
-### Lectio 1
-Ez 34:11-12, 15-17
-### Salmo
-Ps 23:1-2, 2-3, 5-6
-### Lectio 2
-1 Cor 15:20-26, 28
 
+### Lectio 1
+`Ez 34:11-12, 15-17`
+
+
+### Salmo
+`Ps 23:1-2, 2-3, 5-6`
+
+
+### Lectio 2
+`1 Cor 15:20-26, 28`
 > Brothers and sisters: Christ has been raised from the dead, the firstfruits of those who have fallen alseep. For since death came through man, the resurrection of the dead came also through man. For just as in Adam all die, so too in Christ shall all be brought to life, but each one in proper order: Christ the firstfruits; then, at his coming, those who belong to Christ; then comes the end, when he hands over the kingdom to his God and Father, when he has destroyed every sovereignty and every authority and power. 
 
 
 
-# cycle C
+# C
 
 ## lectio 1
 `2 Sm 5:1-3`
-In those days, all the tribes of Israel came to David in Hebron and said:
+> In those days, all the tribes of Israel came to David in Hebron and said:
 "Here we are, your bone and your flesh.
 In days past, when Saul was our king,
 it was you who led the Israelites out and brought them back.
@@ -41,18 +48,21 @@ Así pues, los ancianos de Israel fueron a Hebrón a ver a David, rey de Judá. 
 
 
 ## salmo
-Ps 122:1-2, 3-4, 4-5
-R. (cf. 1) Let us go rejoicing to the house of the Lord.
+`Ps 122:1-2, 3-4, 4-5~
+*R. (cf. 1) Let us go rejoicing to the house of the Lord.*
+
 I rejoiced because they said to me,
 "We will go up to the house of the LORD."
 And now we have set foot
 within your gates, O Jerusalem.
-R. Let us go rejoicing to the house of the Lord.
+
+
 Jerusalem, built as a city
 with compact unity.
 To it the tribes go up,
 the tribes of the LORD.
-R. Let us go rejoicing to the house of the Lord.
+
+
 According to the decree for Israel,
 to give thanks to the name of the LORD.
 In it are set up judgment seats,
@@ -60,7 +70,7 @@ seats for the house of David.
 
 ## lectio 2
 `Col 1:12-20`
-Brothers and sisters:
+> Brothers and sisters:
 Let us give thanks to the Father,
 who has made you fit to share
 in the inheritance of the holy ones in light.
@@ -86,8 +96,8 @@ through him, whether those on earth or those in heaven.
 
 
 ## evangelio
-Lk 23:35-43
-The rulers sneered at Jesus and said,
+`Lk 23:35-43`
+> The rulers sneered at Jesus and said,
 "He saved others, let him save himself
 if he is the chosen one, the Christ of God."
 Even the soldiers jeered at him.
