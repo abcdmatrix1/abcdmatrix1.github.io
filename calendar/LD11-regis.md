@@ -6,6 +6,7 @@
 ### Introitus
 `Rev 5:12; 1:6`
 > Dignus est Agnus, qui occisus est, accipere virtutem et divinitatem et sapientiam et fortitudinem et honorem. Ipsi gloria et imperium in saecula saeculorum.
+
 > How worthy is the Lamb who was slain, to receive power and divinity, and wisdom and strength and honor. To him belong glory and power for ever and ever.
 
 
@@ -22,8 +23,9 @@
 
 ### Lectio 2
 `1 Cor 15:20-26, 28`
-> Brothers and sisters: Christ has been raised from the dead, the firstfruits of those who have fallen alseep. For since death came through man, the resurrection of the dead came also through man. For just as in Adam all die, so too in Christ shall all be brought to life, but each one in proper order: Christ the firstfruits; then, at his coming, those who belong to Christ; then comes the end, when he hands over the kingdom to his God and Father, when he has destroyed every sovereignty and every authority and power. 
+> Brothers and sisters[^1]: Christ has been raised from the dead, the firstfruits of those who have fallen alseep. For since death came through man, the resurrection of the dead came also through man. For just as in Adam all die, so too in Christ shall all be brought to life, but each one in proper order: Christ the firstfruits; then, at his coming, those who belong to Christ; then comes the end, when he hands over the kingdom to his God and Father, when he has destroyed every sovereignty and every authority and power. 
 
+[^1]: ref 1
 
 
 # C
@@ -72,7 +74,7 @@ seats for the house of David.
 `Col 1:12-20`
 > Brothers and sisters:
 Let us give thanks to the Father,
-who has made you fit to share
+who has made you fit to share[^2]
 in the inheritance of the holy ones in light.
 He delivered us from the power of darkness
 and transferred us to the kingdom of his beloved Son,
@@ -120,3 +122,6 @@ Then he said,
 He replied to him,
 "Amen, I say to you,
 today you will be with me in Paradise."
+
+
+[^2]: ref 2
