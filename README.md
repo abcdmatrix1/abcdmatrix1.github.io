@@ -10,7 +10,7 @@
 
 ## Agendas Actuales
 * [JMJ 2023](https://www.lisboa2023.org/es/lisboa2023/el-tema)
-* [Universorum Regis](./calendar/LD11-regis.md)
+* [Calendario Liturgico](./LC.md) [Universorum Regis](./calendar/LD11-regis.md)
 
 
 ## Spiritualidad
