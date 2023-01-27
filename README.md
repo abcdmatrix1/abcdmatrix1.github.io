@@ -20,7 +20,7 @@
 * [El Evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
 
 
-[!Conversion de San Pablo](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-01/conversion%20of%20saul.jpg?itok=pdmgDbV5)
+![Conversion de San Pablo](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-01/conversion%20of%20saul.jpg?itok=pdmgDbV5)
 
 
 ## Biblia
