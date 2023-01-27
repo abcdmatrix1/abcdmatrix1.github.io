@@ -20,6 +20,9 @@
 * [El Evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
 
 
+[!Conversion de San Pablo](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-01/conversion%20of%20saul.jpg?itok=pdmgDbV5)
+
+
 ## Biblia
 * [Novum Testamentum Graece](https://www.academic-bible.com/en/online-bibles/novum-testamentum-graece-na-28/read-the-bible-text/bibel/text/lesen/stelle/51/60001/69999/ch/06799b2ab9e1b95fa1f3e1d53cf2f7de/)
 * [USCCB Bible](https://bible.usccb.org/bible/mark/0)
@@ -37,16 +40,22 @@
 * [Metz](http://metz.catholique.fr)
 * [La Voce del Nord est](http://lavocedelnordest.eu)
 
-## Libros
-* [aladin](http://www.aladin.co.kr/)
-* [yes24](http://www.yes24.com/)
-
-
 ## Novedades
 * [Zenit](https://es.zenit.org/)
 * [America Magazine](https://www.americamagazine.org/sections/current-issue)
 - [Workflowy blog](https://blog.workflowy.com/)
 - [Bear](https://blog.bear.app/)
+
+- [JMJ](http://lisboa2023.org) 
+
+
+## Libros
+* [aladin](http://www.aladin.co.kr/)
+* [yes24](http://www.yes24.com/)
+* [kyobobook](http://www.kyobobook.co.kr)
+
+
+
 
 
 ![Présentation de Marie au Temple ](https://www.medaille-miraculeuse.fr/wp-content/uploads/2020/11/Marie-presentee-au-Temple-Vitraux-de-la-nef-Cathedrale-Notre-Dame-Ottawa.jpg)
