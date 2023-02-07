@@ -10,7 +10,8 @@
 
 ## Agendas Actuales
 * [JMJ 2023](https://www.lisboa2023.org/es/lisboa2023/el-tema)
-* [Calendario Liturgico](./LC.md) [Universorum Regis](./calendar/LD11-regis.md)
+* [Calendario Liturgico](./LC.md) 
+* [Universorum Regis](./calendar/LD11-regis.md)
 
 
 ## Spiritualidad
@@ -58,7 +59,6 @@
 
 
 
-![Présentation de Marie au Temple ](https://www.medaille-miraculeuse.fr/wp-content/uploads/2020/11/Marie-presentee-au-Temple-Vitraux-de-la-nef-Cathedrale-Notre-Dame-Ottawa.jpg)
 
 
 ## acc
