@@ -11,8 +11,8 @@
 
 ## Agendas Actuales
 * [JMJ 2023](https://www.lisboa2023.org/es/lisboa2023/el-tema)
-* [Calendario Liturgico](./LC.md) 
-    * [Universorum Regis](./calendar/LD11-regis.md)
+* [Calendarium Romanum Generale](./LC.md) 
+    * [Universorum Regis](./lc/LD11-regis.md)
 
 
 
