@@ -1,4 +1,10 @@
 # PROPRIUM DE TEMPORE
+> [inicio](./README.md)
+
+![Conversion de San Pablo](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-01/conversion%20of%20saul.jpg?itok=pdmgDbV5)
+
+
+
 ## Tempus Adventus
 * [workflowy](https://workflowy.com/s/tempus-adventus/gXIb6iL9zKoN1vLs)
 * [Hebdomada Prima Adventus](./calendar/LTA-1.md)
@@ -10,8 +16,11 @@
 ## Tempus Nativitatis
 
 
+
 ----
 ## Tempus Quadragesimae
+
+
 
 
 ----
@@ -21,6 +30,11 @@
 * Feria II Hebdomadæ Sanctæ
 * Feria II Hebdomadæ Sanctæ
 * Feria III Hebdomadæ Sanctæ
+
+
+
+----
+
 
 ### Sacrum Triduum Paschale
 * Feria V in Cena Domini
@@ -50,6 +64,11 @@
 
 ----
 # TEMPORE PER ANNUM OCCURRENTES
+
+![Présentation de Marie au Temple ](https://www.medaille-miraculeuse.fr/wp-content/uploads/2020/11/Marie-presentee-au-Temple-Vitraux-de-la-nef-Cathedrale-Notre-Dame-Ottawa.jpg)
+
+----
+
 
 
 
@@ -99,4 +118,4 @@
 
 ----
 # Mariae
-![Présentation de Marie au Temple ](https://www.medaille-miraculeuse.fr/wp-content/uploads/2020/11/Marie-presentee-au-Temple-Vitraux-de-la-nef-Cathedrale-Notre-Dame-Ottawa.jpg)
+
