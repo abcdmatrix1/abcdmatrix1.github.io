@@ -1,7 +1,6 @@
 # Calendarium Romanum Generale
 > [inicio](./README.md)
 
-
 ## PROPRIUM DE TEMPORE
 * Tempus Adventus
 * Tempus Nativitatis

@@ -8,12 +8,8 @@
 «Veréis el cielo abierto y a los ángeles de Dios subir y bajar sobre el Hijo del hombre» (Jn 1:51)
 
 ----
-
-## Agendas Actuales
-* [JMJ 2023](https://www.lisboa2023.org/es/lisboa2023/el-tema)
+ 
 * [Calendarium Romanum Generale](./LC.md) 
-    * [Universorum Regis](./lc/LD11-regis.md)
-
 
 
 ## Spiritualidad
