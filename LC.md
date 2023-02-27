@@ -2,16 +2,26 @@
 > [inicio](./README.md)
 
 ## PROPRIUM DE TEMPORE
-* Tempus Adventus
-* Tempus Nativitatis
-* Tempus [Quadragesimæ](./lc/LTQ.md)
-    * [Triduum Paschale](./lc/LTQT.md)
-* [Tempus Paschale](./lc/LTP.md)
+* [Tempus Adventus](./lc/LA.md)
+* [Tempus Nativitatis](./lc/LN.md)
+* [Tempus Quadragesimæ](./lc/LQ.md)
+    * [Hebdomada Sancta](./lc/LQ/#hebdomada-sancta)
+    * [Triduum Paschale](./lc/quadragesima/LTRD.md)
+* [Tempus Paschale](./lc/LP.md)
 * [Tempus per Annum](./lc/LH.md)
 
 ----
 
-* Solemnitatis Domini
-* Solemnitatis Mariae
-* Solemnitatis Apostoli
-* Sanctorum
+* [Solemnitatis Domini](./lc/LD.md)
+* [Solemnitatis Mariae](./lc/LM.md)
+
+----
+* Proprium de sanctis 성인 고유
+
+
+
+in dominicis adventus et quadragesimae
+in feriis adventus quadragesimae et ad missam pro defunctis
+
+
+

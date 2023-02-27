@@ -1,4 +1,8 @@
 # Domini Nostri Iesu Christi Universorum Regis
+##### Dominica ultima per annum
+> [inicio](../README.md) / [LC](../LC.md)
+
+
 - 온 누리의 임금이신 우리 주 예수 그리스도왕 대축일
 - Solemnidad de Nuestro Señor Jesucristo, Rey del Universo
 - The Solemnity of Our Lord Jesus Christ, King of the Universe
