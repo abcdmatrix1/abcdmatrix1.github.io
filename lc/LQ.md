@@ -6,11 +6,12 @@
 
 ## Dominica
 * [Dominica Prima Quadragesimae](./quadragesima/LTQ-1.md)
-* [Dominica Secunda Qudragesimae](./quadragesima/LTQ-2.md)
-* 
+* [Dominica Secunda Quadragesimae](./quadragesima/LTQ-2.md)
+* [Dominica Tertia Quadragesimae](./quadragesima/LTQ-3.md)
 
 ## Feriis
 * [Hebdomada Prima](./quadragesima/LTQ-1F.md)
+* [Hebdomada Secunda](./quadragesima/LTQ-2F.md)
 
 
 ----

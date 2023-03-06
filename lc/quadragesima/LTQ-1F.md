@@ -172,40 +172,43 @@ he did not carry it out.
 ### psalmus responsorialis
 `Ps 51:3-4, 12-13, 18-19`  
 **부서지고 뉘우치는 마음을, 하느님, 당신은 업신여기지 않으시나이다.**  
-○ 하느님, 당신 자애로 저를 불쌍히 여기소서. 당신의 크신 자비로 저의 죄악을 없애 주소서. 제 허물을 말끔히 씻어 주시고, 제 잘못을 깨끗이 지워 주소서. ◎
-○ 하느님, 제 마음을 깨끗이 만드시고, 제 안에 굳건한 영을 새롭게 하소서. 당신 앞에서 저를 내치지 마시고, 당신의 거룩한 영을 제게서 거두지 마소서. ◎
-○ 당신은 제사를 즐기지 않으시기에, 제가 번제를 드려도 반기지 않으시리이다. 하느님께 드리는 제물은 부서진 영. 부서지고 뉘우치는 마음을, 하느님, 당신은 업신여기지 않으시나이다.
+* 하느님, 당신 자애로 저를 불쌍히 여기소서.  
+당신의 크신 자비로 저의 죄악을 없애 주소서.  
+제 허물을 말끔히 씻어 주시고, 제 잘못을 깨끗이 지워 주소서.  
+* 하느님, 제 마음을 깨끗이 만드시고, 제 안에 굳건한 영을 새롭게 하소서.  
+당신 앞에서 저를 내치지 마시고, 당신의 거룩한 영을 제게서 거두지 마소서.  
+* 당신은 제사를 즐기지 않으시기에, 제가 번제를 드려도 반기지 않으시리이다.  
+하느님께 드리는 제물은 부서진 영.  
+부서지고 뉘우치는 마음을, 하느님, 당신은 업신여기지 않으시나이다.
 
 ### evangelio
-`Lk 11,29-32`  
-While still more people gathered in the crowd, Jesus said to them,  
-"This generation is an evil generation;
-it seeks a sign, but no sign will be given it,
-except the sign of Jonah.
-Just as Jonah became a sign to the Ninevites,
-so will the Son of Man be to this generation.
-At the judgment
-the queen of the south will rise with the men of this generation
-and she will condemn them,
-because she came from the ends of the earth
-to hear the wisdom of Solomon,
-and there is something greater than Solomon here.
-At the judgment the men of Nineveh will arise with this generation
-and condemn it,
-because at the preaching of Jonah they repented,
+`Lk 11,29-32`  While still more people gathered in the crowd, Jesus said to them,  
+"This generation is an evil generation;  
+it seeks a sign, but no sign will be given it, except the sign of Jonah.  
+Just as Jonah became a sign to the Ninevites,  
+so will the Son of Man be to this generation.  
+At the judgment  
+the queen of the south will rise with the men of this generation  
+and she will condemn them,  
+because she came from the ends of the earth  
+to hear the wisdom of Solomon,  
+and there is something greater than Solomon here.  
+At the judgment the men of Nineveh will arise with this generation  
+and condemn it,  
+because at the preaching of Jonah they repented,  
 and there is something greater than Jonah here."
 
-그때에 29 군중이 점점 더 모여들자 예수님께서 말씀하기 시작하셨다.
+> 그때에 29 군중이 점점 더 모여들자 예수님께서 말씀하기 시작하셨다.  
 “이 세대는 악한 세대다. 이 세대가 표징을 요구하지만
-요나 예언자의 표징밖에는 어떠한 표징도 받지 못할 것이다.
+요나 예언자의 표징밖에는 어떠한 표징도 받지 못할 것이다.  
 30 요나가 니네베 사람들에게 표징이 된 것처럼,
-사람의 아들도 이 세대 사람들에게 그러할 것이다.
+사람의 아들도 이 세대 사람들에게 그러할 것이다.  
 31 심판 때에 남방 여왕이 이 세대 사람들과 함께 되살아나
-이 세대 사람들을 단죄할 것이다.
+이 세대 사람들을 단죄할 것이다.  
 그 여왕이 솔로몬의 지혜를 들으려고 땅끝에서 왔기 때문이다.
-그러나 보라, 솔로몬보다 더 큰 이가 여기에 있다.
+그러나 보라, 솔로몬보다 더 큰 이가 여기에 있다.  
 32 심판 때에 니네베 사람들이 이 세대와 함께 다시 살아나
-이 세대를 단죄할 것이다.
+이 세대를 단죄할 것이다.  
 그들이 요나의 설교를 듣고 회개하였기 때문이다.
 그러나 보라, 요나보다 더 큰 이가 여기에 있다.”
 ----
@@ -213,28 +216,25 @@ and there is something greater than Jonah here."
 ## feria 5 jueves
 
 ### lectio i
-`Est C:12, 14-16, 23-25`
-Queen Esther, seized with mortal anguish,
-had recourse to the LORD.
-She lay prostrate upon the ground, together with her handmaids,
-from morning until evening, and said:
-"God of Abraham, God of Isaac, and God of Jacob, blessed are you.
-Help me, who am alone and have no help but you,
-for I am taking my life in my hand.
+`Est C:12, 14-16, 23-25` Queen Esther, seized with mortal anguish, had recourse to the LORD.  
+She lay prostrate upon the ground, together with her handmaids, from morning until evening, and said:  
+"God of Abraham, God of Isaac, and God of Jacob, blessed are you.  
+Help me, who am alone and have no help but you,  
+for I am taking my life in my hand.  
 As a child I used to hear from the books of my forefathers
-that you, O LORD, always free those who are pleasing to you.
+that you, O LORD, always free those who are pleasing to you.  
 Now help me, who am alone and have no one but you,
 O LORD, my God.
 
-"And now, come to help me, an orphan.
+"And now, come to help me, an orphan.  
 Put in my mouth persuasive words in the presence of the lion
-and turn his heart to hatred for our enemy,
-so that he and those who are in league with him may perish.
-Save us from the hand of our enemies;
-turn our mourning into gladness
+and turn his heart to hatred for our enemy,  
+so that he and those who are in league with him may perish.  
+Save us from the hand of our enemies;  
+turn our mourning into gladness  
 and our sorrows into wholeness."
 
-그 무렵 17(12) 에스테르 왕비는
+> 그 무렵 17(12) 에스테르 왕비는
 죽음의 공포에 사로잡혀 주님께 피신처를 구하였다.
 17(14) 그러고 나서 이스라엘의 주님께 이렇게 기도드렸다.
 “저의 주님, 저희의 임금님, 당신은 유일한 분이십니다.
@@ -256,33 +256,32 @@ and our sorrows into wholeness."
 
 
 ### psalmus
-시편 138(137),1과 2ㄴ.2ㄱㄷ과 3.7ㄹ-8(◎ 3ㄱ 참조)
-◎ 주님, 제가 부르짖던 날, 당신은 응답하셨나이다.
-○ 주님, 제 마음 다하여 당신을 찬송하나이다. 제 입의 말씀을 들어 주시기에, 천사들 앞에서 찬미 노래 부르나이다. 거룩한 성전 앞에 엎드리나이다. ◎
-○ 당신은 자애롭고 진실하시니, 당신 이름 찬송하나이다. 제가 부르짖던 날, 당신이 응답하시고, 저를 당당하게 세우시니, 제 영혼에 힘이 솟았나이다. ◎
-○ 주님은 오른손으로 저를 구하시나이다. 나를 위하여 모든 것을 이루시리라! 주님, 당신 자애는 영원하시옵니다. 당신 손수 빚으신 것들 저버리지 마소서. ◎
+시편 138(137),1과 2ㄴ.2ㄱㄷ과 3.7ㄹ-8  
+**(3ㄱ)주님, 제가 부르짖던 날, 당신은 응답하셨나이다.**
+* 주님, 제 마음 다하여 당신을 찬송하나이다. 제 입의 말씀을 들어 주시기에, 천사들 앞에서 찬미 노래 부르나이다. 거룩한 성전 앞에 엎드리나이다.
+* 당신은 자애롭고 진실하시니, 당신 이름 찬송하나이다. 제가 부르짖던 날, 당신이 응답하시고, 저를 당당하게 세우시니, 제 영혼에 힘이 솟았나이다.
+* 주님은 오른손으로 저를 구하시나이다. 나를 위하여 모든 것을 이루시리라! 주님, 당신 자애는 영원하시옵니다. 당신 손수 빚으신 것들 저버리지 마소서.
 
 
 ### evangelio
 `Mt 7,7-12`
 Jesus said to his disciples:  
-"Ask and it will be given to you;
-seek and you will find;
-knock and the door will be opened to you.
-For everyone who asks, receives; and the one who seeks, finds;
-and to the one who knocks, the door will be opened.
-Which one of you would hand his son a stone
-when he asked for a loaf of bread,
-or a snake when he asked for a fish?
-If you then, who are wicked,
-know how to give good gifts to your children,
+"Ask and it will be given to you;  
+seek and you will find;  
+knock and the door will be opened to you.  
+For everyone who asks, receives; and the one who seeks, finds;  
+and to the one who knocks, the door will be opened.  
+Which one of you would hand his son a stone  
+when he asked for a loaf of bread,  
+or a snake when he asked for a fish?  
+If you then, who are wicked,  
+know how to give good gifts to your children,  
 how much more will your heavenly Father give good things
-to those who ask him.
-
-"Do to others whatever you would have them do to you.
+to those who ask him.  
+"Do to others whatever you would have them do to you.  
 This is the law and the prophets."
 
-그때에 예수님께서 제자들에게 말씀하셨다.
+> 그때에 예수님께서 제자들에게 말씀하셨다.
 7 “청하여라, 너희에게 주실 것이다. 찾아라, 너희가 얻을 것이다.
 문을 두드려라, 너희에게 열릴 것이다.
 8 누구든지 청하는 이는 받고, 찾는 이는 얻고,
