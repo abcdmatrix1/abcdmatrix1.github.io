@@ -117,6 +117,9 @@ Porque seréis medidos con la medida con que midáis.»
 
 > Ps 31 주님, 당신 자애로 저를 구하소서.
 
+[Do we know what we are asking?, two thieves](https://www.ncronline.org/spirituality/pencil-preaching/mothers-request)
+
+
 ### evangelio
 `마태 20,17-28`   
 17 예수님께서 예루살렘으로 올라가실 때,
@@ -172,6 +175,8 @@ Porque seréis medidos con la medida con que midáis.»
 
 > Ps 1 행복하여라, 주님을 신뢰하는 사람!
 
+
+[gap between](https://www.ncronline.org/spirituality/pencil-preaching/god-poor)
 
 ### evangelio
 `루카 16,19-31`  
@@ -252,7 +257,7 @@ Porque seréis medidos con la medida con que midáis.»
 
 > ps 105 주님이 이루신 기적을 기억하여라.
 
-
+[상속자, 아들이 우리](https://www.ncronline.org/spirituality/pencil-preaching/dreamer)
 
 ### evangelio
 `마태 21,33-43.45-46`  
