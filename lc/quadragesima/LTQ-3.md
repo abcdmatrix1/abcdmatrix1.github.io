@@ -15,23 +15,20 @@
 
 ### Lectio I
 `Ex 17:3-7`  
-그 무렵 백성은 3 목이 말라, 모세에게 불평하며 말하였다.
-“어쩌자고 우리를 이집트에서 데리고 올라왔소?
-우리와 우리 자식들과 가축들을 목말라 죽게 하려고 그랬소?”
-4 모세가 주님께 부르짖었다.
-“이 백성에게 제가 무엇을 해야 합니까?
-이제 조금만 있으면 저에게 돌을 던질 것 같습니다.”
-5 그러자 주님께서 모세에게 말씀하셨다.
-“이스라엘의 원로들 가운데 몇 사람을 데리고 백성보다 앞서 나아가거라.
-나일 강을 친 너의 지팡이를 손에 잡고 가거라.
-6 이제 내가 저기 호렙의 바위 위에서 네 앞에 서 있겠다.
-네가 그 바위를 치면 그곳에서 물이 터져 나와,
-백성이 그것을 마시게 될 것이다.”
-모세는 이스라엘의 원로들이 보는 앞에서 그대로 하였다.
-7 그는 이스라엘 자손들이 시비하였다 해서,
-그리고 그들이
-“주님께서 우리 가운데에 계시는가, 계시지 않는가?” 하면서
-주님을 시험하였다 해서, 그곳의 이름을 마싸와 므리바라 하였다.
+그 무렵 백성은 목이 말라, 모세에게 불평하며 말하였다. “어쩌자고 우리를 이집트에서 데리고 올라왔소? 우리와 우리 자식들과 가축들을 목말라 죽게 하려고 그랬소?”  
+모세가 주님께 부르짖었다. “이 백성에게 제가 무엇을 해야 합니까? **이제 조금만 있으면 저에게 돌을 던질 것 같습니다.”**  
+
+그러자 주님께서 모세에게 말씀하셨다.
+“이스라엘의 원로들 가운데 몇 사람을 데리고 백성보다 **앞서 나아가거라**. 나일 강을 친 너의 지팡이를 손에 잡고 **가거라**. 이제 **내가 저기 호렙의 바위 위에서 네 앞에 서 있겠다.**  **네가 그 바위를 치면** 그곳에서 물이 터져 나와, 백성이 그것을 마시게 될 것이다.”  
+
+모세는 이스라엘의 원로들이 보는 앞에서 그대로 하였다. 그는 이스라엘 자손들이 시비하였다 해서,
+그리고 그들이 “주님께서 우리 가운데에 계시는가, 계시지 않는가?” 하면서 주님을 시험하였다 해서, 그곳의 이름을 마싸와 므리바라 하였다.
+
+>  Pero el pueblo, sediento, murmuraba de Moisés: 
+«¿Por qué nos has sacado de Egipto para matarnos de sed a nosotros, a nuestros hijos y a nuestros ganados?»  
+Entonces Moisés clamó a Yahvé y dijo:  
+«¿Qué puedo hacer con este pueblo? Por poco me apedrean.»  
+Yahvé respondió a Moisés: «Pasa delante del pueblo, toma contigo algunos de los ancianos de Israel; lleva también en tu mano el cayado con que golpeaste el Río y vete. 6 Yo estaré allí ante ti, junto a la roca del Horeb* ; golpea la roca y saldrá agua para que beba el pueblo.» Moisés lo hizo así a la vista de los ancianos de Israel. 7 Y llamó a aquel lugar Masá y Meribá* , a causa de la disputa de los israelitas, y por haber tentado a Yahvé, diciendo: «¿Está Yahvé entre nosotros o no?»
 
 > ps 95(94) 오늘 주님 목소리에 귀를 기울여라. 너희 마음을 무디게 하지 마라.
 
@@ -53,6 +50,9 @@
 그리스도께서 우리를 위하여 돌아가심으로써,
 하느님께서는 우리에 대한 당신의 사랑을 증명해 주셨습니다.
 
+
+[the ancient quarrel, another level, ongoing conversation, and how thirsty are we?](https://www.ncronline.org/spirituality/pencil-preaching/living-water)
+
 ### Evangelio
 `Jn 4:5-42`  
 그때에 5 예수님께서는 야곱이 자기 아들 요셉에게 준 땅에서 가까운 시카르라는 사마리아의 한 고을에 이르셨다. 6 그곳에는 야곱의 우물이 있었다. 길을 걷느라 지치신 예수님께서는 그 우물가에 앉으셨다. 때는 정오 무렵이었다.  
@@ -71,11 +71,11 @@
 그분께서 저희에게 이 우물을 주셨습니다.
 그분은 물론 그분의 자녀들과 가축들도 이 우물물을 마셨습니다.”  
 
-13 예수님께서 그 여자에게 이르셨다. “이 물을 마시는 자는 누구나 다시 목마를 것이다.
-14 그러나 내가 주는 물을 마시는 사람은 영원히 목마르지 않을 것이다.
+예수님께서 그 여자에게 이르셨다. “이 물을 마시는 자는 누구나 다시 목마를 것이다.
+그러나 내가 주는 물을 마시는 사람은 영원히 목마르지 않을 것이다.
 내가 주는 물은 그 사람 안에서 물이 솟는 샘이 되어
 영원한 생명을 누리게 할 것이다.”
-15 그러자 그 여자가 예수님께 말하였다. “선생님, 그 물을 저에게 주십시오.
+15 그러자 그 여자가 예수님께 말하였다. **“선생님, 그 물을 저에게 주십시오.**
 그러면 제가 목마르지도 않고, 또 물을 길으러 이리 나오지 않아도 되겠습니다.”
 
 16 예수님께서 그 여자에게, “가서 네 남편을 불러 이리 함께 오너라.” 하고 말씀하셨다. 17 그 여자가 “저는 남편이 없습니다.” 하고 대답하자, 예수님께서 말씀하셨다. “‘저는 남편이 없습니다.’ 한 것은 맞는 말이다. 18 너는 남편이 다섯이나 있었지만 지금 함께 사는 남자도 남편이 아니니, 너는 바른대로 말하였다.”  
@@ -109,6 +109,9 @@
 39 그 고을에 사는 많은 사마리아인들이 예수님을 믿게 되었다. 그 여자가 “저분은 제가 한 일을 모두 알아맞혔습니다.” 하고 증언하는 말을 하였기 때문이다.  
 40 이 사마리아인들이 예수님께 와서 자기들과 함께 머무르시기를 청하자, 그분께서는 거기에서 이틀을 머무르셨다. 41 그리하여 더 많은 사람이 그분의 말씀을 듣고 믿게 되었다.  
 42 그들이 그 여자에게 말하였다. “우리가 믿는 것은 이제 당신이 한 말 때문이 아니오. 우리가 직접 듣고 이분께서 참으로 세상의 구원자이심을 알게 되었소.”  
+
+> Tenía que pasar por Samaría. 5 Llegó a un pueblo de Samaría llamado Sicar, cerca de la heredad que Jacob legó a su hijo José. 6 Allí estaba el pozo de Jacob. Jesús, que estaba cansado de tanto andar, se había sentado junto al pozo. Era alrededor de la hora sexta. 7 Llegó entonces una mujer de Samaría a sacar agua. Jesús le dijo: «Dame de beber.» 8 (Sus discípulos se habían ido al pueblo a comprar comida.) La samaritana le respondió: 9 «¿Cómo tú, siendo judío, me pides de beber a mí, que soy una mujer de Samaría*?» (Es que los judíos no se tratan con los samaritanos.) 10 Jesús le respondió: «Si conocieras el don de Dios y supieras quién es el que te dice ‘Dame de beber’, tú se lo habrías pedido a él, y él te habría dado agua viva.» 11 Contestó la mujer: «Señor, el pozo es hondo y no tienes con qué sacarla; ¿cómo es que tienes esa agua viva? 12 ¿Te crees más que nuestro padre Jacob, que nos dio el pozo, del que bebieron él, sus hijos y sus ganados?» 13 Jesús le respondió: «Todo el que beba de esta agua volverá a tener sed; 14 pero el que beba del agua que yo le dé no tendrá sed jamás, pues el agua que yo le dé se convertirá en él en fuente de agua que brota para vida eterna.» 15 Le dijo la mujer: «Señor, dame de esa agua, para no volver a tener sed y no tener que venir aquí a sacarla.» 16 Él le contestó: «Vete, llama a tu marido y vuelve acá.» 17 La mujer le dijo: «No tengo marido.» Jesús le respondió: «Bien has dicho que no tienes marido, 18 porque has tenido cinco, y el que ahora tienes no es marido tuyo. En eso has dicho la verdad.»   
+La mujer replicó: «Señor, veo que eres un profeta. 20 Nuestros padres adoraron en este monte*, pero vosotros decís que el lugar donde se debe adorar es Jerusalén.» 21 Jesús le contestó: «Créeme, mujer, que llega la hora en que ni en este monte ni en Jerusalén adoraréis al Padre. 22 Vosotros adoráis lo que no conocéis; nosotros adoramos lo que conocemos, porque la salvación viene de los judíos. 23 Pero llega la hora (ya estamos en ella) en que los adoradores verdaderos adorarán al Padre en espíritu y en verdad*, porque así quiere el Padre que sean los que le adoren. 24 Dios es espíritu, y los que adoran deben adorar en espíritu y verdad.» 25 Le dijo la mujer: «Sé que va a venir el Mesías, el llamado Cristo. Cuando venga, nos lo desvelará todo*.» 26 Jesús le respondió: «Yo soy, el que está hablando contigo.» 27 En esto llegaron sus discípulos y se sorprendieron de que hablara con una mujer. Pero nadie le preguntó qué quería o qué hablaba con ella. 28 La mujer, dejando su cántaro, corrió* al pueblo y dijo a la gente: 29 «Venid a ver a un hombre que me ha dicho todo lo que he hecho. ¿No será el Cristo?» 30 Salieron del pueblo y se encaminaron hacia él. 31 Entretanto, los discípulos le insistían: «Rabbí, come.» 32 Pero él replicó: «Yo tengo para comer un alimento que vosotros no sabéis.» 33 Los discípulos se decían entre sí: «¿Le habrá traído alguien de comer?» 34 Jesús les dijo: «Mi alimento es hacer la voluntad del que me ha enviado* y llevar a cabo su obra. 35 ¿No decís vosotros: ‘Cuatro meses más y llega la siega’? Pues bien, yo os digo: Alzad vuestros ojos y ved los campos, que amarillean ya para la siega*. Ya 36 el segador recibe el salario, y recoge fruto para vida eterna, de modo que el sembrador se alegra igual que el segador. 37 Y en esto resulta verdadero el refrán de que uno es el sembrador y otro el segador: 38 yo os he enviado a segar donde vosotros no os habéis fatigado. Otros se fatigaron y vosotros os aprovecháis de su fatiga.» 39 Muchos samaritanos de aquel pueblo creyeron en él por las palabras de la mujer, que atestiguaba: «Me ha dicho todo lo que he hecho.» 40 Cuando llegaron a él los samaritanos, le rogaron que se quedara con ellos. Y Jesús se quedó allí dos días. 41 Fueron muchos más los que creyeron por sus palabras*, 42 y decían a la mujer: «Ya no creemos por tus palabras, pues nosotros mismos hemos oído y sabemos que éste es verdaderamente el Salvador del mundo.»
 
 
 ----
