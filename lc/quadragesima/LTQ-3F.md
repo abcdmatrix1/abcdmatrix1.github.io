@@ -7,73 +7,45 @@
 
 ## feria 2 lunes
 ### lectio I
-`1열왕 5,1-15ㄷ`  그 무렵 1 아람 임금의 군대 장수인 나아만은 그의 주군이 아끼는 큰 인물이었다.
-주님께서 나아만을 시켜 아람에 승리를 주셨던 것이다.
-나아만은 힘센 용사였으나 나병 환자였다.
-2 한번은 아람군이 약탈하러 나갔다가,
-이스라엘 땅에서 어린 소녀 하나를 사로잡아 왔는데,
-그 소녀는 나아만의 아내 곁에 있게 되었다.
-3 소녀가 자기 여주인에게 말하였다.
-“주인 어르신께서 사마리아에 계시는 예언자를 만나 보시면 좋겠습니다.
-그분이라면 주인님의 나병을 고쳐 주실 텐데요.”
+`2열왕 5,1-15ㄷ`  그 무렵 1 아람 임금의 군대 장수인 나아만은 그의 주군이 아끼는 큰 인물이었다.
+**주님께서 나아만을 시켜 아람에 승리를 주셨던 것이다. 나아만은 힘센 용사였으나 나병 환자였다.**
+2 한번은 아람군이 약탈하러 나갔다가, 이스라엘 땅에서 어린 소녀 하나를 사로잡아 왔는데, 그 소녀는 나아만의 아내 곁에 있게 되었다.
+소녀가 자기 여주인에게 말하였다. “주인 어르신께서 사마리아에 계시는 예언자를 만나 보시면 좋겠습니다. 그분이라면 주인님의 나병을 고쳐 주실 텐데요.”
 4 그래서 나아만은 자기 주군에게 나아가,
 이스라엘 땅에서 온 소녀가 이러이러한 말을 하였다고 아뢰었다.
 5 그러자 아람 임금이 말하였다.
 “내가 이스라엘 임금에게 편지를 써 보낼 터이니, 가 보시오.”
-이리하여 나아만은 은 열 탈렌트와 금 육천 세켈과 예복 열 벌을 가지고 가서,
-6 이스라엘 임금에게 편지를 전하였다.
-그 편지에는 이렇게 쓰여 있었다.
-“이 편지가 임금님에게 닿는 대로, 내가 나의 신하 나아만을
-임금님에게 보냈다는 사실을 알고, 그의 나병을 고쳐 주십시오.”
-7 이스라엘 임금은 이 편지를 읽고 옷을 찢으면서 말하였다.
-“내가 사람을 죽이고 살리시는 하느님이란 말인가?
-그가 사람을 보내어 나에게 나병을 고쳐 달라고 하다니!
+
+이리하여 나아만은 은 열 탈렌트와 금 육천 세켈과 예복 열 벌을 가지고 가서, 이스라엘 임금에게 편지를 전하였다.
+그 편지에는 이렇게 쓰여 있었다. “이 편지가 임금님에게 닿는 대로, 내가 나의 신하 나아만을 임금님에게 보냈다는 사실을 알고, 그의 나병을 고쳐 주십시오.”
+
+이스라엘 임금은 이 편지를 읽고 옷을 찢으면서 말하였다. “내가 사람을 죽이고 살리시는 하느님이란 말인가? 그가 사람을 보내어 나에게 나병을 고쳐 달라고 하다니!
 나와 싸울 기회를 그가 찾고 있다는 사실을 그대들은 분명히 알아 두시오.”
-8 하느님의 사람 엘리사는 이스라엘 임금이 옷을 찢었다는 소리를 듣고,
-임금에게 사람을 보내어 말을 전하였다.
-“임금님께서는 어찌하여 옷을 찢으셨습니까? 그를 저에게 보내십시오.
-그러면 그가 이스라엘에 예언자가 있음을 알게 될 것입니다.”
-9 그리하여 나아만은 군마와 병거를 거느리고
-엘리사의 집 대문 앞에 와서 멈추었다.
-10 엘리사는 심부름꾼을 시켜 말을 전하였다.
-“요르단 강에 가서 일곱 번 몸을 씻으십시오.
-그러면 새살이 돋아 깨끗해질 것입니다.”
-11 나아만은 화가 나서 발길을 돌리며 말하였다.
-“나는 당연히 그가 나에게 나와 서서, 주 그의 하느님의 이름을 부르며
-병든 곳 위에 손을 흔들어 이 나병을 고쳐 주려니 생각하였다.
-12 다마스쿠스의 강 아바나와 파르파르는 이스라엘의 어떤 물보다 더 좋지 않으냐?
-그렇다면 거기에서 씻어도 깨끗해질 수 있지 않겠느냐?”
-나아만은 성을 내며 발길을 옮겼다.
-13 그러나 그의 부하들이 그에게 다가가 말하였다.
-“아버님, 만일 이 예언자가 어려운 일을 시켰다면 하지 않으셨겠습니까?
-그런데 그는 아버님께 몸을 씻기만 하면 깨끗이 낫는다고 하지 않습니까?”
-14 그리하여 나아만은 하느님의 사람이 일러 준 대로,
-요르단 강에 내려가서 일곱 번 몸을 담갔다.
-그러자 그는 어린아이 살처럼 새살이 돋아 깨끗해졌다.
-15 나아만은 수행원을 모두 거느리고 하느님의 사람에게로 되돌아가
-그 앞에 서서 말하였다. “이제 저는 알았습니다.
-온 세상에서 이스라엘 밖에는 하느님께서 계시지 않습니다.”
+하느님의 사람 엘리사는 이스라엘 임금이 옷을 찢었다는 소리를 듣고, 임금에게 사람을 보내어 말을 전하였다. “임금님께서는 어찌하여 옷을 찢으셨습니까? 그를 저에게 보내십시오. 그러면 그가 이스라엘에 예언자가 있음을 알게 될 것입니다.”
+9 그리하여 나아만은 군마와 병거를 거느리고 엘리사의 집 대문 앞에 와서 멈추었다. 10 **엘리사는 심부름꾼을 시켜 말을 전하였다. “요르단 강에 가서 일곱 번 몸을 씻으십시오. 그러면 새살이 돋아 깨끗해질 것입니다.”**  
+
+나아만은 화가 나서 발길을 돌리며 말하였다.
+“나는 당연히 그가 나에게 나와 서서, 주 그의 하느님의 이름을 부르며 병든 곳 위에 손을 흔들어 이 나병을 고쳐 주려니 생각하였다.
+**다마스쿠스의 강 아바나와 파르파르는 이스라엘의 어떤 물보다 더 좋지 않으냐?** 그렇다면 거기에서 씻어도 깨끗해질 수 있지 않겠느냐?” 나아만은 성을 내며 발길을 옮겼다.
+
+그러나 그의 부하들이 그에게 다가가 말하였다. “아버님, 만일 이 예언자가 어려운 일을 시켰다면 하지 않으셨겠습니까? 그런데 그는 아버님께 몸을 씻기만 하면 깨끗이 낫는다고 하지 않습니까?”
+
+그리하여 나아만은 하느님의 사람이 일러 준 대로, 요르단 강에 내려가서 일곱 번 몸을 담갔다. 그러자 그는 어린아이 살처럼 새살이 돋아 깨끗해졌다.
+나아만은 수행원을 모두 거느리고 하느님의 사람에게로 되돌아가 그 앞에 서서 말하였다. “이제 저는 알았습니다. 온 세상에서 이스라엘 밖에는 하느님께서 계시지 않습니다.”
+
+
+> 51 Naaman, army commander to the king of Aram, was a man who enjoyed his master’s respect and favour, since through him the LORD had granted victory to the Aramaeans. 2 But the man suffered from leprosy. Now, on one of their raids into Israelite territory, the Aramaeans had carried off a little girl, who became a servant of Naaman’s wife. 3 She said to her mistress, ‘If only my master would approach the prophet of Samaria! He would cure him of his leprosy.’ 4 Naaman went and told his master, saying, ‘This and this is what the girl from Israel said.’ 5 The king of Aram said, ‘Go by all means. I shall send a letter to the king of Israel.’ So Naaman left, taking with him ten talents of silver, six thousand shekels of gold and ten festal robes. 6 He brought the letter to the king of Israel. It read, ‘When this letter reaches you, I am sending my servant Naaman to you for you to cure him of his leprosy.’ 7 When the king of Israel read the letter, he tore his clothes. He said, ‘Am I a god to give death and life, for him to send a man to me and ask me to cure him of his leprosy? Just look and see how he means to pick a quarrel with me.’ 8 When Elisha heard that the king of Israel had torn his clothes, he sent word to the king, ‘Why have you torn your clothes? Let him come to me, and he will learn that there is a prophet in Israel.’ 9 So Naaman came with his team and chariot and drew up at the door of Elisha’s house. 10 And Elisha sent a messenger to him, saying, ‘Go and bathe seven times in the Jordan, and your flesh will become clean.’ 11 But Naaman was indignant and went off, saying, ‘Here was I, thinking that for me he would be sure to come out, and stand there, and call on the name of the LORD his God, and wave his hand over the spot and cure the part that was diseased. 12 Surely, Abana and Parpar, the rivers of Damascus, are better than any water in Israel? Could I not bathe in them to become clean?’ And he turned round and went off in a fury. 13 But his servants approached him and spoke to him, saying, ‘Father, if the prophet had asked you to do something difficult, would you not have done it? All the more reason, then, when he says to you, “Wash and become clean.” ’ 14 So he went down and immersed himself seven times in the Jordan, as the man of God had told him to do. And his flesh became clean once more like the flesh of a little child. 
+Returning to the man of God with his whole escort, he went in and, presenting himself, said, ‘Now I know that there is no God anywhere on earth except in Israel.
+
 
 >  시편 42 제 영혼이 생명의 하느님을 목말라하나이다. 하느님의 얼굴을 언제 가서 뵈오리이까?
 
 
 ### evangelio
-`루카 4,24ㄴ-30`
-예수님께서는 나자렛으로 가시어 회당에 모여 있는 사람들에게 말씀하셨다.
-24 “내가 진실로 너희에게 말한다.
-어떠한 예언자도 자기 고향에서는 환영을 받지 못한다.
-25 내가 참으로 너희에게 말한다.
-삼 년 육 개월 동안 하늘이 닫혀 온 땅에 큰 기근이 들었던 엘리야 때에,
-이스라엘에 과부가 많이 있었다.
-26 그러나 엘리야는 그들 가운데 아무에게도 파견되지 않고,
-시돈 지방 사렙타의 과부에게만 파견되었다.
-27 또 엘리사 예언자 시대에 이스라엘에는 나병 환자가 많이 있었다.
-그러나 그들 가운데 아무도 깨끗해지지 않고, 시리아 사람 나아만만 깨끗해졌다.”
-28 회당에 있던 모든 사람들은 이 말씀을 듣고 화가 잔뜩 났다.
-29 그래서 그들은 들고일어나 예수님을 고을 밖으로 내몰았다.
-그 고을은 산 위에 지어져 있었는데,
-그들은 예수님을 그 벼랑까지 끌고 가 거기에서 떨어뜨리려고 하였다.
-30 그러나 예수님께서는 그들 한가운데를 가로질러 떠나가셨다.
+`루카 4,24ㄴ-30`  
+예수님께서는 나자렛으로 가시어 회당에 모여 있는 사람들에게 말씀하셨다.  
+“내가 진실로 너희에게 말한다. 어떠한 예언자도 자기 고향에서는 환영을 받지 못한다. 내가 참으로 너희에게 말한다. 삼 년 육 개월 동안 하늘이 닫혀 온 땅에 큰 기근이 들었던 엘리야 때에, 이스라엘에 과부가 많이 있었다. 그러나 엘리야는 그들 가운데 아무에게도 파견되지 않고, 시돈 지방 사렙타의 과부에게만 파견되었다. 또 엘리사 예언자 시대에 이스라엘에는 나병 환자가 많이 있었다. 그러나 그들 가운데 아무도 깨끗해지지 않고, 시리아 사람 나아만만 깨끗해졌다.”  
+회당에 있던 모든 사람들은 이 말씀을 듣고 화가 잔뜩 났다. 그래서 그들은 들고일어나 예수님을 고을 밖으로 내몰았다. 그 고을은 산 위에 지어져 있었는데, 그들은 예수님을 그 벼랑까지 끌고 가 거기에서 떨어뜨리려고 하였다. 그러나 예수님께서는 그들 한가운데를 가로질러 떠나가셨다.
 
 
 ----
