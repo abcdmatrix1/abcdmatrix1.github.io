@@ -1,5 +1,5 @@
-# domenica secunda quadragesima
-> [inicio](./README.md) / [LC](../LC.md) / Tempus Qua
+# dominica secunda quadragesima
+> [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesimae](../LQ.md)
 * 사순 제2주일
 
 ----

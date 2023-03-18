@@ -1,5 +1,5 @@
 # hebdomada segunda quadragesima
-> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Quadragesima](../LQ.md)
+> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Quadragesimae](../LQ.md)
 
 * 사순 제2주간 평일
 

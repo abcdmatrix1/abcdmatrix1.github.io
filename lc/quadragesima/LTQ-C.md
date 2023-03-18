@@ -1,5 +1,5 @@
 # Feria Quarta Cinerum
-> [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesima](./LTQ.md)
+> [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesimae](../LQ.md)
 
 > [Hebdomada Prima Quadragesimae](./LTQ-1.md)
 
