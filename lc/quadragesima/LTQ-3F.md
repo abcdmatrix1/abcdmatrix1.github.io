@@ -54,13 +54,15 @@ Returning to the man of God with his whole escort, he went in and, presenting hi
 ### lectio I
 `다니 3,25.34-43`
 그 무렵 25 아자르야는 불 한가운데에 우뚝 서서
-입을 열어 이렇게 기도하였다.
+입을 열어 이렇게 기도하였다.  
+
 34 “당신의 이름을 생각하시어 저희를 끝까지 저버리지 마시고
 당신의 계약을 폐기하지 마소서.
 35 당신의 벗 아브라함, 당신의 종 이사악, 당신의 거룩한 사람 이스라엘을 보시어
 저희에게서 당신의 자비를 거두지 마소서.
 36 당신께서는 그들의 자손들을 하늘의 별처럼,
-바닷가의 모래처럼 많게 해 주시겠다고 약속하셨습니다.
+바닷가의 모래처럼 많게 해 주시겠다고 약속하셨습니다.  
+
 37 주님, 저희는 모든 민족들 가운데에서 가장 작은 민족이 되었습니다.
 저희의 죄 때문에
 저희는 오늘 온 세상에서 가장 보잘것없는 백성이 되고 말았습니다.
@@ -72,7 +74,8 @@ Returning to the man of God with his whole escort, he went in and, presenting hi
 수만 마리의 살진 양으로 받아 주소서.
 40 이것이 오늘 저희가 당신께 바치는 희생 제물이 되어
 당신을 온전히 따를 수 있게 하소서.
-정녕 당신을 신뢰하는 이들은 수치를 당하지 않습니다.
+정녕 당신을 신뢰하는 이들은 수치를 당하지 않습니다.  
+
 41 이제 저희는 마음을 다하여 당신을 따르렵니다.
 당신을 경외하고 당신의 얼굴을 찾으렵니다.
 저희가 수치를 당하지 않게 해 주소서.
@@ -87,8 +90,7 @@ Returning to the man of God with his whole escort, he went in and, presenting hi
 21 그때에 베드로가 예수님께 다가와,
 “주님, 제 형제가 저에게 죄를 지으면 몇 번이나 용서해 주어야 합니까?
 일곱 번까지 해야 합니까?” 하고 물었다.
-22 예수님께서 그에게 대답하셨다. “내가 너에게 말한다.
-일곱 번이 아니라 일흔일곱 번까지라도 용서해야 한다.
+22 예수님께서 그에게 대답하셨다. “내가 너에게 말한다. 일곱 번이 아니라 일흔일곱 번까지라도 용서해야 한다.
 23 그러므로 하늘 나라는 자기 종들과 셈을 하려는 어떤 임금에게 비길 수 있다.
 24 임금이 셈을 하기 시작하자 만 탈렌트를 빚진 사람 하나가 끌려왔다.
 25 그런데 그가 빚을 갚을 길이 없으므로, 주인은 그 종에게
@@ -268,24 +270,61 @@ Returning to the man of God with his whole escort, he went in and, presenting hi
 
 ## feria 6 sabado
 ### lectio I
-`호세 6,1-6`
-1 자, 주님께 돌아가자.
-그분께서 우리를 잡아 찢으셨지만 아픈 데를 고쳐 주시고
-우리를 치셨지만 싸매 주시리라.
-2 이틀 뒤에 우리를 살려 주시고 사흘째 되는 날에 우리를 일으키시어
+
+
+`호세 6,1-6`   
+자, 주님께 돌아가자. 그분께서  
+우리를 잡아 찢으셨지만 아픈 데를 고쳐 주시고  
+우리를 치셨지만 싸매 주시리라.  
+이틀 뒤에 우리를 살려 주시고  
+사흘째 되는 날에 우리를 일으키시어  
 우리가 그분 앞에서 살게 되리라.
-3 그러니 주님을 알자. 주님을 알도록 힘쓰자.
-그분의 오심은 새벽처럼 어김없다.
-그분께서는 우리에게 비처럼, 땅을 적시는 봄비처럼 오시리라.
-4 에프라임아, 내가 너희를 어찌하면 좋겠느냐?
-유다야, 내가 너희를 어찌하면 좋겠느냐?
-너희의 신의는 아침 구름 같고
-이내 사라지고 마는 이슬 같다.
-5 그래서 나는 예언자들을 통하여 그들을 찍어 넘어뜨리고
-내 입에서 나가는 말로 그들을 죽여 나의 심판이 빛처럼 솟아오르게 하였다.
-6 정녕 내가 바라는 것은 희생 제물이 아니라 신의다.
+
+그러니 주님을 알자.  
+주님을 알도록 힘쓰자.  
+그분의 오심은 새벽처럼 어김없다.  
+그분께서는 우리에게 비처럼,   
+땅을 적시는 봄비처럼 오시리라.
+
+에프라임아, 내가 너희를 어찌하면 좋겠느냐?  
+유다야, 내가 너희를 어찌하면 좋겠느냐?  
+너희의 신의는 아침 구름 같고  
+이내 사라지고 마는 이슬 같다.  
+
+그래서 나는 예언자들을 통하여 그들을 찍어 넘어뜨리고  
+내 입에서 나가는 말로 그들을 죽여  
+나의 심판이 빛처럼 솟아오르게 하였다.  
+정녕 내가 바라는 것은 희생 제물이 아니라 신의다.  
 번제물이 아니라 하느님을 아는 예지다.
 
+아침 이슬, 나 자신에 집중하는 시선이 하느님의 기준인가?
+
+> Come, let us return to the LORD. 
+He has torn us apart and he will heal us; 
+he has struck us and he will bind up our wounds.
+After two days he will revive us, on the third day he will raise us upb and we shall live in his presence. 
+Let us know, let us strive to know the LORD. 
+His coming is as sure as the dawn. He will come to us like a shower, like the rain of springtime on the earth.
+What am I to do with you, Ephraim? 
+What am I to do with you, Judah? 
+For your love is like morning mist, like the dew that quickly disappears.
+Therefore have I hacked them to pieces by means of the prophets, I have killed them with words from my mouth, my judgement will blaze forth like the light, 
+for my pleasure is in faithful love, not sacrifice, 
+knowledge of God, not burnt offerings.
+
+> «Venid, volvamos a Yahvé;   
+él ha desgarrado, pero nos curará;  
+él ha herido, pero nos vendará.  
+Dentro de dos días nos dará la vida, al tercer día nos hará resurgir y viviremos en su presencia. 
+Dispongámonos a conocer, 
+alcancemos el conocimiento de Yahvé: 
+su salida es cierta como la aurora; 
+nos llegará como lluvia temprana, igual que la lluvia tardía que empapa la tierra.»  
+¿Qué voy a hacer contigo, Efraín?  
+¿Qué voy a hacer contigo, Judá?  
+¡Vuestro amor es nube mañanera, rocío matinal que se evapora!  
+Por eso los he hecho trizas por medio de los profetas, los he castigado con las palabras de mi boca; y mi juicio surgirá como la luz.   
+Porque yo quiero amor, no sacrificio, conocimiento de Dios mejor que holocaustos.
 
 > 시편 51 호세 6 내가 바라는 것은 희생 제물이 아니라 자비다.
 
