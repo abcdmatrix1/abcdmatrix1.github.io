@@ -33,8 +33,7 @@
 * [USCCB](http://www.usccb.org/)
 * [Libreria](http://lib.catholic.ac.kr)
 * [Catholic Hierarchy](https://www.catholic-hierarchy.org/diocese/qview.html)
-* [성신교정](http://songsin.catholic.ac.kr/)-[포탈](http://portal.catholic.ac.kr)
-* [Jesuit Vocations](http://vocation.jesuits.kr/)
+* [CUK](http://songsin.catholic.ac.kr/) - [portal](http://portal.catholic.ac.kr)
 * [America Magazine](https://www.americamagazine.org/sections/current-issue)
 
 
