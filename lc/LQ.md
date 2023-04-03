@@ -24,27 +24,30 @@
 ----
 
 ## Hebdomada Sancta
-* Dominica in Palmis de Passione Domini
-* Feria II Hebdomadæ Sanctæ
-* Feria III Hebdomadæ Sanctæ
-* Feria IV Hebdomadæ Sanctæ
+* [Hebdomada Sancta](./quadragesima/LTQ-HS.md)
 
 
 ### Sacrum Triduum Paschale
-* Feria V in Cena Domini
-* Feria VI in Passione Domini
-* Sabbato Sancto
-
+* [Triduum Paschale](./quadragesima/LTQ-TR.md)
 
 ----
 
-## paschal
+## Tempus Paschale
 
+Dominica Paschæ in Resurrectione Domini
+Feria II hebdomada I Paschæ
+Feria III hebdomada I Paschæ
+Feria IV hebdomada I Paschæ
+Feria V hebdomada I Paschæ
+Feria VI hebdomada I Paschæ
+* Sabbato hebdomada I Paschæ
+
+ 
 
 ## octave
-
-
+* Dominica II Paschæ (seu de divina Misericordia)
 ----
-## dominicas paschal
-
+## Dominicarum
+* [Dominica Prima Quadragesimae]
 ## feriis
+Feria V hebdomada II Paschæ
