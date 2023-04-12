@@ -30,24 +30,13 @@
 ### Sacrum Triduum Paschale
 * [Triduum Paschale](./quadragesima/LTQ-TR.md)
 
+
 ----
 
 ## Tempus Paschale
 
-Dominica Paschæ in Resurrectione Domini
-Feria II hebdomada I Paschæ
-Feria III hebdomada I Paschæ
-Feria IV hebdomada I Paschæ
-Feria V hebdomada I Paschæ
-Feria VI hebdomada I Paschæ
-* Sabbato hebdomada I Paschæ
+* Dominica Paschæ in Resurrectione Domini
+* [Infra Octavam Paschae](./paschale/LTP-O.md)
 
- 
-
-## octave
 * Dominica II Paschæ (seu de divina Misericordia)
-----
-## Dominicarum
-* [Dominica Prima Quadragesimae]
-## feriis
-Feria V hebdomada II Paschæ
+

@@ -16,44 +16,65 @@
 ----
 ## Feria II Hebdomadæ Sanctæ
 ### antiphona
-시편 35(34),1-2; 140(139),8 참조
-주님, 저와 다투는 자와 다투시고, 저와 싸우는 자와 싸워 주소서. 둥근 방패 긴 방패 잡으시고 일어나 저를 도와주소서. 주님, 제 구원의 힘이시여.
+`시편 35(34),1-2; 140(139),8 참조` 주님, 저와 다투는 자와 다투시고, 저와 싸우는 자와 싸워 주소서. 둥근 방패 긴 방패 잡으시고 일어나 저를 도와주소서. 주님, 제 구원의 힘이시여.
 
 ### lectio i
-이사야서의 말씀입니다.42,1-7
-1 여기에 나의 종이 있다.
-그는 내가 붙들어 주는 이, 내가 선택한 이, 내 마음에 드는 이다.
-내가 그에게 나의 영을 주었으니 그는 민족들에게 공정을 펴리라.
-2 그는 외치지도 않고 목소리를 높이지도 않으며
-그 소리가 거리에서 들리게 하지도 않으리라.
-3 그는 부러진 갈대를 꺾지 않고 꺼져 가는 심지를 끄지 않으리라.
-그는 성실하게 공정을 펴리라.
-4 그는 지치지 않고 기가 꺾이는 일 없이 마침내 세상에 공정을 세우리니
-섬들도 그의 가르침을 고대하리라.
-5 하늘을 창조하시고 그것을 펼치신 분
-땅과 거기에서 자라는 온갖 것들을 펴신 분
+`이사 42,1-7` 여기에 나의 종이 있다.  
+그는 내가 붙들어 주는 이, 내가 선택한 이, 내 마음에 드는 이다.  
+내가 그에게 나의 영을 주었으니 그는 민족들에게 공정을 펴리라.  
+그는 외치지도 않고 목소리를 높이지도 않으며  
+그 소리가 거리에서 들리게 하지도 않으리라.  
+그는 부러진 갈대를 꺾지 않고 꺼져 가는 심지를 끄지 않으리라.  
+그는 성실하게 공정을 펴리라.  
+그는 지치지 않고 기가 꺾이는 일 없이 마침내 세상에 공정을 세우리니  
+섬들도 그의 가르침을 고대하리라.  
+하늘을 창조하시고 그것을 펼치신 분  
+땅과 거기에서 자라는 온갖 것들을 펴신 분  
 그곳에 사는 백성에게 목숨을, 그 위를 걸어 다니는 사람들에게 숨을 넣어 주신 분
-주 하느님께서 이렇게 말씀하신다.
-6 “주님인 내가 의로움으로 너를 부르고 네 손을 붙잡아 주었다.
-내가 너를 빚어 만들어 백성을 위한 계약이 되고
-민족들의 빛이 되게 하였으니
-7 보지 못하는 눈을 뜨게 하고 갇힌 이들을 감옥에서,
+
+주 하느님께서 이렇게 말씀하신다.  
+“주님인 내가 의로움으로 너를 부르고 네 손을 붙잡아 주었다.  
+내가 너를 빚어 만들어 백성을 위한 계약이 되고 민족들의 빛이 되게 하였으니  
+보지 못하는 눈을 뜨게 하고  
+갇힌 이들을 감옥에서,  
 어둠 속에 앉아 있는 이들을 감방에서 풀어 주기 위함이다.”
+
+`ES` Éste es mi siervo a quien yo sostengo,  
+mi elegido en quien me complazco.  
+He puesto mi espíritu sobre él 
+para que dicte el derecho a las naciones.  
+
+No vociferará ni alzará el tono, y no hará oír por las calles su voz.  
+No partirá la caña quebrada ni apagará la mecha mortecina;  
+proclamará la justicia con lealtad.  
+
+No desmayará ni se quebrará hasta implantar en la tierra el derecho, hasta que las islas esperen su enseñanza.  
+
+Esto dice el Dios Yahvé, que ha creado y desplegado el cielo,  
+que estableció la tierra y su vegetación,  
+que da aliento al pueblo que la habita y espíritu a los que andan por ella:  
+Yo, Yahvé, te he llamado en nombre de la justicia;  
+te tengo asido de la mano,  
+te formé y te he destinado  
+a ser alianza de un pueblo,  
+a ser luz de las naciones;  
+para abrir los ojos a los ciegos,  
+para sacar del calabozo al preso, de la cárcel al que vive en tinieblas.
+
 
 > ps 27 주님은 나의 빛, 나의 구원이시다.
 
 
 ### evangelio
-요한이 전한 거룩한 복음입니다.12,1-11
-1 예수님께서는 파스카 축제 엿새 전에 베타니아로 가셨다.
-그곳에는 예수님께서 죽은 이들 가운데에서
-다시 일으키신 라자로가 살고 있었다.
-2 거기에서 예수님을 위한 잔치가 베풀어졌는데, 마르타는 시중을 들고
+`요한 12,1-11` 예수님께서는 파스카 축제 엿새 전에 베타니아로 가셨다.  
+그곳에는 예수님께서 죽은 이들 가운데에서 다시 일으키신 라자로가 살고 있었다.
+거기에서 예수님을 위한 잔치가 베풀어졌는데, 마르타는 시중을 들고  
 라자로는 예수님과 더불어 식탁에 앉은 이들 가운데 끼여 있었다.
-3 그런데 마리아가 비싼 순 나르드 향유 한 리트라를 가져와서,
-예수님의 발에 붓고 자기 머리카락으로 그 발을 닦아 드렸다.
+
+그런데 마리아가 비싼 순 나르드 향유 한 리트라를 가져와서, 예수님의 발에 붓고 자기 머리카락으로 그 발을 닦아 드렸다.  
 그러자 온 집 안에 향유 냄새가 가득하였다.
-4 제자들 가운데 하나로서 나중에 예수님을 팔아넘길 유다 이스카리옷이 말하였다.
+
+제자들 가운데 하나로서 나중에 예수님을 팔아넘길 유다 이스카리옷이 말하였다.
 5 “어찌하여 저 향유를 삼백 데나리온에 팔아
 가난한 이들에게 나누어 주지 않는가?”
 6 그가 이렇게 말한 것은,
@@ -62,27 +83,25 @@
 7 예수님께서 이르셨다. “이 여자를 그냥 놔두어라.
 그리하여 내 장례 날을 위하여 이 기름을 간직하게 하여라.
 8 사실 가난한 이들은 늘 너희 곁에 있지만, 나는 늘 너희 곁에 있지는 않을 것이다.”
-9 예수님께서 그곳에 계시다는 것을 알고 많은 유다인들의 무리가 몰려왔다.
-예수님 때문만이 아니라,
-그분께서 죽은 이들 가운데에서 다시 일으키신 라자로도 보려는 것이었다.
-10 그리하여 수석 사제들은 라자로도 죽이기로 결의하였다.
-11 라자로 때문에 많은 유다인이 떨어져 나가 예수님을 믿었기 때문이다.
+
+예수님께서 그곳에 계시다는 것을 알고 많은 유다인들의 무리가 몰려왔다.
+예수님 때문만이 아니라, 그분께서 죽은 이들 가운데에서 다시 일으키신 라자로도 보려는 것이었다.  
+그리하여 수석 사제들은 라자로도 죽이기로 결의하였다. 라자로 때문에 많은 유다인이 떨어져 나가 예수님을 믿었기 때문이다.
 
 
 ----
 ## Feria III Hebdomadæ Sanctæ
 ### antiphona
-시편 27(26),12 참조
-주님, 박해하는 적에게 저를 넘기지 마소서. 거짓 증인들이 저를 거슬러 일어나 사악한 거짓을 내뱉나이다.
+`시편 27(26),12 참조` 주님, 박해하는 적에게 저를 넘기지 마소서. 거짓 증인들이 저를 거슬러 일어나 사악한 거짓을 내뱉나이다.
 
-### lecio i
-이사야서의 말씀입니다.49,1-6
-1 섬들아, 내 말을 들어라. 먼 곳에 사는 민족들아, 귀를 기울여라.
-주님께서 나를 모태에서부터 부르시고
-어머니 배 속에서부터 내 이름을 지어 주셨다.
-2 그분께서 내 입을 날카로운 칼처럼 만드시고 당신의 손 그늘에 나를 숨겨 주셨다.
-나를 날카로운 화살처럼 만드시어 당신의 화살 통 속에 감추셨다.
-3 그분께서 나에게 말씀하셨다.
+### lectio i
+`이사 49,1-6` 섬들아, 내 말을 들어라. 먼 곳에 사는 민족들아, 귀를 기울여라.  
+주님께서 나를 모태에서부터 부르시고  
+어머니 배 속에서부터 내 이름을 지어 주셨다.  
+그분께서 내 입을 날카로운 칼처럼 만드시고 당신의 손 그늘에 나를 숨겨 주셨다.  
+나를 날카로운 화살처럼 만드시어 당신의 화살 통 속에 감추셨다.  
+
+그분께서 나에게 말씀하셨다.
 “너는 나의 종이다. 이스라엘아, 너에게서 내 영광이 드러나리라.”
 4 그러나 나는 말하였다. “나는 쓸데없이 고생만 하였다.
 허무하고 허망한 것에 내 힘을 다 써 버렸다.
@@ -96,6 +115,32 @@
 “네가 나의 종이 되어 야곱의 지파들을 다시 일으키고
 이스라엘의 생존자들을 돌아오게 하는 것만으로는 충분하지 않다.
 나의 구원이 땅끝까지 다다르도록 나는 너를 민족들의 빛으로 세운다.”
+
+> 1 Listen to me, coastlands, pay attention, far distant peoples! The LORD called me from the womb,  before my birth he pronounced my name. 2 He made my mouth like a sharp sword, [→ Rv 1:16] he hid me in the shadow of his hand. He made me into a sharpened arrow and concealed me in his quiver. 3 He said to me, ‘Israel, you are my servant, through whom I manifest my glory.’ 4 But I said, ‘In vain have I toiled; for nothing, to no purpose have I spent my strength.’ Yet all the while my cause is with the LORD and my reward with my God. 5 And now the LORD has spoken, who formed me from the womb to be his servant, to bring Jacob back to him and for Israel to be gathered to him. I shall be honoured in the LORD’s eyes, and my God has been my strength. 6 He said, ‘It is too light a task that you should be my servant, to restore the tribes of Jacob and bring back the survivors of Israel; I shall make you a light to the nations so that my salvation may reach to the ends of the earth.’
+
+`ES` ¡Oídme, islas, atended, pueblos lejanos!   
+Yahvé me llamó desde el seno materno;  
+ya desde el vientre recordó mi nombre.  
+Hizo mi boca como espada afilada,  
+en la sombra de su mano me escondió;  
+hizo de mí saeta aguda, en su carcaj me guardó.
+
+Me dijo: «Tú eres mi siervo (Israel), en ti se manifestará mi gloria.»
+
+Yo decía:  
+«Por nada me he fatigado, en vano, por viento he gastado mi vigor.   Pero Yahvé se ocupaba de mi causa, mi recompensa estaba en mi Dios.» 
+
+Ahora, pues, esto dice Yahvé,  
+que me hizo siervo suyo ya desde el seno materno,  
+para hacer que Jacob vuelva a él,  
+y para que se le una Israel — y yo era valioso a los ojos de Yahvé, mi Dios era mi fuerza—:  
+
+«Poco es que seas mi siervo,  
+para restaurar las tribus de Jacob  
+y hacer volver lo que quede de Israel.  
+Te voy a hacer luz de las gentes,  
+para que mi salvación alcance hasta los confines de la tierra.»
+
 
 > ps 71 주님, 제 입은 당신 구원의 행적을 이야기하리이다.
 
@@ -142,11 +187,11 @@
 ----
 ## Feria IV Hebdomadæ Sanctæ
 ### antiphona 
-필리 2,8.10.11 참조
+`필리 2,8.10.11 참조`
 주님은 죽음에 이르기까지, 십자가 죽음에 이르기까지 순종하셨으니, 예수님의 이름 앞에 하늘과 땅 위와 땅 아래에 있는 자들이 다 무릎을 꿇고, 예수 그리스도는 주님이시라고 모두 고백하며, 하느님 아버지께 영광을 드리네.
 
 ### lectio i
-이사야서의 말씀입니다.50,4-9ㄴ
+`이사 50,4-9ㄴ`
 4 주 하느님께서는 나에게 제자의 혀를 주시어
 지친 이를 말로 격려할 줄 알게 하신다.
 그분께서는 아침마다 일깨워 주신다.
@@ -163,6 +208,16 @@
 누가 나에게 대적하려는가?
 우리 함께 나서 보자. 누가 나의 소송 상대인가? 내게 다가와 보아라.
 9 보라, 주 하느님께서 나를 도와주시는데 나를 단죄하는 자 누구인가?
+
+`ES` El Señor Yahvé me ha dado una lengua avezada, que sabe decir al cansado palabras de aliento.  
+Muy temprano despierta mi oído para escuchar, como los discípulos.  
+El Señor Yahvé me ha abierto el oído, y no me resistí, ni me hice atrás.  
+Ofrecí mi espalda a los golpes, mi cara a los que mesaban mi barba. Y no hurté mi rostro a insultos y salivazos.  
+Pero el Señor Yahvé me ayuda, por eso no sentía los insultos;  
+y ofrecí mi cara como el pedernal, sabiendo que no quedaría defraudado.  
+Cerca está el que me justifica: ¿quién disputará conmigo?  
+Presentémonos juntos: ¿quién es mi demandante?, ¡que se llegue a mí!   
+Si el Señor Yahvé me ayuda, ¿quién podrá condenarme? 
 
 > ps 69 주님, 은총의 때이옵니다. 당신의 크신 자애로 제게 응답하소서.
 
