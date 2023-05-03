@@ -38,5 +38,9 @@
 * Dominica Paschæ in Resurrectione Domini
 * [Infra Octavam Paschae](./paschale/LTP-O.md)
 
+
+[feria sabbato](./paschale/LTP-3F.md#feria-sabbato)
+[feria 2](./paschale/LTP-3F.md#feria-2)
+
 * Dominica II Paschæ (seu de divina Misericordia)
 
