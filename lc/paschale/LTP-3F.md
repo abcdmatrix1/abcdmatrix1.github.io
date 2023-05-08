@@ -1,5 +1,5 @@
-# hebdomada segunda quadragesima
-> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Quadragesimae](../LQ.md)
+# hebdomada segunda pascua
+> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Pascuae](../LQ.md)
 
 * 부활 제3주간 평일
 
@@ -349,3 +349,9 @@ Porque seréis medidos con la medida con que midáis.»
 ‘얘야, 너는 늘 나와 함께 있고 내 것이 다 네 것이다.
 32 너의 저 아우는 죽었다가 다시 살아났고 내가 잃었다가 되찾았다.
 그러니 즐기고 기뻐해야 한다.’”
+
+
+
+
+
+
