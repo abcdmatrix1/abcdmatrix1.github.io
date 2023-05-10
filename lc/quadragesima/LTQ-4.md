@@ -1,4 +1,4 @@
-# dominica quarta quadragesima
+# dominica quarta quadragesima (Lætare)
 > [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesimae](../LQ.md)
 * 사순 제4주일
 

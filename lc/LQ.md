@@ -17,7 +17,7 @@
 * [Feriæ Hebdomadæ Primæ](./quadragesima/LTQ-1F.md)
 * [Feriæ Hebdomadæ Secundæ](./quadragesima/LTQ-2F.md)
 * [Feriæ Hebdomadæ Tertiæ](./quadragesima/LTQ-3F.md)
-* [Feriæ Hebdomadæ Quartæ](./quadragesima/LTQ-4F.md)
+* [Feriæ Hebdomadæ Quartæ (Lætare)](./quadragesima/LTQ-4F.md)
 * [Feriæ Hebdomadæ Quintæ](./quadragesima/LTQ-5F.md)
 
 

@@ -21,3 +21,5 @@
 ----
 
 ## Sabbato Sancto
+
+Dominica Paschae in Resurrectione Domini
