@@ -14,7 +14,7 @@
 * [Solemnitatis Mariae](./lc/LM.md)
 
 ----
-* Proprium de sanctis 성인 고유
+* [Proprium de Sanctis](./lc/SS.md) 성인 고유
 * in dominicis adventus et quadragesimae  
 * in feriis adventus quadragesimae et ad missam pro defunctis
 

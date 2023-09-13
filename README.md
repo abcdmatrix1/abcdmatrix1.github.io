@@ -18,7 +18,7 @@
 * [The Word](https://www.americamagazine.org/section/word)
 * [El Evangelio de hoy](https://www.dominicos.org/predicacion/evangelio-del-dia/hoy/)
 
-
+https://noticias.cancaonova.com/
 
 ## Biblia
 * `KR` [매일미사](http://maria.catholic.or.kr/mi_pr/missa/missa.asp)
@@ -55,3 +55,20 @@
 * [Metz](http://metz.catholique.fr)
 * [La Voce del Nord est](http://lavocedelnordest.eu)
 * [Zenit](https://es.zenit.org/)
+
+
+## git guides
+
+### git
+- [link1](https://velog.io/@augus-xury/github-사용법-간단-정리)
+- [link2](https://tagilog.tistory.com/377)
+
+- [branch1](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
+### github desktop
+
+- [github desktop](https://docs.github.com/en/desktop)
+
+
+### github pages
+
+- [github pages](https://docs.github.com/en/pages)
