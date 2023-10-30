@@ -25,22 +25,13 @@ In Ascensione Domini (feria v)
 Dominica VII Paschae
 
 Dominica Pentecostes
-Beatae Mariae Virginis Ecclesiae Matris
-In Visitatione Beatae Mariae Virginis
-S Iustini, martyris
-Sanctissimae Trinitatis
-Sanctissimi Corporis et Sanguinis Christi (feria v)
 Dominica X Per Annum
 Feria II hebdomada x per annum
-Sacratissimi Cordis Iesu
-Immaculati Cordis Beatae Mariae Virginis
 Dominica XI Per Annum
-
-In Nativitate S Ioannis Batpistae
 Dominica XII per Annum
-Ss Petri et Pauli, apostolorum
 Dominica XIII per annum
-S Thomae Apostoli
+
+
 
 
 | | D | L | Mr | Mc | J | V | S |
