@@ -1,5 +1,5 @@
 # Tempus Quadragesimae
-> [inicio](./README.md) / [LC](../LC.md)
+> [inicio](../README.md) / [LC](../LC.md)
 
 
 * [Feria Quarta Cinerum](./quadragesima/LTQ-C.md)
