@@ -5,7 +5,7 @@
 
 26. S. Stephani, protomartyris
 
-27. S. [Ioannis](./sanctorum/1226.md), apostoli et evangelistæ
+27. S. [Ioannis](1226.md), apostoli et evangelistæ
 28.  Ss. Innocentium, martyrum
 
 ## Iunius
