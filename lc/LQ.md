@@ -44,3 +44,4 @@
 
 * Dominica II Paschæ (seu de divina Misericordia)
 
+In Annuntiatione Domini

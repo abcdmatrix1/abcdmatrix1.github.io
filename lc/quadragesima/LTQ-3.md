@@ -114,6 +114,61 @@ Yahvé respondió a Moisés: «Pasa delante del pueblo, toma contigo algunos de 
 La mujer replicó: «Señor, veo que eres un profeta. 20 Nuestros padres adoraron en este monte*, pero vosotros decís que el lugar donde se debe adorar es Jerusalén.» 21 Jesús le contestó: «Créeme, mujer, que llega la hora en que ni en este monte ni en Jerusalén adoraréis al Padre. 22 Vosotros adoráis lo que no conocéis; nosotros adoramos lo que conocemos, porque la salvación viene de los judíos. 23 Pero llega la hora (ya estamos en ella) en que los adoradores verdaderos adorarán al Padre en espíritu y en verdad*, porque así quiere el Padre que sean los que le adoren. 24 Dios es espíritu, y los que adoran deben adorar en espíritu y verdad.» 25 Le dijo la mujer: «Sé que va a venir el Mesías, el llamado Cristo. Cuando venga, nos lo desvelará todo*.» 26 Jesús le respondió: «Yo soy, el que está hablando contigo.» 27 En esto llegaron sus discípulos y se sorprendieron de que hablara con una mujer. Pero nadie le preguntó qué quería o qué hablaba con ella. 28 La mujer, dejando su cántaro, corrió* al pueblo y dijo a la gente: 29 «Venid a ver a un hombre que me ha dicho todo lo que he hecho. ¿No será el Cristo?» 30 Salieron del pueblo y se encaminaron hacia él. 31 Entretanto, los discípulos le insistían: «Rabbí, come.» 32 Pero él replicó: «Yo tengo para comer un alimento que vosotros no sabéis.» 33 Los discípulos se decían entre sí: «¿Le habrá traído alguien de comer?» 34 Jesús les dijo: «Mi alimento es hacer la voluntad del que me ha enviado* y llevar a cabo su obra. 35 ¿No decís vosotros: ‘Cuatro meses más y llega la siega’? Pues bien, yo os digo: Alzad vuestros ojos y ved los campos, que amarillean ya para la siega*. Ya 36 el segador recibe el salario, y recoge fruto para vida eterna, de modo que el sembrador se alegra igual que el segador. 37 Y en esto resulta verdadero el refrán de que uno es el sembrador y otro el segador: 38 yo os he enviado a segar donde vosotros no os habéis fatigado. Otros se fatigaron y vosotros os aprovecháis de su fatiga.» 39 Muchos samaritanos de aquel pueblo creyeron en él por las palabras de la mujer, que atestiguaba: «Me ha dicho todo lo que he hecho.» 40 Cuando llegaron a él los samaritanos, le rogaron que se quedara con ellos. Y Jesús se quedó allí dos días. 41 Fueron muchos más los que creyeron por sus palabras*, 42 y decían a la mujer: «Ya no creemos por tus palabras, pues nosotros mismos hemos oído y sabemos que éste es verdaderamente el Salvador del mundo.»
 
 
+### 강론
+혹시 지금 여러분 목마르십니까?
+
+오늘 독서와 복음을 읽으면 나타나는 공통점이 있습니다. 장소적으로 모두 우물가에서 이루어집니다.
+
+깔때기
+예수님께서는 사마리아 여인을 만나 물을 달라고 하십니다.
+
+입당송 에제키엘 예언서는 물은 정화의 의미, 새롭게 하는 의미를 지닙니다.
+입당송 시편은 그물에서 빼내서 주님을 바라보는 인간 존재를 연상하게 합니다.
+
+물은 구약 성서에서부터 자주 등장하고 큰 주제를 담고 제시되어왔습니다.
+하느님과 계약을 맺은 백성은 이스라엘 백성
+특히 오늘 독서에서 이스라엘 백성에게 하느님께서는 물을 주십니다. 주신 이야기를 전하고 있습니다. 이스라엘은 하느님에 대한 불평을 지도자인 모세에게 늘어놓습니다. 모세는 가운데에서 하느님에게 백성들의 뜻을 전합니다. 
+
+
+전통적으로 교회는 파스카 시기의 절정인 주님 부활 대축일에 세례 성사를 주었습니다. 세례를 준비하는 예비자들에게 의미 있는 말씀이 될 것입니다.
+
+
+
+어찌보면 고전적인 대화로 치부할 수도 잇겠습니다
+하지만 여인은 예수님과의 대화에 참여하여
+결과적으로 예수 그리스도를 통해 다른 차원으로 나아갈 수 있게 됩니다
+그리고 그 가운데에서 매개가 되어주는 것은 물입니다
+
+우리도 그 물을 청합니까? 그리스도께서 물을 주시기를 원히나요?
+사실 우리는 이미 물을 청해서 받았습니다. 바로 세례 성사를 통해서 먼저 받았습니다.
+우리가 청한 것을 잊고 잇었는지 생각해보고
+그리스도께서 이끌어주시는 차원으로 나아가도록 성찰해보고 오늘 복음 이야기를 다시 돌이켜 봅시다.
+그리스도께서 이끌어주시는 차원이 은총
+(로마 5,2) 믿음으로 우리는 그리스도를 통하여
+그분께서 베푸시는 은총 속으로 들어오게 될 것입니다.
+로마서 5장 5절 동사? 부어지다. 물을 붓듯이?
+
+야곱의 우물은 어떤 곳인가요?
+야곱이 라헬을 만난 곳입니다. 
+사마리아인들이 유다인들과 대립하였지만, 그들 역시 그리스도께서 오시리라는 희망을 마찬가지로 갖고 있었습니다.
+그 만남이 우물가에서 이루어집니다. 예수님께서 그 만남을 이루어주십니다. 
+모세는 바위를 쳐서 물을 주고
+야곱도 바위를 옮겨서 양들에게 물을 먹입니다
+예수께서는 목마르지 않을 물을 생수를 그분께서 직접 건네주십니다.
+
+
+예수와 사마리아 여인이 나누는 대화는
+제자들이 반응에서도 볼 수 있듯이, 유다와 사마리아 간의 오랜 대립을 연상시킵니다.
+그러나 그리스도로 하여금 그 대립은 이제 다른 국면으로 접어들 수 있게 되었습니다.
+성전에서 제사를 드리거나, 산에서 제사를 드리거나 하는 것이 더 이상 문제가 되지 않습니다.
+그리스도께서 생명의 물을 주시기 때문입니다.
+
+사마리아 여인의 남편이란 어쩌면 사마리아 사람들이 그동안 섬겼던 신들을 뜻한다고 볼수도 있겠습니다. 놀랍게도 이 여인은 그리스도를 만나 그리스도를 그의 공동체에게 전합니다. 사도가 하는 일을 한 것입니다.
+
+이스라엘은 목이 말라서 모세를 통해 하느님께 물을 청했습니다.
+
+
+
 ----
 ## B
 ### Introitus
