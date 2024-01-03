@@ -1,77 +1,57 @@
 # 성인 고유
+> [inicio](../README.md) / [LC](../LC.md) / Sanctorum
 
+----
 
 ## December
 
-26. S. Stephani, protomartyris
-
-27. S. [Ioannis](1226.md), apostoli et evangelistæ
-28.  Ss. Innocentium, martyrum
-
-
-
+26. Sancti [Stephani](./nativitatis/1226.md), protomartyris
+27. Sancti [Ioannis](./nativitatis/1227.md), apostoli et evangelistæ
+28. [Sanctorum Innocentium](./nativitatis/1228.md), martyrum
 
 ## Ianuarius
-Ss. Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
-Ss.ᵐⁱ Nominis Iesu
-In Epiphania Domini
- In Baptismate Domini
-S. Antonii, abbatis
-S. Antonii, abbatis
-S. Agnetis, virginis et martyris
-S. Francisci de Sales, episcopi et Ecclesiæ doctoris
- In Conversione S. Pauli, apostoli
-Ss. Timothei et Titi, episcoporum
-S. Thomæ de Aquino, presbyteri et Ecclesiæ doctoris
+2. Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
+3. Sanctissimi Nominis Iesu
+17. Sancti Antonii, abbatis
+21. Sanctæ Agnetis, virginis et martyris
+24. Sancti Francisci de Sales, episcopi et Ecclesiæ doctoris
+25. In Conversione Sancti Pauli, apostoli
+26. Sanctorum Timothei et Titi, episcoporum
+28. Sancti Thomæ de Aquino, presbyteri et Ecclesiæ doctoris
 
 ## Februarius
-In Præsentatione Domini
+
+5. Sanctæ Agathæ, virginis et martyris
+6. Sanctorum Pauli Miki et sociorum, martyrum
+10. Sanctæ Scholasticæ, virginis
+14. Sanctorum Cyrilli, monachi, et Methodii, episcopi
+22. Sancti Polycarpi, episcopi et martyris
+4. Sanctorum Perpetuæ et Felicitatis, martyrum
 
 
+## Martius
+17. Sancti Patricii, episcopi
+19. Sancti Ioseph, sponsi B. M. V. (Beatæ Mariæ Virginis)
 
-S. Agathæ, virginis et martyris
-Ss. Pauli Miki et sociorum, martyrum
+## Aprilis
+25. Sancti Marci, evangelistæ
+29. Sanctæ Catharinæ Senensis, virginis et Ecclesiæ doctoris
 
-
-
-S. Scholasticæ, virginis
-Ss. Cyrilli, monachi, et Methodii, episcopi
-S. Polycarpi, episcopi et martyris
-Ss. Perpetuæ et Felicitatis, martyrum
-S. Patricii, episcopi
-
-
-## Mar
-S. Ioseph, sponsi B. M. V.
-
-## A
-S. Marci, evangelistæ
-S. Catharinæ Senensis, virginis et Ecclesiæ doctoris
-S. Athanasii, episcopi et Ecclesiæ doctoris
-Ss. Philippi et Iacobi, apostolorum
-
-## M
- Beatæ Mariæ Virginis de Fatima
-  S. Philippi Neri, presbyteri
-S. Iustini, martyris
-
-
-
+## Maius
+2. Sancti Athanasii, episcopi et Ecclesiæ doctoris
+3. Sanctorum Philippi et Iacobi, apostolorum
+26. Sancti Philippi Neri, presbyteri
 
 ## Iunius
-
-1. S Iustini, martyris
- S. Ephræm, diaconi et Ecclesiæ doctoris
-S. Antonii de Padova, presbyteri et Ecclesiæ doctoris
-S. Aloisii Gonzaga, religiosi
-24. In Nativitate S Ioannis Batpistae
-
-29. Ss Petri et Pauli, apostolorum
-
+1. S. Iustini, martyris
+9. S. Ephræm, diaconi et Ecclesiæ doctoris
+13. Sancti Antonii de Padova, presbyteri et Ecclesiæ doctoris
+21. Sancti Aloisii Gonzaga, religiosi
+24. In Nativitate Sancti Ioannis Batpistae
+29. Sanctorum Petri et Pauli, apostolorum
 
 ## Iulius  
-
-3.  S Thomae Apostoli
+3.  Sancti Thomae Apostoli
 
 
 
