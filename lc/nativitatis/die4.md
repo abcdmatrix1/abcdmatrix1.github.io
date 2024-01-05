@@ -1,2 +1,2 @@
-# De VI die infra octavam Nativitatis
+# De IV die infra octavam Nativitatis
 * 성탄 팔일 축제 제4일
