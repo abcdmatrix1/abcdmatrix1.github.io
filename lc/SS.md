@@ -5,42 +5,42 @@
 
 ## December
 
-26. Sancti [Stephani](./nativitatis/1226.md), protomartyris
-27. Sancti [Ioannis](./nativitatis/1227.md), apostoli et evangelistæ
-28. [Sanctorum Innocentium](./nativitatis/1228.md), martyrum
+- 26 Sancti [Stephani](./nativitatis/1226.md), protomartyris
+- 27 Sancti [Ioannis](./nativitatis/1227.md), apostoli et evangelistæ
+- 28 [Sanctorum Innocentium](./nativitatis/1228.md), martyrum
 
 ## Ianuarius
-2. Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
-3. Sanctissimi Nominis Iesu
-17. Sancti Antonii, abbatis
-21. Sanctæ Agnetis, virginis et martyris
-24. Sancti Francisci de Sales, episcopi et Ecclesiæ doctoris
-25. In Conversione Sancti Pauli, apostoli
-26. Sanctorum Timothei et Titi, episcoporum
-28. Sancti Thomæ de Aquino, presbyteri et Ecclesiæ doctoris
+- 2 Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
+- 3 Sanctissimi Nominis Iesu
+- 17 Sancti Antonii, abbatis
+- 21 Sanctæ Agnetis, virginis et martyris
+- 24 Sancti Francisci de Sales, episcopi et Ecclesiæ doctoris
+- 25 In Conversione Sancti Pauli, apostoli
+- 26 Sanctorum Timothei et Titi, episcoporum
+- 28 Sancti Thomæ de Aquino, presbyteri et Ecclesiæ doctoris
 
 ## Februarius
 
-5. Sanctæ Agathæ, virginis et martyris
-6. Sanctorum Pauli Miki et sociorum, martyrum
-10. Sanctæ Scholasticæ, virginis
-14. Sanctorum Cyrilli, monachi, et Methodii, episcopi
-22. Sancti Polycarpi, episcopi et martyris
-4. Sanctorum Perpetuæ et Felicitatis, martyrum
+- 5 Sanctæ Agathæ, virginis et martyris
+- 6 Sanctorum Pauli Miki et sociorum, martyrum
+- 10 Sanctæ Scholasticæ, virginis
+- 14 Sanctorum Cyrilli, monachi, et Methodii, episcopi
+- 22 Sancti Polycarpi, episcopi et martyris
+- 4 Sanctorum Perpetuæ et Felicitatis, martyrum
 
 
 ## Martius
-17. Sancti Patricii, episcopi
-19. Sancti Ioseph, sponsi B. M. V. (Beatæ Mariæ Virginis)
+17 Sancti Patricii, episcopi
+19 Sancti Ioseph, sponsi B. M. V. (Beatæ Mariæ Virginis)
 
 ## Aprilis
-25. Sancti Marci, evangelistæ
-29. Sanctæ Catharinæ Senensis, virginis et Ecclesiæ doctoris
+25 Sancti Marci, evangelistæ
+29 Sanctæ Catharinæ Senensis, virginis et Ecclesiæ doctoris
 
 ## Maius
-2. Sancti Athanasii, episcopi et Ecclesiæ doctoris
-3. Sanctorum Philippi et Iacobi, apostolorum
-26. Sancti Philippi Neri, presbyteri
+2 Sancti Athanasii, episcopi et Ecclesiæ doctoris
+3 Sanctorum Philippi et Iacobi, apostolorum
+26 Sancti Philippi Neri, presbyteri
 
 ## Iunius
 1. S. Iustini, martyris
