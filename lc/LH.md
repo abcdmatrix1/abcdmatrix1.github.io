@@ -3,8 +3,8 @@
 > [inicio](../README.md) / [LC](../LC.md)
 
 - Hebdomada I II III IV V
-    - Domenica I - [Hebdomada I](./annum/LH01.md)
-    - Hebdomada II
+    - [Domenica I](./annum/LD01.md) - [Hebdomada I](./annum/LH01.md)
+    - [Domenica II](./annum/LD02.md) -  [Hebdomada II](./annum/LH02.md)
     - [Hebdomada III](./LH03.md)
     - Hebdomada IV
     - [Hebdomada V](./LH05.md)

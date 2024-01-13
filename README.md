@@ -1,8 +1,7 @@
 # abcdmatrix1.github.io
 
-> 1998-2024 Sunghoon Choi
+> 1998-2024 Sunghoon Choi  
 
-----
 
 | ![Disciple to Apostle](https://www.ncronline.org/files/styles/article_one-third_width/public/Jacob%27s%20ladder_1.jpg) | ![Set Free](https://www.ncronline.org/files/styles/article_one-third_width/public/beelzebul_9.jpg) |
 | :--: | :--: |
@@ -16,4 +15,3 @@
 * [Rezandovoy](https://www.rezandovoy.org/)
 * [Links](./links.md)
 
-====
