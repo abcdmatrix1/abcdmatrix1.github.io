@@ -1,46 +1,41 @@
 # Tempus per Annum
 
-> [inicio](../README.md) / [LC](../LC.md)
+> [inicio](../README.md) / [LC](../LC.md) / Tempus per Annum
 
-- Hebdomada I II III IV V
-    - [Domenica I](./annum/LD01.md) - [Hebdomada I](./annum/LH01.md)
-    - [Domenica II](./annum/LD02.md) -  [Hebdomada II](./annum/LH02.md)
-    - [Hebdomada III](./LH03.md)
-    - Hebdomada IV
-    - [Hebdomada V](./LH05.md)
-
-----
-
-- Hebdomada VI VII VIII IX X
-    - Hebdomada VI
-    - Hebdomada VII
-    - Hebdomada VIII
-    - Hebdomada IV
-    - Hebdomada X
+- [Domenica I](./annum/LD01.md) - [Hebdomada I](./annum/LH01.md)
+- [Domenica II](./annum/LD02.md) -  [Hebdomada II](./annum/LH02.md)
+- [Domenica III](./annum/LD03.md) - [Hebdomada III](./annum/LH03.md)
+- [Domenica IV](./annum/LD04.md) - [Hebdomada IV](./annum/LH04.md)
+- [Domenica V](./annum/LD05.md) - [Hebdomada V](./annum/LH05.md)
 
 ----
 
-- Hebdomada XI XII XIII XIV XV
-    - Hebdomada XI
-    - Hebdomada XII
-    - Hebdomada XIII
-    - Hebdomada XIV
-    - Hebdomada XV
+- Hebdomada VI
+- Hebdomada VII
+- Hebdomada VIII
+- Hebdomada IV
+- Hebdomada X
 
 ----
 
-- Hebdomada XVI XVII XVIII XIX XX
-    - Hebdomada XVI
-    - Hebdomada XVII
-    - Hebdomada XVIII
-    - Hebdomada XIV
-    - Hebdomada XX
+- Hebdomada XI
+- Hebdomada XII
+- Hebdomada XIII
+- Hebdomada XIV
+- Hebdomada XV
+
+----
+
+- Hebdomada XVI
+- Hebdomada XVII
+- Hebdomada XVIII
+- Hebdomada XIV
+- Hebdomada XX
 
 ----
 
 - Hebdomada XXI
-    - Hebdomada XXI
-    - Hebdomada XXII
-    - Hebdomada XXIII
-    - Hebdomada XXIV
-    - Hebdomada XXV
+- Hebdomada XXII
+- Hebdomada XXIII
+- Hebdomada XXIV
+- Hebdomada XXV
