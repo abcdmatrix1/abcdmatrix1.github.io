@@ -7,13 +7,12 @@
 
 ## feria 2 lunes
 ### lectio I
-`Dn 9,4b-10`  
-아, 주님! 위대하시고 경외로우신 하느님, 당신을 사랑하고 당신의 계명을 지키는 이들에게 계약과 자애를 지키시는 분!
+`Dn 9,4b-10`  아, 주님! 위대하시고 경외로우신 하느님, 당신을 사랑하고 당신의 계명을 지키는 이들에게 계약과 자애를 지키시는 분!
 
 저희는 죄를 짓고 불의를 저질렀으며 악을 행하고 당신께 거역하였습니다. 당신의 계명과 법규에서 벗어났습니다. 저희는 저희의 임금들과 고관들과 조상들과 나라의 모든 백성들에게 당신의 이름으로 말하는 당신의 종 예언자들에게 귀를 기울이지 않았습니다.  
 
-주님, 당신께서는 의로우십니다.
-그러나 저희는 오늘 이처럼 얼굴에 부끄러움만 가득합니다.
+주님, 당신께서는 의로우십니다.  
+그러나 저희는 오늘 이처럼 얼굴에 부끄러움만 가득합니다.  
 
 유다 사람, 예루살렘 주민들, 그리고 가까이 살든 멀리 살든,
 당신께 저지른 배신 때문에 당신께서 내쫓으신 그 모든 나라에 사는 이스라엘인들도 다 마찬가지입니다.  
@@ -30,19 +29,16 @@ We have not listened to your servants the prophets who spoke in your name to our
 To us, our kings, our chief men and our ancestors, belongs the look of shame, O LORD, since we have sinned against you.  
 It is for the Lord our God to have mercy and to forgive since we have betrayed him and have not listened to the voice of the LORD our God nor followed the laws he has given us through his servants the prophets.  
 
-
-
 > ps 79 주님, 저희 죄대로 저희를 다루지 마소서.
 
 ### evangelio
-`루카 6,36-38`  
-“너희 아버지께서 자비하신 것처럼 너희도 자비로운 사람이 되어라.  
+`루카 6,36-38`  “너희 아버지께서 자비하신 것처럼 너희도 자비로운 사람이 되어라.  
 남을 심판하지 마라. 그러면 너희도 심판받지 않을 것이다.  
 남을 단죄하지 마라. 그러면 너희도 단죄받지 않을 것이다.  
 용서하여라. 그러면 너희도 용서받을 것이다.  
 주어라. 그러면 너희도 받을 것이다.  
 누르고 흔들어서 넘치도록 후하게 되어 너희 품에 담아 주실 것이다.  
-너희가 되질하는 바로 그 되로 너희도 되받을 것이다.”
+너희가 되질하는 바로 그 되로 너희도 되받을 것이다.”  
 
 
 > ‘Be compassionate just as your Father is compassionate.  
@@ -142,8 +138,7 @@ Porque seréis medidos con la medida con que midáis.»
 ----
 ## feria 5 quinta  jueves
 ### lectio i
-`예레 17,5-10`  
-주님께서 이렇게 말씀하신다.  
+`예레 17,5-10`  주님께서 이렇게 말씀하신다.  
 “사람에게 의지하는 자와 스러질 몸을 제힘인 양 여기는 자는 저주를 받으리라. 그의 마음이 주님에게서 떠나 있다.  
 그는 사막의 덤불과 같아 좋은 일이 찾아드는 것도 보지 못하리라.  
 그는 광야의 메마른 곳에서, 인적 없는 소금 땅에서 살리라.”  
@@ -154,7 +149,6 @@ Porque seréis medidos con la medida con que midáis.»
 사람의 마음은 만물보다 더 교활하여 치유될 가망이 없으니 누가 그 마음을 알리오?  
 내가 바로 마음을 살피고 속을 떠보는 주님이다.  
 나는 사람마다 제 길에 따라, 제 행실의 결과에 따라 갚는다.  
-
 
 > Ps 1 행복하여라, 주님을 신뢰하는 사람!
 
