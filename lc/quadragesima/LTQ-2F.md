@@ -152,7 +152,10 @@ Porque seréis medidos con la medida con que midáis.»
 
 > Ps 1 행복하여라, 주님을 신뢰하는 사람!
 
-[gap between](https://www.ncronline.org/spirituality/pencil-preaching/god-poor)
+- [gap between](https://www.ncronline.org/spirituality/pencil-preaching/god-poor)
+- 나와 너 사이, 하느님과 나와의 관계
+- 사순시기 예수 수난, 자선도 중요하지만, 
+	- 독서와 복음이 일관되게 말하는 주제는 하느님과 자신과의 관계를 돌아보고 회개하고 마음을 고쳐 돌아서는 것
 
 ### evangelio
 `루카 16,19-31`  그때에 예수님께서 바리사이들에게 말씀하셨다.  
