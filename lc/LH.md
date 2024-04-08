@@ -39,3 +39,11 @@
 - Hebdomada XXIII
 - Hebdomada XXIV
 - Hebdomada XXV
+
+
+
+Dominica X Per Annum
+Feria II hebdomada x per annum
+Dominica XI Per Annum
+Dominica XII per Annum
+Dominica XIII per annum

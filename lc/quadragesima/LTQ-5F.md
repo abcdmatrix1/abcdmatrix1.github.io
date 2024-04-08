@@ -1,4 +1,4 @@
-# hebdomada tertia quadragesima
+# hebdomada quinta quadragesima
 > [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Quadragesimae](../LQ.md)
 
 * 사순 제5주간 평일
