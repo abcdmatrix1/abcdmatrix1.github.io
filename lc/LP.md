@@ -1,10 +1,28 @@
 # Tempus Paschale
-> [inicio](./README.md) / [LC](../LC.md)
+> [inicio](./README.md) / [LC](../LC.md) / Tempus Paschale
 
+> Tempus Quardragesimae
 > [Triduum Paschale](./LQ.md#sacrum-triduum-paschale)
 
 
-[Dominica Paschae in Resurrectione Domini]
+- [Dominica Paschae in Resurrectione Domini]
+	- Ad vigiliam paschalem in nocte sancta 파스카 성야
+	- ad missam in die
+- Infra Octavam Paschae
+	- feria secunda 월 (부활 팔일 축제 월요일)
+	- feria tertia 화
+	- feria quarta 수
+	- feria quinta 목
+	- feria sexta 금
+	- sabbato 토
+- hebdomada secunda paschale 부활 제2주
+	- 부활 제2주간 월요일
+	- 부활 제2주간 화요일
+- hebdomada tertia paschae 부활 제3주
+	- 
+
+
+
 Feria II hebdomada I Paschæ
 Feria III hebdomada I Paschæ
 Feria IV hebdomada I Paschæ
@@ -16,6 +34,10 @@ Dominica II Paschæ seu de divina Misericordia
 
 
 
+
+
+Dominica resurrectionis
+
 Dominica III Paschae
 Dominica IV Paschae
 Dominica V Paschae
@@ -25,20 +47,6 @@ In Ascensione Domini (feria v)
 Dominica VII Paschae
 
 Dominica Pentecostes
-Dominica X Per Annum
-Feria II hebdomada x per annum
-Dominica XI Per Annum
-Dominica XII per Annum
-Dominica XIII per annum
 
 
 
-
-| | D | L | Mr | Mc | J | V | S |
-| :--: |  :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-|부활팔일| 1|2|3|4|5|6|7|
-|부활2주| A B C | feria ii | feria iii | feria iv | feria v | feria vi | feria sabato |
-|부활3주| A B C | feria ii | feria iii | feria iv | feria v | feria vi | feria sabato |
-|부활4주| A B C | [feria ii](./paschale/LTP-4F.md#feria-ii) | [feria iii](./paschale/LTP-4F.md#feria-iii) | [feria iv](./paschale/LTP-4F.md#feria-iv) | [feria v](./paschale/LTP-4F.md#feria-v) | [feria vi](./paschale/LTP-4F.md#feria-vi) | [feria sabato](./paschale/LTP-4F.md#feria-sabato) |
-|부활5주| A B C | feria ii | feria iii | feria iv | feria v | feria vi | feria sabato |
-|부활6주| A B C | feria ii | feria iii | feria iv | feria v | feria vi | feria sabato |
