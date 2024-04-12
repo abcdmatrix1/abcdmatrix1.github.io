@@ -5,6 +5,12 @@
 > [Triduum Paschale](./LQ.md#sacrum-triduum-paschale)
 
 
+> code
+> 대림 a1f1
+> 사순 q1a q3f2
+> 부활 p3
+
+
 - [Dominica Paschae in Resurrectione Domini]
 	- Ad vigiliam paschalem in nocte sancta 파스카 성야
 	- ad missam in die
@@ -18,8 +24,10 @@
 - hebdomada secunda paschale 부활 제2주
 	- 부활 제2주간 월요일
 	- 부활 제2주간 화요일
-- hebdomada tertia paschae 부활 제3주
-	- 
+- hebdomada tertia paschae 
+	- 제3주일 [A](./paschale/p3.md#a) [B](./paschale/p3.md#b) [C](./paschale/p3.md#c)
+	- 제3주간 [목요일](./paschale/p3f.md#f5)
+	- 제3주간 [금요일](./paschale/p3f.md#f6)
 
 
 
