@@ -284,3 +284,17 @@ Meier는 기적 이야기들을 분류하는 과정에서 빵의 기적에는 �
 * 전반적인 반론 수용, 그리고 반박 - 또 이러한 근거에 대해서는 어떻게 생각하는가?
 * 결론
 * 문제 재진술 - 문제와 해법은 무엇인가? 
+
+
+
+
+
+
+## works cited
+- Tagawa, K. Miràcles et évangile. La pensée personnelle de l’évangéliste Marc. Études d’Histoire et de Philosophie Religieuses 62. Paris: Presses Universitaires de France, 1966.
+- Neirynck, F. Duality in Mark: Contributions to the Study ofthe Markan Redaction. BETL 31. Leuven: Leuven University Press, 1972.
+- Theissen, G. The Gospels in Context: Social and Political History in the Synoptic Tradi­ tion. Minneapolis: Fortress, 1991.
+- Theissen, The Miracle Stories ofthe Early Christian Tradition. SNTW. Edinburgh: T& T Clark, 1983. [Cited as Theissen]
+- Theissen,and A. Merz. The Historical Jesus. London: SCM, 1998.
+- iersel Mark: A Reader-Response Commentary. JSNTSup 164. Sheffield: Sheffield Aca­demic Press, 1998.
+- 
