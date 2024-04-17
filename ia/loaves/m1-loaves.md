@@ -297,4 +297,25 @@ Meier는 기적 이야기들을 분류하는 과정에서 빵의 기적에는 �
 - Theissen, The Miracle Stories ofthe Early Christian Tradition. SNTW. Edinburgh: T& T Clark, 1983. [Cited as Theissen]
 - Theissen,and A. Merz. The Historical Jesus. London: SCM, 1998.
 - iersel Mark: A Reader-Response Commentary. JSNTSup 164. Sheffield: Sheffield Aca­demic Press, 1998.
-- 
+
+
+
+## mail
+백운철 신부님께,
+안녕하십니까 신부님
+
+현재 작성하고 있는 논문 진행 상황 말씀드립니다
+
+1. 제목은 아래와 같이 설정해놓고 작성하고 있습니다.
+
+빵의 기적의 역사성과 신학적 해석
+-마르 6,30-44; 8,1-10을 중심으로
+
+
+작성 중인 논문을 간단히 요약하면 아래와 같습니다.
+1. 기적 이야기를 교회가 제시하는 '교회 안의 성서 해석'에 비추어 읽는다
+2. 2번에 의해 공시적/통시적으로 접근해 빵의 기적 이야기를 읽는다. 본문 분석, 설화 분석 등 공시적 접근에서 출발하여 구약 정경(모세, 엘리야와 엘리사), 구약 외경, 고대 및 현대의 기적 개념 등 통시적으로 접근한다.
+3. 4복음서에 모두 병행 구절이 있지만 복음서 고유의 신학과 전승 측면에서 논의 범위가 넓어지므로 마르코 복음서의 6장과 8장만을 본문으로 선택한다.
+
+저의 계획은 다음과 같습니다.
+공시적/통시적 접근에 의한 주석을 먼저 작성하고 있으며, 5월 말까지 주석을 마치는 것이 목표입니다.
