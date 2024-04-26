@@ -1,4 +1,4 @@
-# hebdomada segunda pascua
+# hebdomada tertia pascua
 > [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Pascuae](../LQ.md)
 
 * 부활 제3주간 평일
