@@ -18,7 +18,7 @@ Beatæ Mariæ Virginis in Sabbato
 
 ## 5
 - 13 Beatæ Mariæ Virginis de [Fatima]()
-- 29 Beatae Mariae Virginis [Ecclesiae Matris]()
+- 29 Beatae Mariae Virginis [Ecclesiae Matris](./mariae/ecclesiae.md)
 - 31 [In Visitatione]() Beatae Mariae Virginis
 
 ## 6

@@ -11,7 +11,7 @@
 ----
 
 - Hebdomada VI
-- Hebdomada VII
+- [Hebdomada VII](./annum/h7f.md)
 - Hebdomada VIII
 - Hebdomada IV
 - Hebdomada X

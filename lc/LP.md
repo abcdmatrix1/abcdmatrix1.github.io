@@ -4,11 +4,14 @@
 > Tempus Quardragesimae
 > [Triduum Paschale](./LQ.md#sacrum-triduum-paschale)
 
-
 > code
 > 대림 a1f1
 > 사순 q1a q3f2
 > 부활 p3
+
+
+
+![resurrexit](https://www.ncronline.org/files/2024-03/dreamstime_m_222140593%20Jesus%20and%20disciples%20after%20his%20resurrection%20CROP.jpg)
 
 
 - [Dominica Paschae in Resurrectione Domini]
