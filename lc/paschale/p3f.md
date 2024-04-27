@@ -5,8 +5,14 @@
 
 ----
 
+p3주일 https://www.ncronline.org/files/styles/article_one_third_width/public/2023-04/come%20follow.jpg?itok=R0XUpc98
+
+
+
 ## f2
 - feria 2 lunes
+
+p3월 https://www.ncronline.org/files/styles/article_one_third_width/public/2023-04/breaking%20bread.jpg?itok=5cUoGmBX
 
 ### lectio I
 `Dn 9,4b-10`  

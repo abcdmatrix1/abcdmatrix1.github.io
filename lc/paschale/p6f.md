@@ -65,7 +65,18 @@
 이 세상의 우두머리가 이미 심판을 받았기 때문이다.”
 
 
-
+p6화 (https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/earthquake.jpg?itok=ETGjDNdL)
 
 
 #6수
+
+(https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Paul%20at%20Athens.jpg?itok=IDMENgdJ)
+
+
+6목
+(https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Peace%20be%20with%20you.jpg?itok=3KFluRz0)
+
+
+6금
+[6금요일](https://www.ncronline.org/spirituality/pencil-preaching/conception-birth)
+https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/11-21-12%20Presentation.jpg?itok=i5jAPkqI
