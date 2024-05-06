@@ -23,17 +23,22 @@
 	- Ad vigiliam paschalem in nocte sancta 파스카 성야
 	- ad missam in die
 - Infra Octavam Paschae
-- hebdomada secunda paschale 부활 제2주
+- hebdomada secunda paschale 부활 제2주일
 	- 부활 제2주간 평일
 - hebdomada tertia paschae / Dominica III Paschae [A](./paschale/p3.md#a) [B](./paschale/p3.md#b) [C](./paschale/p3.md#c)
 	- 제3주간 [평일](./paschale/p3f.md)
 - hebdomada quinta paschae [A](./paschale/p5.md#a) [B](./paschale/p5.md#b) [C]()
 	- 제5주간 [평일](./paschale/p5f.md)
-- hebdomada sexta paschae
-	- 제6주간 평일
+- hebdomada sexta paschae [A](./paschale/p6.md#a) [B](./paschale/p6.md#b) [C](./paschale/p6.md#c)
+	- 제6주간 [평일](./paschale/p6f.md)
 - In Ascensione Domini (feria v)  
 	- 제7주간 평일
 - Dominica Pentecostes
+
+----
+
+- [사도행전 전체 읽기](./paschale/act1.md)
+
 
 ----
 
