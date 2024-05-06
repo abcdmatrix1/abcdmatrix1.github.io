@@ -31,19 +31,18 @@
 	- 제5주간 [평일](./paschale/p5f.md)
 - hebdomada sexta paschae [A](./paschale/p6.md#a) [B](./paschale/p6.md#b) [C](./paschale/p6.md#c)
 	- 제6주간 [평일](./paschale/p6f.md)
-- In Ascensione Domini (feria v)  
-	- 제7주간 평일
-- Dominica Pentecostes
+- [In Ascensione Domini](./paschale/ascension.md) (feria v)  
+	- 제7주간 [평일](./paschale/p7f.md)
+- [Dominica Pentecostes](./paschale/pentecoste.md)
 
 ----
 
-- [사도행전 전체 읽기](./paschale/act1.md)
-
+- [사도행전](./paschale/act1.md) 전체 읽기
+- [요한](./paschale/ioanem.md) 복음 전체 읽기
 
 ----
 
-[ascension](https://www.ncronline.org/spirituality/pencil-preaching/i-am-you-always-0)  
-![ascension](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Ascension%20Thursday.jpg?itok=KlH5Bvvb)  
+
 
 
 
