@@ -1,4 +1,41 @@
 
+Against the eucharistic interpretation in the Marcan versions are Boobyer; Fowler(at least on the first reading of the Gospel); Neugebauer; Gundry. 
+
+One should note that at least some of the critics who deny eucharistic allusions in the Marcan versions (e.g., Gundry) do so with a view to rejecting the larger claim that the story of Jesus feeding the multitude was simply created out of the eucharistic tradition of the early church. 
+
+But denying the latter claim need not entail denying the former.
+
+Boobyer’s treatment suffers from a different kind of difficulty. 
+
+In his criticism of any eucharistic interpretation, Boobyer tends to push together two different questions: whether the feeding miracle itself was understood as a eucharist of sorts and whether the feeding miracle was secondarily given some eucharistic allusions or overtones by the later Christian tradition or by the evangelists. 
+
+I would answer no to the former and yes to the latter. 
+
+Another difficulty is that both Boobyer and Gundry take too literalistic an approach to the question of whether there are eucharistic allusions in the feeding miracle: e.g., they claim that the presence of fish and the absence of wine in the feeding miracle preclude eucharistic allusions. 
+
+But this is to confuse an allusion to a different event with a retelling of the same event in an alternate form.
+
+In favor of sacramental overtones, in varying degrees, in the Marcan and/or the Johannine version are Richardson; Taylor; Denis; van Cangh.
+
+Bassler, (only in the case of the “informed” or historical reader, not the “ideal” reader of modem reader-response criticism).
+
+Shaw, (with the suggestion that the first Marcan version
+refers more to the Last Supper, the second more to the eucharist of the church);
+
+Iersel, (one of the fullest defenses of eucharistic allusions)
+
+Potterie, (claiming that the presence of a eucharistic reference is an almost unanimous opinion among commentators);
+
+Masuda, (only in Mark’s redaction, not in his tradition);
+
+
+Pesch’s view is complex: on the one hand, the first Marcan version had no eucharistic overtones in the pre-Marcan tradition; that the Evangelist interpreted it eucharistically can be seen only from 8:14-21.
+
+On the other hand, the second Marcan version already had eucharistic overtones in the tradition. 
+
+Guelich prefers to speak of an “indirect influence” of the eucharistic tradition in the first Marcan version, which becomes more evident in the second Marcan version.
+
+
 ## 엘리야 시험 준비 및 info
 ### 도서관 책 1 
 > 구약신학과의 만남 : 신학으로 본 구약입문 / W. 브루지만 외 공저 ; 차준희 옮김 프리칭아카데미, 2007. Brueggenmann, Walter heological introduction to the old testament|
@@ -101,6 +138,5 @@
 
 
 베드로와 바오로를 비교해볼까요?
-
 
 
