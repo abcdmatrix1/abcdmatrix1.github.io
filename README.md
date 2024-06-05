@@ -13,6 +13,6 @@
  
 * [Calendarium Romanum Generale](./LC.md) 
 * [Rezandovoy](https://www.rezandovoy.org/)
-* [Links](./links.md)
+* [Links](./ia/links.md)
 * [Perrot](https://ultra-kidney-bd0.notion.site/Les-Miracles-330d3468dcec44b8825cdd79c2de079d?pvs=4)
 * [text](./ia/loaves/text.md)

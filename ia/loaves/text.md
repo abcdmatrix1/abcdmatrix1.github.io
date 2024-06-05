@@ -6,6 +6,8 @@
 
 > [Chicago](https://libguides.westsoundacademy.org/chicago-citation/chapter-or-article-in-a-multi-volume-work) / [원고작성규정](https://stt.catholic.ac.kr/site/stt/sub.do?Key=327)  
 
+> [엘리사](../elisha.md)
+
 ----
 
 ## 6장 본문
