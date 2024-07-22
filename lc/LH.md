@@ -10,9 +10,12 @@
 
 ----
 
-[Domenica XIII](./annum/d13.md)
+[Domenica XIII](./annum/LD13.md)
+[Domenica XVII](./annum/LD17.md)
+[Domenica XX](./annum/LD20.md)
 
 ----
+
 [Hebdomada I](./annum/LH01.md)
 [Hebdomada II](./annum/LH02.md)
 [Hebdomada III](./annum/LH03.md)
@@ -31,7 +34,7 @@ Hebdomada X
 - [Hebdomada XII](./annum/h12f.md)
 - [Hebdomada XIII](./annum/h13f.md)
 - Hebdomada XIV
-- Hebdomada XV
+- [Hebdomada XV](./annum/h15f.md)
 
 ----
 
