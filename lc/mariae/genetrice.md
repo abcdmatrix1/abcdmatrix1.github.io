@@ -2,7 +2,7 @@
 > In Octava Nativitatis Domini
 - 천주의 성모 마리아 대축일
 
-
+[2020](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/mother-mary-0)
 
 ## A
 
