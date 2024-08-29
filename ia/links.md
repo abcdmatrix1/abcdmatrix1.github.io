@@ -1,5 +1,5 @@
 
-
+* [arg comp owl](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html)
 
 ## Spiritualidad
 * [Pencil preaching](https://www.ncronline.org/sections/spirituality/pencil-preaching)
