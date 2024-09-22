@@ -1,7 +1,51 @@
 # 서론
 
 
-## 
+## 인용
+
+
+
+Panier, L. 
+Semiotica e studi biblici. Evoluzioni metodologiche e prospettive epistemologiche. 
+Sémiotique et études bibliques   2007 11-26 (Meltemi, Roma.?)
+안영주 역, 기호학과 성경 연구: 방법론의 발전과 인식론의 관점
+신학전망 170 2010 44-73
+광주가톨릭대학교 신학연구소
+루이 빠니에
+
+
+J. Delorme
+Lire Dans L’Histoire Lire Dans le Langage
+Parole et  récit évangélique: Etudes sur l’évangile de Marc
+Cerf 2006 19-34
+안영주 역, 역사 속에서 읽기, 언어 안에서 읽기
+장 들로르므,
+신학전망 167 2009 225-242
+
+Sémiotique et Lecture des Évangiles à Propos de Mc. 14,1-11
+Parole et récit évangélique: Etudes sur l’évangile de Marc
+(Paris, Montréal:   Cerf, médiapaul, 2006  277-298
+
+기호학과 복음 독서: 마르 14,1-11에 관하여
+신학전망 165
+2009 135-155
+
+
+
+
+
+장 들로르므 
+마르코에 의한 행복한 알림, 제2복음서 전체읽기  
+L’heureuse annonce selon Marc:  Lecture intégrale du 2e évangile I, II
+Lectio Divina Cerf    2008
+
+안영주 서평
+가톨릭신학과사상 2023 (88) 
+366-374
+
+----
+
+## 문제 제기
 - 현재 상황, 복음서와 현대의 독자 사이 거리 벌어짐
 - 
 
