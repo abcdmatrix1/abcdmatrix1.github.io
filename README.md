@@ -14,5 +14,3 @@
 * [Calendarium Romanum Generale](./LC.md) 
 * [Links](./ia/links.md)
 * [loaves](./ia/loaves.md)
-    * [text](./ia/loaves/text.md)
-	* [1007](./ia/loaves/1007.md)
