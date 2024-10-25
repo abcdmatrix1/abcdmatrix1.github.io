@@ -1,6 +1,6 @@
 # loaves
 
-* [notes](./loaves/1008.md)
+* [notes](./loaves/1021.md)
 * workflowy [public](https://workflowy.com/s/0930/wkrrGWOTFaxi36u3)
 	* [blue letter bible](https://www.blueletterbible.org/kjv/mar/6/30/s_963030)
 	* [biblebento](https://biblebento.com/)
