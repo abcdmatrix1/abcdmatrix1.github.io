@@ -1,5 +1,3 @@
-[lk](https://presenter.ahaslides.com/share/samoghaengjeong-balpyo-1729740191912-ciju99yctc)
-
 * [arg comp owl](https://owl.purdue.edu/owl/general_writing/academic_writing/establishing_arguments/organizing_your_argument.html)
 
 ## Spiritualidad
