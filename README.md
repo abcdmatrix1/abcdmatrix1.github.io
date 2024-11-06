@@ -11,6 +11,6 @@
 
 ----
  
-* [Calendarium Romanum Generale](./LC.md) 
+* [Calendarium](./LC.md) 
 * [Links](./ia/links.md)
 * [loaves](./ia/loaves.md) - [text](./ia/loaves/text.md)
