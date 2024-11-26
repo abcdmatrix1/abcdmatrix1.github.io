@@ -43,9 +43,10 @@ Beatæ Mariæ Virginis in Sabbato
 - 7 Beatæ Mariæ Virginis [a Rosario]()
 
 ## 11
-- 21 [In Præsentatione]() Beatæ Mariæ Virginis
+- 21 [In Præsentatione]() Beatæ Mariæ Virginis [pencil](https://www.ncronline.org/spirituality/pencil-preaching/rich-widow)
+	- **Commemoration of the Presentation of Mary**
 
 ## 12
-- 8 In Conceptione Immaculata Beatæ Mariæ Virginis
+- 8 In Conceptione [Immaculata](./mariae/) Beatæ Mariæ Virginis
 - 12 Beatæ Mariæ Virginis de Guadalupe
 - Sanctæ Familiæ Iesu, Mariæ et Ioseph

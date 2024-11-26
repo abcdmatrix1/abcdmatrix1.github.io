@@ -51,4 +51,6 @@ Hebdomada X
 - Hebdomada XXV
 
 
-- Domenica XXIX (A) (B) (C) - [Hebdomada XXIX](./annum/h29f.md)
+- Dominica XXIX (A) (B) (C) - [Hebdomada XXIX](./annum/h29f.md)
+
+- Dominica XXXIV (C)[pencil C](https://www.ncronline.org/spirituality/pencil-preaching/hour-power) King

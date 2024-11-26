@@ -102,6 +102,10 @@ For this I was born and for this I came into the world,
 to testify to the truth. 
 Everyone who belongs to the truth listens to my voice."
 
+----
+
+
+
 ## C
 ### lectio 1
 `2 Sm 5:1-3`

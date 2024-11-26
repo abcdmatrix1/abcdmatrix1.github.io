@@ -68,14 +68,14 @@
 - 4 S. Caroli Borromeo, episcopi
 - 9 In Dedicatione basilicæ Lateranensis
 - 10 S. Leonis Magni, papæ et Ecclesiæ doctoris
-- 11 S. Martini Turonensis, episcopi
+- 11 S. Martini Turonensis, episcopi [pencil](https://www.ncronline.org/spirituality/pencil-preaching/nonviolent-discipleship)
 - 12 S. Iosaphat, episcopi et martyris
 - 15 S. Alberti Magni, episcopi et Ecclesiæ doctoris
 - 16 S. Gertrudis, virginis
 	- S. Margaritæ Scotiæ
 - 17 S. Elisabeth Hungariæ, religiosæ
 - 18 In Dedicatione Basilicarum Ss. Petri et Pauli, apostolorum
-- 22 S. Cæciliæ, virginis et martyris
+- 22 S. Cæciliæ, virginis et martyris [pencil](https://www.ncronline.org/spirituality/pencil-preaching/sound-music)
 - 24 Ss. Andreæ Dũng Lac, presbyteri, et sociorum, martyrum
 - 30 S. Andreæ, apostoli
 
