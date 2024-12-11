@@ -13,14 +13,14 @@
 * [Domenica Quarta Adventus](./adventus/A04.md)
 
 #### Feria Adventus
-
-* [Die 17 decembris](./)
-* [Die 18 decembris](./)
-* [Die 19 decembris]()
-* [Die 20 decembris]()
-* [Die 21 decembris]()
-* [Die 22 decembris]()
-* [Die 23 decembris]()
+ 
+* [Die 17 decembris](./) O Sapientia
+* [Die 18 decembris](./) O Lord
+* [Die 19 decembris]() O Radix Jesse
+* [Die 20 decembris]() O Clavis David
+* [Die 21 decembris]() O Oriens
+* [Die 22 decembris]() O Rex Gentium
+* [Die 23 decembris]() O Emmanuel
 * [Die 24 decembris]()
 
 
