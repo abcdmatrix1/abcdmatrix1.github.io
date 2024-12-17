@@ -5,9 +5,9 @@
 
 ## December
 
-- 26 Sancti [Stephani](./nativitatis/1226.md), protomartyris
-- 27 Sancti [Ioannis](./nativitatis/1227.md), apostoli et evangelistæ
-- 28 [Sanctorum Innocentium](./nativitatis/1228.md), martyrum
+- 26 Sancti [Stephani](1226.md), protomartyris
+- 27 Sancti [Ioannis](blank6.md), apostoli et evangelistæ
+- 28 [Sanctorum Innocentium](1228.md), martyrum
 
 ## Ianuarius
 - 2 Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum

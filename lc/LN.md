@@ -18,7 +18,13 @@
 
 ## Infra Octavam Nativitatis Domini
 
-
+- De I die infra octavam Nativitatis 
+	- 26 Sancti [Stephani](1226.md), protomartyris
+- De II die infra octavam Nativitatis
+	- 27 Sancti [Ioannis](blank6.md), apostoli et evangelistæ
+- De III die infra octavam Nativitatis
+	- 28 [Sanctorum Innocentium](1228.md), martyrum
+- 
  Sabbato temporis Nativitatis
 
 
