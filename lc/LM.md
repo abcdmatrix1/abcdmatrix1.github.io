@@ -7,7 +7,7 @@
 Beatæ Mariæ Virginis in Sabbato
 
 ## 1
-- 1 Sanctæ Dei Genitricis Mariæ
+- 1 [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md)
 
 ## 2
 - Beatæ Mariæ Virginis de Lourdes
