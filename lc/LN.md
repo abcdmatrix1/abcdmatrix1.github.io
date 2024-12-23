@@ -18,25 +18,20 @@
 
 ## Infra Octavam Nativitatis Domini
 
-- De II die infra octavam Nativitatis 
-	- 26 Sancti [Stephani](1226.md), protomartyris
-	- 26 성 [스테파노](./sanctorum/1226.md) 첫 순교자 축일 (성탄 팔일 축제 제2일)
-- De III die infra octavam Nativitatis
-	- 27 Sancti [Ioannis](blank6.md), apostoli et evangelistæ
-	- 27 성 [요한 사도 복음사가](./sanctorum/1227.md) 축일 (성탄 팔일 축제 제3일)
-- De IV die infra octavam Nativitatis
-	- 28 [Sanctorum Innocentium](innocentium.md), martyrum
-	- 28 죄 없는 [아기 순교자들](./nativitatis/innocentium.md) 축일 (성탄 팔일 축제 제4일)
+- De II die infra octavam Nativitatis (성탄 팔일 축제 제2일)
+	- 26 Sancti [Stephani](./sanctorum/1226.md), protomartyris (성 스테파노 첫 순교자 축일)
+- De III die infra octavam Nativitatis (성탄 팔일 축제 제3일)
+	- 27 Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ (성 요한 사도 복음사가 축일)
+- De IV die infra octavam Nativitatis (성탄 팔일 축제 제4일)
+	- 28 [Sanctorum Innocentium](./nativitatis/innocentium.md), martyrum (죄 없는 아기 순교자들 축일)
 
 - 29 De [V die infra octavam Nativitatis](./nativitatis/nat.md#5)
 - 30 De [VI die infra octavam Nativitatis](./nativitatis/nat.md#6)
-- 31 [성탄 팔일 축제 제7일](./nativitatis/nat.md#7.md)
+- 31 [성탄 팔일 축제 제7일](./nativitatis/nat.md#7.md)  
 
-- [Sanctæ Familiæ Iesu, Mariæ et Ioseph](./nativitatis/familia.md)
-	- 예수, 마리아, 요셉의 성가정 축일 (성탄 팔일 축제 내 주일)
-	- Dominica II post Nativitatem
 
-- [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) 천주의 성모 마리아 대축일
+- Dominica II post Nativitatem (성탄 팔일 축제 내 주일)  
+	- [Sanctæ Familiæ Iesu, Mariæ et Ioseph](./nativitatis/familia.md) (예수, 마리아, 요셉의 성가정 축일)  
 
 
 - Feria III temporis Nativitatis
@@ -45,6 +40,10 @@
 - Feria VI temporis Nativitatis
 - Sabbato temporis Nativitatis
 
+
+- [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) 천주의 성모 마리아 대축일
+
+
 - In [Epiphania](./epi.md) Domini
 - Feria II post Epiphaniam
 - Feria III post Epiphaniam
@@ -52,4 +51,6 @@
 - Feria V post Epiphaniam
 - Feria VI post Epiphaniam
 - Sabbato post Epiphaniam
+
+
 - In Baptismate Domini
