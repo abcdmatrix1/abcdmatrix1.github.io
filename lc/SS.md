@@ -5,8 +5,8 @@
 
 ## December
 
-- 26 Sancti [Stephani](1226.md), protomartyris
-- 27 Sancti [Ioannis](blank6.md), apostoli et evangelistæ
+- 26 Sancti [Stephani](./sanctorum/1226.md), protomartyris
+- 27 Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ
 - 28 [Sanctorum Innocentium](innocentium.md), martyrum
 
 ## Ianuarius
