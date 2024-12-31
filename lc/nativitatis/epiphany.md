@@ -3,9 +3,17 @@
 * The Epiphany of the Lord  
 * 주님 공현 대축일  
 
+
+- Feria II post Epiphaniam
+- Feria III post Epiphaniam
+- Feria IV post Epiphaniam
+- Feria V post Epiphaniam
+- Feria VI post Epiphaniam
+- Sabbato post Epiphaniam
+
 ----
 
-`말라 3,1; 1역대 29,12` 보라, 만군의 주님이 오신다. 그분께 나라와 권능과 권세가 있다.
+> `말라 3,1; 1역대 29,12` 보라, 만군의 주님이 오신다. 그분께 나라와 권능과 권세가 있다.
 
 
 ----
@@ -83,10 +91,7 @@
 
 ## C
 
-> `말라 3,1; 1역대 29,12` 보라, 만군의 주님이 오신다. 그분께 나라와 권능과 권세가 있다.  
-
-하느님,  
-오늘, 별의 인도로 성자를 이민족들에게 드러내 보이셨으니  
+> 하느님,  오늘, 별의 인도로 성자를 이민족들에게 드러내 보이셨으니  
 믿음으로 하느님을 알게 된 저희도 자비로이 이끄시어  
 지극히 높으신 하느님을 직접 뵈옵게 하소서.  
 

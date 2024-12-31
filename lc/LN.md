@@ -18,39 +18,22 @@
 
 ## Infra Octavam Nativitatis Domini
 
-- De II die infra octavam Nativitatis (성탄 팔일 축제 제2일)
-	- 26 Sancti [Stephani](./sanctorum/1226.md), protomartyris (성 스테파노 첫 순교자 축일)
-- De III die infra octavam Nativitatis (성탄 팔일 축제 제3일)
-	- 27 Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ (성 요한 사도 복음사가 축일)
-- De IV die infra octavam Nativitatis (성탄 팔일 축제 제4일)
-	- 28 [Sanctorum Innocentium](./nativitatis/innocentium.md), martyrum (죄 없는 아기 순교자들 축일)
-
-- 29 De [V die infra octavam Nativitatis](./nativitatis/nat.md#5)
-- 30 De [VI die infra octavam Nativitatis](./nativitatis/nat.md#6)
-- 31 [성탄 팔일 축제 제7일](./nativitatis/nat.md#7.md)  
-
-
+- 26 De II die infra octavam Nativitatis (성탄 팔일 축제 제2일)
+	- Sancti [Stephani](./sanctorum/1226.md), protomartyris (성 스테파노 첫 순교자 축일)
+- 27 De III die infra octavam Nativitatis (성탄 팔일 축제 제3일)
+	- Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ (성 요한 사도 복음사가 축일)
+- 28 De IV die infra octavam Nativitatis (성탄 팔일 축제 제4일)
+	- [Sanctorum Innocentium](./nativitatis/innocentium.md), martyrum (죄 없는 아기 순교자들 축일)
+- 29 De [V die infra octavam](./nativitatis/nat.md#5) Nativitatis
+- 30 De [VI die infra octavam](./nativitatis/nat.md#6) Nativitatis
+- 31 De [VII die infra octavam](./nativitatis/nat.md#7.md) Nativitatis (성탄 팔일 축제 제7일)
 - Dominica II post Nativitatem (성탄 팔일 축제 내 주일)  
 	- [Sanctæ Familiæ Iesu, Mariæ et Ioseph](./nativitatis/familia.md) (예수, 마리아, 요셉의 성가정 축일)  
-
-
-- Feria III temporis Nativitatis
-- Feria IV temporis Nativitatis
-- Feria V temporis Nativitatis
-- Feria VI temporis Nativitatis
-- Sabbato temporis Nativitatis
-
-
 - [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) 천주의 성모 마리아 대축일
 
+----
 
-- In [Epiphania](./nativitatis/epiphany.md) Domini
-- Feria II post Epiphaniam
-- Feria III post Epiphaniam
-- Feria IV post Epiphaniam
-- Feria V post Epiphaniam
-- Feria VI post Epiphaniam
-- Sabbato post Epiphaniam
+## In Epiphania Domini
 
-
-- In Baptismate Domini
+- In [Epiphania](./nativitatis/epiphany.md) Domini - ferii post epiphanem
+- In [Baptismate](./nativitats/baptisme.md) Domini

@@ -6,7 +6,11 @@
 ----
 
 성탄 팔일 축제 
-
+- Feria III temporis Nativitatis
+- Feria IV temporis Nativitatis
+- Feria V temporis Nativitatis
+- Feria VI temporis Nativitatis
+- Sabbato temporis Nativitatis
 
 ----
 
