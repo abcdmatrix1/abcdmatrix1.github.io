@@ -44,7 +44,7 @@
 - [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) 천주의 성모 마리아 대축일
 
 
-- In [Epiphania](./epi.md) Domini
+- In [Epiphania](./nativitatis/epiphany.md) Domini
 - Feria II post Epiphaniam
 - Feria III post Epiphaniam
 - Feria IV post Epiphaniam
