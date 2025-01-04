@@ -4,22 +4,6 @@
 
 ----
 
-- [Feria II](#f2) temporis Nativitatis  
-- Feria III temporis Nativitatis  
-- Feria IV temporis Nativitatis  
-- Feria V temporis Nativitatis  
-- [Feria VI](#f6) temporis Nativitatis  
-- [Sabbato](#fs) temporis Nativitatis  
-
-
-----
-
-- [Feria II](#f2epi) post Epiphaniam  
-- [Feria III](#f3epi) post Epiphaniam  
-- Feria IV post Epiphaniam  
-- Feria V post Epiphaniam  
-- [Feria VI](#f6epi) post Epiphaniam  
-- Sabbato post Epiphaniam  
 
 
 ----
