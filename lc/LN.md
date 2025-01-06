@@ -31,18 +31,18 @@
 - 31 De [VII die infra octavam](./nativitatis/nat.md#7.md) Nativitatis (성탄 팔일 축제 제7일)
 - Dominica II post Nativitatem (성탄 팔일 축제 내 주일)  
 	- [Sanctæ Familiæ Iesu, Mariæ et Ioseph](./nativitatis/familia.md) (예수, 마리아, 요셉의 성가정 축일)  
-- [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) 천주의 성모 마리아 대축일
+- [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) (천주의 성모 마리아 대축일)  
 
 ----
 
 ## Ferii temporis Nativitatis
 
-- [Feria II](#f2) temporis Nativitatis  
+- [Feria II](./nativitatis/epiphany.md#f2) temporis Nativitatis  
 - Feria III temporis Nativitatis  
 - Feria IV temporis Nativitatis  
 - Feria V temporis Nativitatis  
-- [Feria VI](#f6) temporis Nativitatis  
-- [Sabbato](#fs) temporis Nativitatis  
+- [Feria VI](./nativitatis/epiphany.md#f6) temporis Nativitatis  
+- [Sabbato](./nativitatis/epiphany.md#fs) temporis Nativitatis  
 
 
 ----
@@ -50,7 +50,7 @@
 
 ## In Epiphania Domini  
 
-- In [Epiphania](./nativitatis/epiphany.md) Domini - ferii post epiphanem  
+- In [Epiphania](./nativitatis/epiphany.md#epi) Domini - ferii post epiphanem  
 - In [Baptismate](./nativitats/baptismate.md) Domini  
 - [Tempus per annum](./LH.md)
 
