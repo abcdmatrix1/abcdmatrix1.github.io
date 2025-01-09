@@ -51,7 +51,7 @@
 ## In Epiphania Domini  
 
 - In [Epiphania](./nativitatis/epiphany.md#epi) Domini - ferii post epiphanem  
-- In [Baptismate](./nativitats/baptismate.md) Domini  
+- In [Baptismate](./nativitatis/baptismate.md) Domini  
 - [Tempus per annum](./LH.md)
 
 
