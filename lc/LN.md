@@ -1,6 +1,7 @@
 # Tempus Nativitatis
-> [inicio](../README.md) / [LC](../LC.md) / Tempus Nativitatis  
+- 성탄 시기
 > [Tempus Adventus](./LA.md)  
+> [inicio](../README.md) / [LC](../LC.md) / Tempus Nativitatis  
 
 ----
 
@@ -35,7 +36,7 @@
 
 ----
 
-## Ferii temporis Nativitatis
+## Feriae temporis Nativitatis
 
 - [Feria II](./nativitatis/epiphany.md#f2) temporis Nativitatis  
 - Feria III temporis Nativitatis  
@@ -50,8 +51,7 @@
 
 ## In Epiphania Domini  
 
-- In [Epiphania](./nativitatis/epiphany.md#epi) Domini - ferii post epiphanem  
-- In [Baptismate](./nativitatis/baptismate.md) Domini  
-- [Tempus per annum](./LH.md)
+- In [Epiphania](./nativitatis/epiphany.md#epi) Domini - feriae post epiphanem  
+- In [Baptismate](./nativitatis/baptismate.md) Domini  - [Tempus per annum](./LH.md)
 
 
