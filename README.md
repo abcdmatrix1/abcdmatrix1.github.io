@@ -16,6 +16,13 @@
 
 ----
 
+- The LORD your God is within you, the saving warrior. He will rejoice over you with gladness, he will renew you in his love, he will dance with shouts of joy for you. (Zeph 3:17)
+
+
+- Yahvé tu Dios está en medio de ti, ¡un poderoso salvador! Exulta de gozo por ti, te renueva con su amor; danza por ti con gritos de júbilo. (So 3:17)
+
+----
+
 #### Alma de Cristo  
 
 Alma de Cristo, santifícame.  
@@ -28,7 +35,4 @@ Dentro de tus llagas, escóndeme.
 No permitas que me aparte de Ti.  
 Del maligno enemigo, defiéndeme.  
 En la hora de mi muerte, llámame.  
-Y mándame ir a Ti, 
-Para que con tus santos te alabe.  
-Por los siglos de los siglos.  
-Amén. 
+Y mándame ir a Ti, para que con tus santos te alabe, por los siglos de los siglos,  amén. 
