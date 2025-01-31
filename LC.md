@@ -7,13 +7,13 @@
 
 * Tempus [Adventus](./lc/LA.md) - [Nativitatis](./lc/LN.md)  
 * Tempus [Quadragesimæ](./lc/LQ.md) - [Paschale](./lc/LP.md)  
-* Tempus per [Annum](./lc/LH.md)  
+* Tempus per [annum](./lc/LH.md)  
 
 ----
 
-## s
-* Solemnitatis [Domini](./lc/LD.md)  
-* Solemnitatis [Mariae](./lc/LM.md)   
+## SOLEMNITATES
+* Solemnitates [Domini](./lc/LD.md) - tempore per annum occurrentes
+* Solemnitates [Mariae](./lc/LM.md)   
 * Proprium de [Sanctis](./lc/SS.md) 
 
 
