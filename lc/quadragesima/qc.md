@@ -1,7 +1,7 @@
 # Feria Quarta Cinerum
 > [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesimae](../LQ.md)
 
-> [Hebdomada Prima Quadragesimae](./LTQ-1.md)
+> [Hebdomada Prima Quadragesimae](./q01.md)
 
 * 재의 수요일
 * Ash Wednesday
@@ -25,7 +25,8 @@
 
 ----
 
-# feria quinta post cineres (jueves5)
+##### f5
+> feria quinta post cineres
 
 ## lectio
 `신명 30,15-20`
@@ -36,7 +37,9 @@
 `루카 9,22-25`
 
 ----
-# feria sexta post cineres (viernes6)
+
+##### f6
+> feria sexta post cineres
 
 ## lectio 1
 `이사 58,1-9ㄴ`
@@ -47,11 +50,10 @@
 
 
 ----
-# feria sabbato post cineres
+##### fs
+> feria sabbato post cineres
 
-## lectio 1
 `이사 58,9ㄷ-14`
-
 
 ## evangelium
 `루카 5,27ㄴ-32`
