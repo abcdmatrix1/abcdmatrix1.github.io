@@ -1,7 +1,8 @@
 # Tempus Quadragesimae
-> [inicio](../README.md) / [LC](../LC.md)  
 
-* [Feria Quarta Cinerum](./quadragesima/LTQ-C.md)
+> [inicio](../README.md) / [LC](../LC.md) / Tempus Quadragesimae  
+
+* [Feria Quarta Cinerum](./quadragesima/qc.md)  
 
 ----
 
@@ -15,10 +16,10 @@
 ----
 
 ### Hebdomada Sancta  
-* [Hebdomada Sancta](./quadragesima/LTQ-HS.md)  
+* [Hebdomada Sancta](./quadragesima/qhs.md)  
 
 ### Sacrum Triduum Paschale  
-* [Triduum Paschale](./quadragesima/LTQ-TR.md)  
+* [Triduum Paschale](./quadragesima/qtr.md)  
 
 ----
 
