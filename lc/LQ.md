@@ -2,11 +2,12 @@
 
 > [inicio](../README.md) / [LC](../LC.md) / Tempus Quadragesimae  
 
+----
+
 * [Feria Quarta Cinerum](./quadragesima/qc.md)  
 
 ----
 
-#### Dominicarum
 * [Dominica Prima](./quadragesima/q01.md) Quadragesimae - [Feriæ](./quadragesima/q01.md#feriae) Hebdomadæ Primæ
 * [Dominica Secunda Quadragesimae](./quadragesima/q02.md) - [Feriæ Hebdomadæ Secundæ](./quadragesima/q02.md#feriae)
 * [Dominica Tertia Quadragesimae](./quadragesima/q03.md) - [Feriæ Hebdomadæ Tertiæ](./quadragesima/q03.md#feriae)
