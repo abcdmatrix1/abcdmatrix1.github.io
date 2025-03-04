@@ -1,14 +1,14 @@
 # Feria Quarta Cinerum
-
-* 재의 수요일
-
 > [inicio](./README.md) / [LC](../LC.md) / [Tempus Quadragesimae](../LQ.md)  
 
 - [Feria V](#f5) post Cineres
 - [Feria VI](#f6) post Cineres
 - [Sabbato](#fs) post Cineres
-- [Hebdomada I](./q01.md) Quadragesimae
+- [Hebdomada I](./q01.md) Quadragesimae  
+
 ----
+
+#### 재의 수요일
 
 > `지혜 11,23.24.26` 주님, 당신은 모든 사람에게 자비하시고, 당신이 만드신 것을 하나도 미워하지 않으시며, 사람들이 회개하도록 죄를 덮어 주시고 용서하시니, 주님, 당신은 저희 하느님이십니다.
  
