@@ -13,7 +13,7 @@ Beatæ Mariæ Virginis in Sabbato
 - Beatæ Mariæ Virginis de Lourdes
 
 ## 3
-- 25 in annuntiatione domini
+- 25 in [annuntiatione](./mariae/0325.md) domini
 
 
 ## 5
