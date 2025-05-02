@@ -1,17 +1,26 @@
 # 성인 고유
-> [inicio](../README.md) / [LC](../LC.md) / Sanctorum
+> [inicio](../README.md) / [LC](../LC.md) / Sanctorum  
 
-- [maria](./LM.md)
+- [maria](./LM.md)  
 
 ----
 
-## December
+- [December](#12)
+- [Ianuarius](#1)
+- [Februarius](#2)
+- [Martius](#3)
+- [Aprilis](#4)
+- [Maius](#5)
 
+----
+
+#### 12
 - 26 Sancti [Stephani](./sanctorum/1226.md), protomartyris
 - 27 Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ
 - 28 [Sanctorum Innocentium](innocentium.md), martyrum
 
-## Ianuarius
+
+#### 1
 - 2 Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
 - 3 Sanctissimi Nominis Iesu
 - 17 Sancti Antonii, abbatis
@@ -21,8 +30,8 @@
 - 26 Sanctorum Timothei et Titi, episcoporum
 - 28 Sancti Thomæ de Aquino, presbyteri et Ecclesiæ doctoris
 
-## Februarius
 
+#### 2
 - 4 Sanctorum Perpetuæ et Felicitatis, martyrum
 - 5 Sanctæ Agathæ, virginis et martyris
 - 6 Sanctorum Pauli Miki et sociorum, martyrum
@@ -31,15 +40,17 @@
 - 22 Sancti Polycarpi, episcopi et martyris
 
 
-## Martius
+
+#### 3
 17 Sancti Patricii, episcopi
 19 Sancti [Ioseph](./sanctorum/0319.md), sponsi B. M. V. (Beatæ Mariæ Virginis)
 
-## Aprilis
+
+#### 4
 - 25 Sancti Marci, evangelistæ
 - 29 Sanctæ [Catharinæ](./sanctorum/0429.md) Senensis, virginis et Ecclesiæ doctoris
 
-## Maius
+#### 5
 - 2 Sancti Athanasii, episcopi et Ecclesiæ doctoris
 - 3 Sanctorum [Philippi et Iacobi](./sanctorum/0503.md), apostolorum
 - 26 Sancti Philippi Neri, presbyteri
