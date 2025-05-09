@@ -2,7 +2,7 @@
 > [inicio](../README.md) / [LC](../LC.md) / Tempus Paschale
 
 - [Tempus Quardragesimae](./LQ.md)
-- [Triduum Paschale](../quadragesima/qtr.md)
+- [Triduum Paschale](./quadragesima/qtr.md)
 
 ![Resurrexit](https://www.ncronline.org/files/2024-03/dreamstime_m_222140593%20Jesus%20and%20disciples%20after%20his%20resurrection%20CROP.jpg)
 
