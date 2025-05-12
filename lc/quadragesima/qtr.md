@@ -22,4 +22,6 @@
 
 ## Sabbato Sancto
 
-Dominica Paschae in Resurrectione Domini
+- [Vigiliam](./vigiliam.md)  
+- [Dominica Paschae](./octavam.md) in Resurrectione Domini
+

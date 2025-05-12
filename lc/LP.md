@@ -9,7 +9,7 @@
 ----
 
 ## Dominica Paschae in Resurrectione Domini
--  Dominica resurrectionis ad [vigiliam paschalem](./paschale/vigiliam.md) in nocte sancta
+-  Dominica Resurrectionis ad [Vigiliam Paschalem](./paschale/vigiliam.md) in Nocte Sancta
 	- ad missam [in die](./paschale/octavam.md#die)
 	- [Infra Octavam Paschae](./paschale/octavam.md#feriae)
 	- [Dominica II](./paschale/p2.md) Paschale 
@@ -27,7 +27,7 @@
 ### Sanctorum
 
 - [Philippi et Iacobi](./sanctorum/0503.md)
-
+- [Matthiae](./sanctorum/0514.md)  
 
 
 
