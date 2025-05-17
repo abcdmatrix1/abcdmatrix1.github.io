@@ -1,5 +1,5 @@
 # DOMINICA PASCHAE IN RESURRECTIONE DOMINI
-- 주님 부활 대축일
+- 주님 부활 대축일 - [(A)](#a) - [(B)](#b) - [(C)](#c)  
 
 > [inicio](../../README.md) / [Calendario](../../LC.md) / [Tempus Paschale](../LP.md) / Dominica Paschae
 
