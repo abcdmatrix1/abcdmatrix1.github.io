@@ -8,19 +8,20 @@
 
 ----
 
-## Dominica Paschae in Resurrectione Domini
--  Dominica Resurrectionis ad [Vigiliam Paschalem](./paschale/vigiliam.md) in Nocte Sancta
-	- ad missam [in die](./paschale/octavam.md#die)
-	- [Infra Octavam Paschae](./paschale/octavam.md#feriae)
-	- [Dominica II](./paschale/p2.md) Paschale 
+## Dominica Paschae in Resurrectione Domini  
+-  Dominica Resurrectionis ad [Vigiliam Paschalem](./paschale/vigiliam.md) in Nocte Sancta  
+	- ad missam [in die](./paschale/octavam.md#die)  
+	- [Infra Octavam Paschae](./paschale/octavam.md#feriae)  
+	- [Dominica II](./paschale/p2.md) Paschale  
 - [Dominica III](./paschale/p3.md) Paschae  
 - [Dominica IV](./paschale/p4.md) Paschae  
 - [Dominica V](./paschale/p5.md) Paschae  
-- [Dominica VI](./) Paschae  
+- [Dominica VI](./paschale/p6.md) Paschae  
 	- [In Ascensione Domini](./paschale/ascension.md) (feria v)  
 - [Dominica VII](./paschale/p7.md) Paschae   
-- [Dominica Pentecostes](./paschale/pentecoste.md)
-	- Beatae Mariae Virginis [Ecclesiae Matris](./mariae/ecclesiae.md)
+- [Dominica Pentecostes](./paschale/pentecoste.md)  
+	- Beatae Mariae Virginis [Ecclesiae Matris](./mariae/ecclesiae.md)  
+- [Tempus per annum](./LH.md)  
 
 ----
 
