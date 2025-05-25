@@ -1,9 +1,9 @@
 # In Ascensione Domini
-##### 주님 승천 대축일
+- 주님 승천 대축일  
 
-> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Paschae](../LP.md) / Ascensione Domini
+> [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Paschae](../LP.md) / Ascensione Domini  
 
-- 부활 [제7주일](./p7.md)
+- 부활 [제7주일](./p7.md)  
 
 
 ![](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Ascension%20Thursday.jpg?itok=KlH5Bvvb)   

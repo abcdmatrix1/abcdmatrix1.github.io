@@ -1,13 +1,13 @@
 # DOMINICA PASCHAE IN RESURRECTIONE DOMINI
 - 주님 부활 대축일 - [(A)](#a) - [(B)](#b) - [(C)](#c)  
 
-> [inicio](../../README.md) / [Calendario](../../LC.md) / [Tempus Paschale](../LP.md) / Dominica Paschae
+> [inicio](../../README.md) / [Calendario](../../LC.md) / [Tempus Paschale](../LP.md) / Dominica Paschae  
 
 ----
 
-- Ad [Vigiliam Paschalem](./vigiliam.md) in Nocte Sancta
-- [INFRA OCTAVAM PASCHAE](#feriae)
-- [Dominica II](./p2.md) Paschale 
+- Ad [Vigiliam Paschalem](./vigiliam.md) in Nocte Sancta  
+- [INFRA OCTAVAM PASCHAE](#feriae)  
+- [Dominica II](./p2.md) Paschale  
 
 ----
 
