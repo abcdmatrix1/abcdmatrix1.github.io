@@ -17,7 +17,7 @@ Sanctissimi Corporis et Sanguinis Christi (feria v)
 ----
 
 | month | name  |
-| :--: | :--: |
+| :--- | :--- |
 | Ianuarius |    |
 | Februarius | die 2 februarii, in praesentatione domini  |
 | Martius |   |
