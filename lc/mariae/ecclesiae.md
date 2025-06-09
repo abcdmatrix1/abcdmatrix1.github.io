@@ -1,7 +1,11 @@
 # Beatæ Mariæ Virginis Ecclesiæ Matris
 - 교회의 어머니 복되신 동정 마리아 기념일
 
-> [inicio](../../README.md) / [LC](../../LC.md) / [Solemnitatis Mariae](../LM.md) / Mater Ecclesiae
+> [inicio](../../README.md) / [LC](../../LC.md) / [Solemnitatis Mariae](../LM.md) / Mater Ecclesiae  
+
+- [Tempus per annum](../LH.md)
+
+----
 
 > 프란치스코 교황은 2018년에 성령 강림 대축일 다음 월요일을 `교회의 어머니 복되신 동정 마리아 기념일`로 제정하였다. ‘교회의 어머니’라는 호칭은 교부 시대부터 쓰였는데, 성 바오로 6세 교황이 제2차 바티칸 공의회에서 ‘교회 헌장’을 반포하며 마리아에게 ‘교회의 어머니’라는 호칭을 부여하였다. 마리아는 성령 강림 이후 어머니로서 교회를 돌보았고, 여기서 마리아의 영적 모성이 드러난다고 프란치스코 교황은 강조하였다.  
 

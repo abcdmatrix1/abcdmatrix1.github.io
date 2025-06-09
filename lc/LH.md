@@ -17,6 +17,7 @@
 - `Dominica VI` (A) (B) [(C)](./annum/h06.md#c) - [Feriæ](./annum/h06.md#feriae) `hebdomadæ VI per annum`  
 - `Dominica VII` (A) (B) [(C)](./annum/h07.md#c) - [Feriæ](./annum/h07.md#feriae) `hebdomadæ VII per annum`  
 - `Dominica VIII` (A) (B) [(C)](./annum/h08.md#c) - [Feriæ](./annum/h08.md#feriae) `hebdomadæ VII per annum`  
+- `Dominica X` (A) (B) (C) - [Feriæ](./annum/h10.md#feriae)
 
 ----
 
