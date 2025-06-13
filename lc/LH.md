@@ -14,23 +14,35 @@
 
 - `Dominica IV`  (A) (B) (C) - [Feriæ](./annum/h04.md#feriae) `hebdomadæ IV per annum`   
 - `Dominica V` (A) (B) [(C)](./annum/h05.md#c) - [Feriæ](./annum/h05.md#feriae) `hebdomadæ V per annum`  
-- `Dominica VI` (A) (B) [(C)](./annum/h06.md#c) - [Feriæ](./annum/h06.md#feriae) `hebdomadæ VI per annum`  
-- `Dominica VII` (A) (B) [(C)](./annum/h07.md#c) - [Feriæ](./annum/h07.md#feriae) `hebdomadæ VII per annum`  
-- `Dominica VIII` (A) (B) [(C)](./annum/h08.md#c) - [Feriæ](./annum/h08.md#feriae) `hebdomadæ VII per annum`  
-- `Dominica X` (A) (B) (C) - [Feriæ](./annum/h10.md#feriae)
 
 ----
 
-- Tempus [Quadragesimæ](./LQ.md) - Tempus [Paschale](./LP.md)  
-- Sacratissimi Cordis Iesu  
+- `Dominica VI` (A) (B) [(C)](./annum/h06.md#c) - [Feriæ](./annum/h06.md#feriae) `hebdomadæ VI per annum`  
+- `Dominica VII` (A) (B) [(C)](./annum/h07.md#c) - [Feriæ](./annum/h07.md#feriae) `hebdomadæ VII per annum`  
+- `Dominica VIII` (A) (B) [(C)](./annum/h08.md#c) - [Feriæ](./annum/h08.md#feriae) `hebdomadæ VII per annum`  
+
+----
+
+- `Dominica X` (A) (B) (C) - [Feriæ](./annum/h10.md#feriae)
+- `Dominica XI` (A) (B) (C) - [Feriæ](./annum/h11.md#feriae)
+- `Dominica XII` (A) (B) (C) - [Feriæ](./annum/h12.md#feriae)
+
+----
+
+- Tempus [Quadragesimæ](./LQ.md) - Tempus [Paschale](./LP.md)   
+	- [ascension](./paschale/ascension.md)  
+- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
 
 ---- 
 
-- Sanctissimae Trinitatis  
-- Sanctissimi Corporis et Sanguinis Christi  
+- Sanctissimae [Trinitatis](./domini/trinidad.md)  
+- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
+
+----
+
 - `Dominica XXIX` (A) (B) (C) - [Feriæ]() `hebdomada XXIX per annum`
 - `Dominica XXXIV` (C) [pencil C](https://www.ncronline.org/spirituality/pencil-preaching/hour-power) King
 
 ---- 
 
-- Mariae
+- [Mariae](./LM.md)
