@@ -1,7 +1,7 @@
 # Corpus Christi
 * 지극히 거룩하신 그리스도의 성체 성혈 대축일 - [(A)](#a), [(B)](#b), [(C)](#c)
 
-> [inicio](../README.md) / [LC](../LC.md) / Domini / Corpus Christi
+> [inicio](../../README.md) / [LC](../../LC.md) / [Domini](../LD.md) / Corpus Christi
 
 - [삼위일체 대축일](./trinidad.md)  
 - 지극히 거룩하신 [예수 성심 대축일](./coeur.md)  
