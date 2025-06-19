@@ -1,10 +1,9 @@
 # Immaculate Conceptione Beatæ Mariæ Virginis
 - 원죄 없이 잉태되신 마리아 기념일
 
+[Mother God](https://www.ncronline.org/news/spirituality/pencil-preaching/mother-god)
 
-https://www.ncronline.org/news/spirituality/pencil-preaching/mother-god
-
-https://www.ncronline.org/files/styles/article_one_third_width/public/announcement_4.jpg?itok=7QYZ4TWa
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/announcement_4.jpg?itok=7QYZ4TWa)
 
 
 `창세 3,9-15.20` 사람이 나무 열매를 먹은 뒤, 주 하느님께서 그를 9 부르시며, “너 어디 있느냐?” 하고 물으셨다.  

@@ -36,7 +36,9 @@
 ---- 
 
 - Sanctissimae [Trinitatis](./domini/trinidad.md)  
+- [Immaculati Cordis](./mariae/imm-cor.md) Beatæ Mariæ Virginis
 - Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
+- [민족의 화해와 일치](./annum/0625.md)를 위한 기도의 날 - 남북통일 기원 미사
 
 ----
 

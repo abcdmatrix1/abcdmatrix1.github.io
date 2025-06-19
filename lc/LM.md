@@ -22,7 +22,7 @@ Beatæ Mariæ Virginis in Sabbato
 - 31 [In Visitatione]() Beatae Mariae Virginis
 
 ## 6
-- 17 Immaculati Cordis Beatae Mariae Virginis
+- 17 Immaculati [Cordis](./mariae/imm-cor.md) Beatae Mariae Virginis
 
 
 ## 7
@@ -40,15 +40,15 @@ Beatæ Mariæ Virginis in Sabbato
 - 15 Beatæ Mariæ Virginis [Perdolentis]()
 
 ## 10
-- 7 Beatæ Mariæ Virginis [a Rosario]()
+- 7 Beatæ Mariæ Virginis [a Rosario](./mariae/rosario.md)
 
 ## 11
 - 21 [In Præsentatione]() Beatæ Mariæ Virginis [pencil](https://www.ncronline.org/spirituality/pencil-preaching/rich-widow)
 	- **Commemoration of the Presentation of Mary**
 
 ## 12
-- 8 In Conceptione [Immaculata](./mariae/) Beatæ Mariæ Virginis
-- 12 Beatæ Mariæ Virginis de Guadalupe
+- 8 In Conceptione [Immaculata](./mariae/imm-conception.md) Beatæ Mariæ Virginis
+- 12 Beatæ Mariæ Virginis de [Guadalupe](./mariae/guadalupe.md)
 - Sanctæ Familiæ Iesu, Mariæ et Ioseph
 
 
