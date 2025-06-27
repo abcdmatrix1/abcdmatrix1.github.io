@@ -38,3 +38,38 @@ No permitas que me aparte de Ti.
 Del maligno enemigo, defiéndeme.  
 En la hora de mi muerte, llámame.  
 Y mándame ir a Ti, para que con tus santos te alabe, por los siglos de los siglos,  amén. 
+
+
+----
+
+#### Nadie me podrá robar
+
+nadie me podra robar 
+la alegría que nace de Ti, 
+de tu llamada a la amistad 
+que me hace tan feliz.
+
+¿Para qué quiero ganar 
+todo lo que este mundo me ofrece, 
+si pierdo toda mi libertad 
+y te pierdo a Ti, Señor?
+
+----
+
+#### Quien podrá
+
+¿Quién podrá apartarme de tu amor?
+Nada lo conseguirá
+¿Quién podrá matar tu inmenso amor?
+Nada lo conseguirá
+Pues tu amor es grande, infinito amor
+Alianza eterna, siempre entre Tú y yo
+
+Y es que ni hambre ni desnudez,
+ni peligro o persecución,
+ni la angustia o tribulación,
+nada, no existe nada 
+que me aleje de tu amor
+Nada, no puede haber nada, 
+que me aleje de tu amor, 
+que me aleje de tu amor.
