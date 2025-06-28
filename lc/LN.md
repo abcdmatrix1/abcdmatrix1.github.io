@@ -1,7 +1,8 @@
 # Tempus Nativitatis
-- 성탄 시기
-> [Tempus Adventus](./LA.md)  
+
 > [inicio](../README.md) / [LC](../LC.md) / Tempus Nativitatis  
+
+- [Tempus Adventus](./LA.md)  
 
 ----
 
