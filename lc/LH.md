@@ -26,6 +26,8 @@
 - `Dominica X` (A) (B) (C) - [Feriæ](./annum/h10.md#feriae)
 - `Dominica XI` (A) (B) (C) - [Feriæ](./annum/h11.md#feriae)
 - `Dominica XII` (A) (B) (C) - [Feriæ](./annum/h12.md#feriae)
+- `Dominica XIII` (A) (B) (C) - [Feriæ](./annum/h13.md#feriae)
+- `Dominica XIV` (A) (B) [(C)](./annum/h14.md#c) - [Feriæ](./annum/h14.md#feriae)
 
 ----
 

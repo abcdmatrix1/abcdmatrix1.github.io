@@ -77,8 +77,8 @@
 ----
 
 #### 7  
-- 3  Sancti Thomae Apostoli
-
+- 3  Sancti [Thomae](./sanctorum/0703.md) Apostoli
+- 5 한국 성직자들의 수호자 성 [김대건](./sanctorum/0705.md) 안드레아 사제 순교자 `신심미사`
 ----
 
 #### 10
