@@ -42,6 +42,14 @@
 
 ----
 
+- `Dominica XV` (A) (B) [(C)](./annum/h15.md#c) - [Feriæ](./annum/h15.md#feriae)
+- `Dominica XVI` (A) (B) [(C)](./annum/h16.md#c) - [Feriæ](./annum/h16.md#feriae)
+- `Dominica XVII` (A) (B) [(C)](./annum/h17.md#c) - [Feriæ](./annum/h17.md#feriae)
+- `Dominica XVIII` (A) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
+- `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
+
+----
+
 - `Dominica XXIX` (A) (B) (C) - [Feriæ]() `hebdomada XXIX per annum`
 - `Dominica XXXIV` (A) (B) (C) 
 
