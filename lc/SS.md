@@ -22,6 +22,7 @@
 ----
 
 #### 1
+
 - 2 Sanctorum Basilii et Gregorii Nazianzeni, episcoporum et Ecclesiæ doctorum
 - 3 Sanctissimi Nominis Iesu
 - 17 Sancti Antonii, abbatis
@@ -34,6 +35,7 @@
 ----
 
 #### 2
+
 - 4 Sanctorum Perpetuæ et Felicitatis, martyrum
 - 5 Sanctæ Agathæ, virginis et martyris
 - 6 Sanctorum Pauli Miki et sociorum, martyrum
@@ -45,6 +47,7 @@
 ----
 
 #### 3
+
 - 17 Sancti Patricii, episcopi
 - 19 Sancti [Ioseph](./sanctorum/0319.md), sponsi B. M. V. (Beatæ Mariæ Virginis)
 
@@ -58,6 +61,7 @@
 ----
 
 #### 5
+
 - 2 Sancti Athanasii, episcopi et Ecclesiæ doctoris
 - 3 Sanctorum [Philippi et Iacobi](./sanctorum/0503.md), apostolorum
 - 14 [Matt](./sanctorum/0514.md)  
@@ -67,6 +71,7 @@
 ----
 
 #### 6
+
 - 1 S. Iustini, martyris
 - 9 S. Ephræm, diaconi et Ecclesiæ doctoris
 - 13 Sancti Antonii de Padova, presbyteri et Ecclesiæ doctoris
@@ -77,11 +82,36 @@
 ----
 
 #### 7  
+
 - 3  Sancti [Thomae](./sanctorum/0703.md) Apostoli
 - 5 한국 성직자들의 수호자 성 [김대건](./sanctorum/0705.md) 안드레아 사제 순교자 `신심미사`
+- 11 S. Benedicti, abbatis
+- 15 S. Bonaventuræ, episcopi et Ecclesiæ doctoris
+- 22 S. Mariæ [Magdalenæ](./sanctorum/0722.md)
+- 25 S. [Iacobi](./sanctorum/0725.md), apostoli
+- 26 Ss. Ioachim et [Annæ](./sanctorum/0726.md), parentum Beatæ Mariæ Virginis
+- 29 Ss. [Marthæ](./sanctorum/0729.md), Mariæ et Lazari
+- 31 S. Ignatii de [Loyola](./sanctorum/0731.md), presbyteri
+
+----
+
+#### 8
+
+- 8 S. Dominici, presbyteri
+- 11 S. Claræ, virginis
+- 14 S. Maximiliani Mariæ Kolbe, presbyteri et martyris
+- 20 S. Bernardi, abbatis et Ecclesiæ doctoris
+- 21 S. Pii X, papæ
+- 23 S. Rosæ de Lima, virginis
+- 27 S. Monicæ
+- 28 S. Augustini, episcopi et Ecclesiæ doctoris
+- 29 In Passione S. Ioannis Baptistæ, martyris
+
+
 ----
 
 #### 10
+
 - 4 S. Francisci Assisiensis
 - 11 **S. Ioannis XXIII, papæ**
 - 17 S. Ignatii Antiocheni, episcopi et martyris
@@ -91,6 +121,7 @@
 ----
 
 #### 11
+
 - 1 Omnium Sanctorum
 - 2 In Commemoratione Omnium Fidelium Defunctorum
 - 4 S. Caroli Borromeo, episcopi
