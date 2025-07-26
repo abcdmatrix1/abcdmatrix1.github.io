@@ -87,11 +87,11 @@
 - 5 한국 성직자들의 수호자 성 [김대건](./sanctorum/0705.md) 안드레아 사제 순교자 `신심미사`
 - 11 S. Benedicti, abbatis
 - 15 S. Bonaventuræ, episcopi et Ecclesiæ doctoris
-- 22 S. Mariæ [Magdalenæ](./sanctorum/0722.md)
+- 22 S. Mariæ Magdalenæ
 - 25 S. [Iacobi](./sanctorum/0725.md), apostoli
-- 26 Ss. Ioachim et [Annæ](./sanctorum/0726.md), parentum Beatæ Mariæ Virginis
+- 26 Ss. Ioachim et Annæ, parentum Beatæ Mariæ Virginis
 - 29 Ss. [Marthæ](./sanctorum/0729.md), Mariæ et Lazari
-- 31 S. Ignatii de [Loyola](./sanctorum/0731.md), presbyteri
+- 31 S. Ignatii de Loyola, presbyteri
 
 ----
 
@@ -113,30 +113,30 @@
 #### 10
 
 - 4 S. Francisci Assisiensis
-- 11 **S. Ioannis XXIII, papæ**
+- 11 S. Ioannis XXIII, papæ
 - 17 S. Ignatii Antiocheni, episcopi et martyris
-- 18 S. Lucæ, evangelistæ
-- 28 Ss. Simonis et Iudæ, apostolorum
+- 18 S. [Lucæ](./sanctorum/1018.md), evangelistæ
+- 28 Ss. [Simonis et Iudæ](./sanctorum/1028.md), apostolorum
 
 ----
 
 #### 11
 
-- 1 Omnium Sanctorum
+- 1 [Omnium Sanctorum](./sanctorum/1101.md)
 - 2 In Commemoratione Omnium Fidelium Defunctorum
 - 4 S. Caroli Borromeo, episcopi
-- 9 In Dedicatione basilicæ Lateranensis
+- 9 In Dedicatione basilicæ [Lateranensis](./sanctorum/1109.md)
 - 10 S. Leonis Magni, papæ et Ecclesiæ doctoris
-- 11 S. Martini Turonensis, episcopi [pencil](https://www.ncronline.org/spirituality/pencil-preaching/nonviolent-discipleship)
+- 11 S. Martini Turonensis, episcopi ([pencil](https://www.ncronline.org/spirituality/pencil-preaching/nonviolent-discipleship)) 
 - 12 S. Iosaphat, episcopi et martyris
 - 15 S. Alberti Magni, episcopi et Ecclesiæ doctoris
 - 16 S. Gertrudis, virginis
 	- S. Margaritæ Scotiæ
 - 17 S. Elisabeth Hungariæ, religiosæ
 - 18 In Dedicatione Basilicarum Ss. Petri et Pauli, apostolorum
-- 22 S. Cæciliæ, virginis et martyris [pencil](https://www.ncronline.org/spirituality/pencil-preaching/sound-music)
+- 22 S. Cæciliæ, virginis et martyris ([pencil](https://www.ncronline.org/spirituality/pencil-preaching/sound-music))
 - 24 Ss. Andreæ Dũng Lac, presbyteri, et sociorum, martyrum
-- 30 S. Andreæ, apostoli
+- 30 S. [Andreæ](./sanctorum/1130.md), apostoli
 
 ----
 

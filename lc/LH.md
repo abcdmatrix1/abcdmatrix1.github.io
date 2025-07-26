@@ -5,7 +5,7 @@
 
 ----
 
-- [Esta Semana](./annum/h16.md)  
+- [Esta Semana](./annum/h17.md)  
 
 ----
 
@@ -54,9 +54,29 @@
 
 ----
 
-- `Dominica XXIX` (A) (B) (C) - [Feriæ]() `hebdomada XXIX per annum`
-- `Dominica XXXIV` (A) (B) (C) 
+- `Dominica XX` (A) (B) [(C)](./annum/h20.md#c) - [Feriæ](./annum/h20.md#feriae)
+- `Dominica XXI` (A) (B) [(C)](./annum/h21.md#c) - [Feriæ](./annum/h21.md#feriae)
+- `Dominica XXII` (A) (B) [(C)](./annum/h22.md#c) - [Feriæ](./annum/h22.md#feriae)
+- `Dominica XXIII` (A) (B) [(C)](./annum/h23.md#c) - [Feriæ](./annum/h23.md#feriae)
+- `Dominica XXIV` (A) (B) [(C)](./annum/h24.md#c) - [Feriæ](./annum/h24.md#feriae)
 
----- 
+----
 
-- [Mariae](./LM.md)
+- `Dominica XXV` (A) (B) [(C)](./annum/h25.md#c) - [Feriæ](./annum/h25.md#feriae)
+- `Dominica XXVI` (A) (B) [(C)](./annum/h26.md#c) - [Feriæ](./annum/h26.md#feriae)
+- `Dominica XXVII` (A) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
+- `Dominica XXVIII` (A) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
+- `Dominica XXIX` (A) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
+
+----
+
+- [Omnium Sanctorum](./sanctorum/1101.md)
+- In Commemoratione Omnium Fidelium [Defunctorum]()
+
+----
+
+- `Dominica XXX` (A) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
+- `Dominica XXXI` (A) (B) [(C)](./annum/h31.md#c) - [Feriæ](./annum/h31.md#feriae)
+- `Dominica XXXII` (A) (B) [(C)](./annum/h32.md#c) - [Feriæ](./annum/h32.md#feriae)
+- `Dominica XXXIII` (A) (B) [(C)](./annum/h33.md#c) - [Feriæ](./annum/h33.md#feriae)
+- Domini nostri Iesu Christi Universorum Regis (A) (B) [(C)](./domini/rex.md#c) - [Feriæ](./annum/h34.md#feriae)  `Hebomadæ XXXIV per annum`

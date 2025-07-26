@@ -9,22 +9,22 @@ Beatæ Mariæ Virginis in Sabbato
 
 ----
 
-## 1
+#### 1
 - 1 [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md)
 
 ----
 
-## 2
+#### 2
 - Beatæ Mariæ Virginis de Lourdes
 
 ----
 
-## 3
+#### 3
 - 25 in [annuntiatione](./mariae/0325.md) domini
 
 ----
 
-## 5
+#### 5
 - 13 Beatæ Mariæ Virginis de [Fatima]()
 - 29 Beatae Mariae Virginis [Ecclesiae Matris](./mariae/ecclesiae.md)
 - 31 [In Visitatione]() Beatae Mariae Virginis
@@ -35,35 +35,35 @@ Beatæ Mariæ Virginis in Sabbato
 
 ----
 
-## 6
+#### 6
 
 ----
 
-## 7
+#### 7
 - 26 Sanctorum [Ioachim et Annæ](../sanctorum/0726.md), parentum Beatæ Mariæ Virginis
 
 ----
 
-## 8
+#### 8
 - 5 In Dedicatione basilicæ Sanctæ Mariæ
 - 15 [In Assumptione](./mariae/assumpt-bmv.md) Beatæ Mariæ Virginis
 - 22 Beatæ Mariæ Virginis [Reginæ]()
 
 ----
 
-## 9
+#### 9
 - 8 [In Nativitate]() Beatæ Mariæ Virginis
 - 12 [Sanctissimi Nominis]() Mariæ
 - 15 Beatæ Mariæ Virginis [Perdolentis]()
 
 ----
 
-## 10
+#### 10
 - 7 Beatæ Mariæ Virginis [a Rosario](./mariae/rosario.md)
 
 ----
 
-## 11
+#### 11
 
 - 21 [In Præsentatione]() Beatæ Mariæ Virginis 
 	- [Rich Widow](https://www.ncronline.org/spirituality/pencil-preaching/rich-widow)
@@ -71,7 +71,7 @@ Beatæ Mariæ Virginis in Sabbato
 
 ----
 
-## 12
+#### 12
 - 8 In Conceptione [Immaculata](./mariae/imm-conception.md) Beatæ Mariæ Virginis
 - 12 Beatæ Mariæ Virginis de [Guadalupe](./mariae/guadalupe.md)
 - Sanctæ Familiæ Iesu, Mariæ et Ioseph
