@@ -46,7 +46,7 @@ Beatæ Mariæ Virginis in Sabbato
 
 #### 8
 - 5 In Dedicatione basilicæ Sanctæ Mariæ
-- 15 [In Assumptione](./mariae/assumpt-bmv.md) Beatæ Mariæ Virginis
+- 15 [In Assumptione](./mariae/assumption.md) Beatæ Mariæ Virginis
 - 22 Beatæ Mariæ Virginis [Reginæ]()
 
 ----
