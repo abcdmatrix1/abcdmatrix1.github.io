@@ -52,6 +52,7 @@
 - In [Transfiguratione](./domini/transfiguration.md) Domini
 - `Dominica XVIII` (A) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
 - `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
+- In [Assumptione](./mariae/assumption.md) Beatæ Mariæ Virginis  
 
 ----
 
