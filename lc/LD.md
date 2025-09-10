@@ -10,7 +10,13 @@
 
 ----
 
-- in [praesentatione]() domini
+- In [Praesentatione](./domini/presentatione.md) Domini
+- In [Baptismate](./nativitatis/baptismate.md) Domini
+	- Tempus per [annum](./LH.md)
 - Sacratissimi [Cordis](./domini/coeur.md) Iesu
 - Sanctissimae [Trinitatis](./domini/trinidad.md)
-- Sanctissimi [Corporis et Sanguinis Christi](./corpus-christi.md) (feria v)
+- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md) (feria v)
+- In [Transfiguratione](./domini/transfiguratione.md) Domini
+- In Exaltatione Sanctæ [Crucis](./domini/0914.md) 
+	- Beatæ Mariæ Virginis [Perdolentis](./mariae/perdolentis.md) 
+- Domini nostri Iesu Christi Universorum [Regis](./domini/rex.md)  
