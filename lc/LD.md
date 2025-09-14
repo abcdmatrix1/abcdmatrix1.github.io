@@ -18,5 +18,5 @@
 - Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md) (feria v)
 - In [Transfiguratione](./domini/transfiguratione.md) Domini
 - In Exaltatione Sanctæ [Crucis](./domini/0914.md) 
-	- Beatæ Mariæ Virginis [Perdolentis](./mariae/perdolentis.md) 
+	- Beatæ Mariæ Virginis [Perdolentis](./mariae/0915.md) 
 - Domini nostri Iesu Christi Universorum [Regis](./domini/rex.md)  

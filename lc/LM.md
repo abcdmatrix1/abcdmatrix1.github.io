@@ -54,7 +54,7 @@ Beatæ Mariæ Virginis in Sabbato
 #### 9
 - 8 [In Nativitate]() Beatæ Mariæ Virginis
 - 12 [Sanctissimi Nominis]() Mariæ
-- 15 Beatæ Mariæ Virginis [Perdolentis](./maria/0915.md)
+- 15 Beatæ Mariæ Virginis [Perdolentis](./mariae/0915.md)
 
 ----
 
