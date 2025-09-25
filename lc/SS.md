@@ -113,17 +113,18 @@
 #### 9
 
 - 20 성 [김대건](./sanctorum/0920.md) 안드레아와 성 정하상 바오로와 동료 순교자들 대축일
+- 29 Sanctorum Michælis, Gabrielis et Raphælis, [archangelorum](./sanctorum/0929.md)  
 
 ----
 
 
 #### 10
-Ss. Angelorum Custodum
-- 4 S. Francisci Assisiensis
+- 2 Sanctorum Angelorum Custodum - [Guardian Angels](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/guardian-angels)
+- 4 Sancti Francisci Assisiensis - [pencil](https://www.ncronline.org/news/spirituality/pencil-preaching/st-francis-assisi)
 - 11 S. Ioannis XXIII, papæ
-- 17 S. Ignatii Antiocheni, episcopi et martyris
+- 17 Sancti Ignatii Antiocheni, episcopi et martyris
 - 18 S. [Lucæ](./sanctorum/1018.md), evangelistæ
-- 28 Ss. [Simonis et Iudæ](./sanctorum/1028.md), apostolorum
+- 28 Sanctorum [Simonis et Iudæ](./sanctorum/1028.md), apostolorum
 
 ----
 
