@@ -119,7 +119,7 @@
 
 
 #### 10
-- 2 Sanctorum Angelorum Custodum - [Guardian Angels](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/guardian-angels)
+- 2 Sanctorum [Angelorum Custodum](./sanctorum/1002.md) - [Guardian Angels](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/guardian-angels)
 - 4 Sancti Francisci Assisiensis - [pencil](https://www.ncronline.org/news/spirituality/pencil-preaching/st-francis-assisi)
 - 11 S. Ioannis XXIII, papæ
 - 17 Sancti Ignatii Antiocheni, episcopi et martyris

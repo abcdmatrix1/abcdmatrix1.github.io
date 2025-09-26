@@ -5,6 +5,7 @@
 
 ----
 
+- [mat](#mat)
 - [luc](#luc)  
 
 ----
@@ -24,8 +25,9 @@
 
 ----
 
-- Tempus [Quadragesimæ](./LQ.md) - Tempus [Paschale](./LP.md)   
-	- [In Ascensione Domini](./paschale/ascension.md)  
+- Tempus [Quadragesimæ](./LQ.md)  
+- Tempus [Paschale](./LP.md)  
+	- In [Ascensione](./paschale/ascension.md)  Domini
 	- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
 
 ---- 
@@ -49,13 +51,16 @@
 
 ----
 
+- In [Transfiguratione](./domini/transfiguration.md) Domini
+- In [Assumptione](./mariae/assumption.md) Beatæ Mariæ Virginis  
+
+----
+
 - `Dominica XV` (A) (B) [(C)](./annum/h15.md#c) - [Feriæ](./annum/h15.md#feriae)
 - `Dominica XVI` (A) (B) [(C)](./annum/h16.md#c) - [Feriæ](./annum/h16.md#feriae)
 - `Dominica XVII` (A) (B) [(C)](./annum/h17.md#c) - [Feriæ](./annum/h17.md#feriae)
-- In [Transfiguratione](./domini/transfiguration.md) Domini
 - `Dominica XVIII` (A) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
 - `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
-- In [Assumptione](./mariae/assumption.md) Beatæ Mariæ Virginis  
 
 ----
 
@@ -67,6 +72,10 @@
 - `Dominica XXII` (A) (B) [(C)](./annum/h22.md#c) - [Feriæ](./annum/h22.md#feriae)
 - `Dominica XXIII` (A) (B) [(C)](./annum/h23.md#c) - [Feriæ](./annum/h23.md#feriae)
 - `Dominica XXIV` (A) (B) [(C)](./annum/h24.md#c) - [Feriæ](./annum/h24.md#feriae)
+
+----
+
+- [한가위](./annum/0815k.md) 
 
 ----
 
@@ -120,6 +129,3 @@
 주님의 영광을 찬양하나이다.  
 
 ----
-
-
-
