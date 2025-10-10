@@ -41,7 +41,7 @@
 - 6 Sanctorum Pauli Miki et sociorum, martyrum
 - 10 Sanctæ Scholasticæ, virginis
 - 14 Sanctorum Cyrilli, monachi, et Methodii, episcopi
-- 22 [Cathedræ](./sanctorum/0222.md) S. Petri, apostoli
+- 22 [Cathedræ](./sanctorum/0222.md) Sancti Petri, apostoli
 - 23 Sancti Polycarpi, episcopi et martyris
 
 ----
@@ -64,7 +64,7 @@
 
 - 2 Sancti Athanasii, episcopi et Ecclesiæ doctoris
 - 3 Sanctorum [Philippi et Iacobi](./sanctorum/0503.md), apostolorum
-- 14 [Matt](./sanctorum/0514.md)  
+- 14 Sancti [Matthiæ](./sanctorum/0514.md), apostoli  
 - 26 Sancti [Philippi Neri](./sanctorum/0526.md), presbyteri
 - 29 [복자](./sanctorum/0529.md) 윤지충 바오로와 동료 순교자들
 
@@ -89,8 +89,8 @@
 - 15 S. Bonaventuræ, episcopi et Ecclesiæ doctoris
 - 22 S. Mariæ Magdalenæ
 - 25 S. [Iacobi](./sanctorum/0725.md), apostoli
-- 26 Ss. Ioachim et Annæ, parentum Beatæ Mariæ Virginis
-- 29 Ss. [Marthæ](./sanctorum/0729.md), Mariæ et Lazari
+- 26 Sanctorum Ioachim et Annæ, parentum Beatæ Mariæ Virginis
+- 29 Sanctorum [Marthæ](./sanctorum/0729.md), Mariæ et Lazari
 - 31 S. Ignatii de Loyola, presbyteri
 
 ----
@@ -119,11 +119,11 @@
 
 
 #### 10
-- 2 Sanctorum [Angelorum Custodum](./sanctorum/1002.md) - [Guardian Angels](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/guardian-angels)
+- 2 Sanctorum [Angelorum Custodum](./sanctorum/1002.md)  
 - 4 Sancti Francisci Assisiensis - [pencil](https://www.ncronline.org/news/spirituality/pencil-preaching/st-francis-assisi)
 - 11 S. Ioannis XXIII, papæ
 - 17 Sancti Ignatii Antiocheni, episcopi et martyris
-- 18 S. [Lucæ](./sanctorum/1018.md), evangelistæ
+- 18 Sancti [Lucæ](./sanctorum/1018.md), evangelistæ
 - 28 Sanctorum [Simonis et Iudæ](./sanctorum/1028.md), apostolorum
 
 ----
