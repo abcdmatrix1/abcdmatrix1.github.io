@@ -84,6 +84,7 @@
 - `Dominica XXVII` (A) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
 - `Dominica XXVIII` (A) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
 - `Dominica XXIX` (A) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
+	- 민족들의 [복음화](./annum/evangelization.md)를 위한 기원 미사  
 
 ----
 
