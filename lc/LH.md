@@ -89,7 +89,8 @@
 ----
 
 - [Omnium Sanctorum](./sanctorum/1101.md)
-- In Commemoratione Omnium Fidelium [Defunctorum]()
+- In Commemoratione Omnium Fidelium [Defunctorum](./annum/1102.md)
+- In Dedicatione basilicæ [Lateranensis](./annum/1109.md)
 
 ----
 
