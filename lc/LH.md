@@ -47,7 +47,6 @@
 - `Dominica XI` (A) (B) (C) - [Feriæ](./annum/h11.md#feriae)
 - `Dominica XII` (A) (B) (C) - [Feriæ](./annum/h12.md#feriae)
 - `Dominica XIII` (A) (B) (C) - [Feriæ](./annum/h13.md#feriae)
-- `Dominica XIV` (A) (B) [(C)](./annum/h14.md#c) - [Feriæ](./annum/h14.md#feriae)
 
 ----
 
@@ -56,14 +55,15 @@
 
 ----
 
+- `Dominica XIV` (A) (B) [(C)](./annum/h14.md#c) - [Feriæ](./annum/h14.md#feriae)
 - `Dominica XV` (A) (B) [(C)](./annum/h15.md#c) - [Feriæ](./annum/h15.md#feriae)
 - `Dominica XVI` (A) (B) [(C)](./annum/h16.md#c) - [Feriæ](./annum/h16.md#feriae)
 - `Dominica XVII` (A) (B) [(C)](./annum/h17.md#c) - [Feriæ](./annum/h17.md#feriae)
 - `Dominica XVIII` (A) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
-- `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
 
 ----
 
+- `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
 - `Dominica XX` (A) (B) [(C)](./annum/h20.md#c) - [Feriæ](./annum/h20.md#feriae)
 - `Dominica XXI` (A) (B) [(C)](./annum/h21.md#c) - [Feriæ](./annum/h21.md#feriae)
 
@@ -72,30 +72,30 @@
 - `Dominica XXII` (A) (B) [(C)](./annum/h22.md#c) - [Feriæ](./annum/h22.md#feriae)
 - `Dominica XXIII` (A) (B) [(C)](./annum/h23.md#c) - [Feriæ](./annum/h23.md#feriae)
 - `Dominica XXIV` (A) (B) [(C)](./annum/h24.md#c) - [Feriæ](./annum/h24.md#feriae)
+- `Dominica XXV` (A) (B) [(C)](./annum/h25.md#c) - [Feriæ](./annum/h25.md#feriae)
+- `Dominica XXVI` (A) (B) [(C)](./annum/h26.md#c) - [Feriæ](./annum/h26.md#feriae)
 
 ----
 
 - [한가위](./annum/0815k.md) 
+- 민족들의 [복음화](./annum/evangelization.md)를 위한 기원 미사  
 
 ----
 
-- `Dominica XXV` (A) (B) [(C)](./annum/h25.md#c) - [Feriæ](./annum/h25.md#feriae)
-- `Dominica XXVI` (A) (B) [(C)](./annum/h26.md#c) - [Feriæ](./annum/h26.md#feriae)
 - `Dominica XXVII` (A) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
 - `Dominica XXVIII` (A) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
 - `Dominica XXIX` (A) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
-	- 민족들의 [복음화](./annum/evangelization.md)를 위한 기원 미사  
+- `Dominica XXX` (A) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
+- `Dominica XXXI` (A) (B) [(C)](./annum/h31.md#c) - [Feriæ](./annum/h31.md#feriae)
 
 ----
 
-- [Omnium Sanctorum](./sanctorum/1101.md)
+- [Omnium Sanctorum](./annum/1101.md)
 - In Commemoratione Omnium Fidelium [Defunctorum](./annum/1102.md)
 - In Dedicatione basilicæ [Lateranensis](./annum/1109.md)
 
 ----
 
-- `Dominica XXX` (A) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
-- `Dominica XXXI` (A) (B) [(C)](./annum/h31.md#c) - [Feriæ](./annum/h31.md#feriae)
 - `Dominica XXXII` (A) (B) [(C)](./annum/h32.md#c) - [Feriæ](./annum/h32.md#feriae)
 - `Dominica XXXIII` (A) (B) [(C)](./annum/h33.md#c) - [Feriæ](./annum/h33.md#feriae)
 - `Domini nostri Iesu Christi Universorum Regis`  [(A)](./annum/h34.md#a) (B) (C) - [Feriæ](./annum/h34.md#feriae)  `Hebdomadæ XXXIV per annum`
