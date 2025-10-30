@@ -1,7 +1,8 @@
 # In Nativitate Domini
 * 주님 성탄 대축일
 
-
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/2022-12/Shepherds.jpg)
+- [Come and see](https://www.ncronline.org/spirituality/pencil-preaching/come-and-see)
 
 ----
 
