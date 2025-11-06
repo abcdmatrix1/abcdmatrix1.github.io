@@ -5,6 +5,7 @@
 
 ----
 
+- [defunctorum](./annum/defunct.md)
 - [mat](#mat)
 - [luc](#luc)  
 
