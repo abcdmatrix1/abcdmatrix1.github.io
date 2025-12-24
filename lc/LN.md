@@ -7,7 +7,8 @@
 ----
 
 ## In Nativitate Domini
-- Ad Missam in Vigilia 주님 성탄 대축일 (전야 미사)  
+- Ad Missam in Vigilia 주님 성탄 대축일 전야 미사  
+> `탈출 16,6-7` 오늘 너희는 우리를 구원하러 오시는 분이 주님이심을 알게 되리라. 아침이 되면 주님의 영광을 보리라.  
 
 - Ad Missam in Nocte 주님 성탄 대축일 밤 미사  
 > `시편 2,7` 주님이 나에게 말씀하셨다. 너는 내 아들. 내가 오늘 너를 낳았노라.  
@@ -22,17 +23,17 @@
 
 ## Infra Octavam Nativitatis Domini
 
-- 26 De II die infra octavam Nativitatis (성탄 팔일 축제 제2일)
-	- Sancti [Stephani](./sanctorum/1226.md), protomartyris (성 스테파노 첫 순교자 축일)
-- 27 De III die infra octavam Nativitatis (성탄 팔일 축제 제3일)
-	- Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ (성 요한 사도 복음사가 축일)
-- 28 De IV die infra octavam Nativitatis (성탄 팔일 축제 제4일)
-	- [Sanctorum Innocentium](./nativitatis/innocentium.md), martyrum (죄 없는 아기 순교자들 축일)
+- 26 De II die infra octavam Nativitatis  
+	- Sancti [Stephani](./sanctorum/1226.md), protomartyris  
+- 27 De III die infra octavam Nativitatis  
+	- Sancti [Ioannis](./sanctorum/1227.md), apostoli et evangelistæ  
+- 28 De IV die infra octavam Nativitatis  
+	- [Sanctorum Innocentium](./nativitatis/innocentium.md), martyrum  
 - 29 De [V die infra octavam](./nativitatis/nat.md#5) Nativitatis
 - 30 De [VI die infra octavam](./nativitatis/nat.md#6) Nativitatis
-- 31 De [VII die infra octavam](./nativitatis/nat.md#7.md) Nativitatis (성탄 팔일 축제 제7일)
+- 31 De [VII die infra octavam](./nativitatis/nat.md#7.md) Nativitatis  
 - Dominica II post Nativitatem (성탄 팔일 축제 내 주일)  
-	- [Sanctæ Familiæ Iesu, Mariæ et Ioseph](./nativitatis/familia.md) (예수, 마리아, 요셉의 성가정 축일)  
+	- [Sanctæ Familiæ](./nativitatis/familia.md) Iesu, Mariæ et Ioseph  
 - [Sanctæ Dei Genitricis Mariæ](./mariae/genetrice.md) (천주의 성모 마리아 대축일)  
 
 ----
@@ -46,13 +47,9 @@
 - [Feria VI](./nativitatis/epiphany.md#f6) temporis Nativitatis  
 - [Sabbato](./nativitatis/epiphany.md#fs) temporis Nativitatis  
 
-
 ----
-
 
 ## In Epiphania Domini  
 
 - In [Epiphania](./nativitatis/epiphany.md#epi) Domini - feriae post epiphanem  
 - In [Baptismate](./nativitatis/baptismate.md) Domini  - [Tempus per annum](./LH.md)
-
-
