@@ -38,18 +38,15 @@
 
 ----
 
-## Feriae temporis Nativitatis
+## in feriis temporis Nativitatis  
 
-- [Feria II](./nativitatis/epiphany.md#f2) temporis Nativitatis  
-- Feria III temporis Nativitatis  
-- Feria IV temporis Nativitatis  
-- Feria V temporis Nativitatis  
-- [Feria VI](./nativitatis/epiphany.md#f6) temporis Nativitatis  
-- [Sabbato](./nativitatis/epiphany.md#fs) temporis Nativitatis  
+- in [feriis](./nativitatis/epiphany.md#in-feriis-temporis-nativitatis) temporis Nativitatis  
 
 ----
 
 ## In Epiphania Domini  
 
-- In [Epiphania](./nativitatis/epiphany.md#epi) Domini - feriae post epiphanem  
-- In [Baptismate](./nativitatis/baptismate.md) Domini  - [Tempus per annum](./LH.md)
+- In [Epiphania](./nativitatis/epiphany.md#epi) Domini 
+- in [feriis](./nativitatis/epiphany.md#in-ferii-post-epiphaniam) post epiphanem  
+- In [Baptismate](./nativitatis/baptismate.md) Domini  
+- [Tempus per annum](./LH.md)
