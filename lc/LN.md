@@ -40,13 +40,27 @@
 
 ## in feriis temporis Nativitatis  
 
-- in [feriis](./nativitatis/epiphany.md#in-feriis-temporis-nativitatis) temporis Nativitatis  
+- In [feriis](./nativitatis/epiphany.md#in-feriis-temporis-nativitatis) temporis Nativitatis  
 
 ----
 
 ## In Epiphania Domini  
 
-- In [Epiphania](./nativitatis/epiphany.md#epi) Domini 
-- in [feriis](./nativitatis/epiphany.md#in-ferii-post-epiphaniam) post epiphanem  
-- In [Baptismate](./nativitatis/baptismate.md) Domini  
-- [Tempus per annum](./LH.md)
+- In [Epiphania](./nativitatis/epiphany.md#epiphania) Domini - in [feriis](./nativitatis/epiphany.md#in-feriis-post-epiphaniam) post epiphaniam  
+- In [Baptismate](./nativitatis/baptismate.md) Domini  - Tempus per [annum](./LH.md)
+
+----
+
+###### point
+
+- 예수님 시대에 이르러 예언자는 매우 옛날 것이다. 찾아보기 힘듦.
+- 단순히 어떤 희망, 뜻을 추구한 것을 넘어서서 온갖 어려움(세상의 외면)을 거쳐 버틴 것
+	- 한나 예언자가 성전에서 기도드리는 모습을 상상해봅시다. 오랜 세월 동안 한나가 기도한 자리를 떠올려 봅시다. 얼마나 많은 시간이 흘렀고, 얼마나 많은 사람들이 그 자리를 또한 이용했고, 한나도 그 자리를 거쳐갔을까요?
+- 성탄, 예수님이 오심으로 그 기다림이 끝이 난 것.
+- 서간 저자는 죄의 용서, 악에 대한 승리, 하느님을 아버지로 아는 것을 말하고 있다.
+- 세상의 것을 추구하는 것은 중요하다. 하지만 우리는 세상만 사랑하는 것이 아니라, 하느님의 뜻도 함께 사랑해야 한다. 그것이 비록 옛날 것처럼 보이고 중요해보이지 않더라도. 
+- 성탄 시기는 구세주를 알아보는 시간. 
+- 어떻게 알아보는가? 신앙 감각이 있다. 신앙 감각으로 우리는 구세주를 섬기는 것. 
+- 그 신앙 감각은 오늘 세례자 요한이 말한 성령으로 세례를 받았기 때문에 가능하다. 세례자 요한의 가리키는 분을 우리는 신앙 감각으로 비로소 알아볼 수 있는 것. 
+- 그리고 이 감각이 자라는 것은 우리가 모였을 때 자라나는 것. 신자, 예비 신자. 
+- 공현을 앞두고, 그리고 성탄 시기 이후 예수님의 공생활을 앞으로 묵상하게 될 것입니다. 우리 신앙 감각을 키우도록 청합시다. 
