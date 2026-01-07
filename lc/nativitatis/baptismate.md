@@ -5,6 +5,16 @@
 
 ----
 
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/Jan%209.jpg)  
+
+- [Our Baptisms](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/our-baptisms)
+
+- [Alive in Christ](https://www.ncronline.org/spirituality/pencil-preaching/alive-christ)
+
+- [Community of the Baptized](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/community-baptized)
+
+----
+
 > `마태 3,16-17` 주님이 세례를 받으시자 하늘이 열렸네. 성령이 비둘기처럼 그분 위에 머무르시고, 아버지의 목소리가 들려왔네. 이는 내가 사랑하는 아들, 내 마음에 드는 아들이다.
 
 > 전능하시고 영원하신 하느님, 요르단 강에서 세례를 받으신 그리스도께 성령을 보내시어 하느님의 사랑하시는 아들로 선포하셨으니 물과 성령으로 새로 난 저희도 언제나 하느님 마음에 드는 자녀로 살아가게 하소서.  
