@@ -1,7 +1,8 @@
 # In Baptismate Domini
 * 주님 세례 축일
 
-> inicio / LC / Tempore Nativitatis / Baptismate
+> inicio / [LC](../../LC.md) / Tempore [Nativitatis](../LN.md) / Baptismate  
+> inicio / LC / Tempus per [annum](../annum/h01.md)
 
 ----
 
