@@ -7,3 +7,10 @@
 
 https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/joy-world
 
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/Simeon%20and%20Jesus.jpg)
+
+- [Seeing Christ](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/seeing-christ)
+
+
+----
+
