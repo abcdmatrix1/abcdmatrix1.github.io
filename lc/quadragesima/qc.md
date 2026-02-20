@@ -49,6 +49,11 @@
 
 > `시편 95(94)` 오늘 너희는 주님 목소리에 귀를 기울여라. 너희 마음을 무디게 하지 마라.
 
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-02/smudge.jpg)  
+
+- [lent](https://www.ncronline.org/spirituality/pencil-preaching/welcome-lent-2023)
+
+
 `마태 6,1-6.16-18` 그때에 예수님께서 제자들에게 말씀하셨다. 
 > 1 “너희는 사람들에게 보이려고 그들 앞에서 의로운 일을 하지 않도록 조심하여라. 그러지 않으면 하늘에 계신 너희 아버지에게서 상을 받지 못한다.  
 2 그러므로 네가 자선을 베풀 때에는, 위선자들이 사람들에게 칭찬을 받으려고 회당과 거리에서 하듯이, 스스로 나팔을 불지 마라.  
