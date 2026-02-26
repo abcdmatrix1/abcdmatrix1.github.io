@@ -171,6 +171,10 @@
 
 > 저희 임금님, 경배하나이다. 당신만이 저희 잘못을 용서하시나이다.
 
+![](https://staging.ncronline.org/files/styles/article_one_third_width/public/2023-04/agony.jpg)  
+
+- [Surely it is not I?](https://staging.ncronline.org/spirituality/pencil-preaching/surely-it-not-i)
+
 `마태 26,14-25` 그때에 열두 제자 가운데 하나로 유다 이스카리옷이라는 자가 수석 사제들에게 가서,  
 > 15 “내가 그분을 여러분에게 넘겨주면 나에게 무엇을 주실 작정입니까?”
 
