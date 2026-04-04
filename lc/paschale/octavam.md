@@ -5,13 +5,14 @@
 
 ----
 
-- Ad [Vigiliam Paschalem](./vigiliam.md) in Nocte Sancta  
+- Ad [Vigiliam](./vigiliam.md) Paschalem in Nocte Sancta  
 - [INFRA OCTAVAM PASCHAE](#feriae)  
 - [Dominica II](./p2.md) Paschale  
 
 ----
 
 ###### die
+
 ## Ad Missam in Die
 
 > `시편 139(138),18.5-6`  
