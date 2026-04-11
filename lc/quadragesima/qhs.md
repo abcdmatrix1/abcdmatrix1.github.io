@@ -314,6 +314,10 @@
 
 ----
 
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-04/nard.jpg)  
+
+- [Anointed for death](https://www.ncronline.org/spirituality/pencil-preaching/anointed-death)
+
 > 저희 임금님, 경배하나이다. 당신만이 저희 잘못을 용서하시나이다.
 
 `요한 12,1-11` 예수님께서는 파스카 축제 엿새 전에 베타니아로 가셨다. 그곳에는 예수님께서 죽은 이들 가운데에서 다시 일으키신 라자로가 살고 있었다.  
