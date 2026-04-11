@@ -22,6 +22,16 @@
 * in dominicis adventus et quadragesimae  
 * in feriis adventus quadragesimae et ad missam pro defunctis
 
+- antiphona ad introitum
+- lectionis
+	- lectio prima
+	- psalmus responsorialis
+	- lectio secunda
+	- alleluia
+	- evangélium
+- præfatio 
+- antiphona post communionem
+
 ----
 
 `1코린 10,17` 빵이 하나이니 우리는 여럿일지라도 한 몸입니다. 우리가 모두 그 한 빵을 함께 나누기 때문입니다.
