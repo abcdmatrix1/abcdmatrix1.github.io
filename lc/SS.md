@@ -55,7 +55,7 @@
 
 #### 4
 
-- 25 Sancti Marci, evangelistæ
+- 25 Sancti [Marci](./sanctorum/0425.md), evangelistæ
 - 29 Sanctæ [Catharinæ](./sanctorum/0429.md) Senensis, virginis et Ecclesiæ doctoris
 
 ----
