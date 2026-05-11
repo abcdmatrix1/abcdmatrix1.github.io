@@ -11,6 +11,10 @@
 
 > `교육 주간` 한국천주교주교회의는 2006년 춘계 정기 총회에서 해마다 ‘청소년 주일’(5월 마지막 주일)까지의 한 주간을 ‘교육 주간’으로 정하였다. 교회의 사명을 수행하는 데 무엇보다도 교육이 중요하고 시급한 과제이기에 가톨릭 교육에 대한 의식을 높이고 이를 위한 구체적인 실천 방안을 마련하는 기회로 삼고자 한 것이다.
 
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/May%2023%20Pentecost_1.jpg)  
+
+- [Mary and the Church](https://www.ncronline.org/news/spirituality/pencil-preaching/mary-and-church)  
+
 ----
 
 > `사도 1,14` 제자들은 예수님의 어머니 마리아와 함께 한마음으로 기도에 전념하였네.  

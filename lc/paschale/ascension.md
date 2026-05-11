@@ -127,6 +127,8 @@
 
 #### C
 
+- [With you always](https://www.ncronline.org/news/spirituality/pencil-preaching/you-always-0)
+
 `루카 24,46-53` 그때에 예수님께서 제자들에게 46 이르셨다.  
 > “성경에 기록된 대로, 그리스도는 고난을 겪고 사흘 만에 죽은 이들 가운데에서 다시 살아나야 한다. 
 > 47 그리고 예루살렘에서부터 시작하여, 죄의 용서를 위한 회개가 그의 이름으로 모든 민족들에게 선포되어야 한다.  
