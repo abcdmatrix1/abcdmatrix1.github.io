@@ -4,8 +4,6 @@
 > [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Paschae](../LP.md) / Ascensione Domini  
 
 - 부활 [제7주일](./p7.md)  
-
-![](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Ascension%20Thursday.jpg)  
   
 ----
   
@@ -106,8 +104,13 @@
 > “나는 하늘과 땅의 모든 권한을 받았다. 19 그러므로 너희는 가서 모든 민족들을 제자로 삼아, 아버지와 아들과 성령의 이름으로 세례를 주고, 20 내가 너희에게 명령한 모든 것을 가르쳐 지키게 하여라.  
 > 보라, 내가 세상 끝 날까지 언제나 너희와 함께 있겠다.”  
 
-- [I am with You always](https://www.ncronline.org/spirituality/pencil-preaching/i-am-you-always-0)  
+![](https://www.ncronline.org/files/styles/article_one_third_width/public/2023-05/Ascension%20Thursday.jpg)  
 
+- [I am with you always](https://www.ncronline.org/spirituality/pencil-preaching/i-am-you-always-0)  
+
+![](https://www.ncronline.org/files/leap.jpg)  
+
+- [Where do we go from here?](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/where-do-we-go-here-0)
 ----
 
 #### B 
