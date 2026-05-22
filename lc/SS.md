@@ -74,6 +74,7 @@
 
 - 1 S. Iustini, martyris
 - 9 S. Ephræm, diaconi et Ecclesiæ doctoris
+- 11 Sancti [Barnabae](./sanctorum/0611.md), apostoli
 - 13 Sancti Antonii de Padova, presbyteri et Ecclesiæ doctoris
 - 21 Sancti Aloisii Gonzaga, religiosi
 - 24 In Nativitate Sancti [Ioannis Batpistae](./sanctorum/0624.md)
