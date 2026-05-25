@@ -7,7 +7,7 @@
 
 * Tempus [Adventus](./lc/LA.md) - [Nativitatis](./lc/LN.md)  
 * Tempus [Quadragesimæ](./lc/LQ.md) - [Paschale](./lc/LP.md)  
-* Tempus per [annum](./lc/LH.md)  
+* Tempus per [annum](./lc/LH.md#mat)  
 
 ----
 
