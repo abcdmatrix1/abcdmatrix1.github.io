@@ -14,7 +14,9 @@
 - In [Baptismate](./nativitatis/baptismate.md) Domini  - [Feriæ](./annum/h01.md#feriae)  `hebdomadæ I per annum`    
 - `Dominica II`  (A) (B) [(C)](./annum/h02.md#c) - [Feriæ](./annum/h02.md#feriae)  `hebdomadæ II per annum`   
 - `Dominica III` [(A)](./annum/h03.md#a) (B) [(C)](./annum/h03.md#c) - [Feriæ](./annum/h03.md#feriae) `hebdomadæ III per annum`   
-	- In [Presentatione](./domini/presentatione.md) Domini  
+- `Dominica IV`  [(A)](./annum/h04.md#a) (B) (C) - [Feriæ](./annum/h04.md#feriae) `hebdomadæ IV per annum`   
+- `Dominica V` [(A)](./annum/h05.md#a) (B) [(C)](./annum/h05.md#c) - [Feriæ](./annum/h05.md#feriae) `hebdomadæ V per annum`   
+- In [Presentatione](./domini/presentatione.md) Domini  
 
 ----
 
@@ -22,36 +24,39 @@
 
 ----
 
-- `Dominica IV`  [(A)](./annum/h04.md#a) (B) (C) - [Feriæ](./annum/h04.md#feriae) `hebdomadæ IV per annum`   
-- `Dominica V` [(A)](./annum/h05.md#a) (B) [(C)](./annum/h05.md#c) - [Feriæ](./annum/h05.md#feriae) `hebdomadæ V per annum`   
 - `Dominica VI` (A) (B) [(C)](./annum/h06.md#c) - [Feriæ](./annum/h06.md#feriae) `hebdomadæ VI per annum`   
 - `Dominica VII` (A) (B) [(C)](./annum/h07.md#c) - [Feriæ](./annum/h07.md#feriae) `hebdomadæ VII per annum`   
 - `Dominica VIII` (A) (B) [(C)](./annum/h08.md#c) - [Feriæ](./annum/h08.md#feriae) `hebdomadæ VIII per annum`   
+- `Dominica IX` (A) (B) (C) - [Feriæ](./annum/h09.md#feriae)
 
 ----
 
 - Tempus [Quadragesimæ](./LQ.md)  
 - Tempus [Paschale](./LP.md)  
 	- In [Ascensione](./paschale/ascension.md)  Domini
-	- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
-
+- [Dominica Pentecostes](./paschale/pentecoste.md)  
 ---- 
 
 - Sanctissimae [Trinitatis](./domini/trinidad.md)  
-	- [Immaculati Cordis](./mariae/imm-cor.md) Beatæ Mariæ Virginis
-- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
-	- [민족의 화해와 일치](./annum/0625.md)를 위한 기도의 날 - 남북통일 기원 미사
+	- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
+		- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
+			- [Immaculati Cordis](./mariae/imm-cor.md) Beatæ Mariæ Virginis
 
 ----
 
-- `Dominica IX` (A) (B) (C) - [Feriæ](./annum/h09.md#feriae)
+- [민족의 화해와 일치](./annum/0625.md)를 위한 기도의 날 - 남북통일 기원 미사
+
+----
+
 
 ###### mat
 
 - `Dominica X` (A) (B) (C) - [Feriæ](./annum/h10.md#feriae)
 - `Dominica XI` [(A)](./annum/h11.md#a) (B) (C) - [Feriæ](./annum/h11.md#feriae)
-- `Dominica XII` (A) (B) (C) - [Feriæ](./annum/h12.md#feriae)
-- `Dominica XIII` (A) (B) (C) - [Feriæ](./annum/h13.md#feriae)
+- `Dominica XII` [(A)](./annum/h12.md#a) (B) (C) - [Feriæ](./annum/h12.md#feriae)
+- `Dominica XIII` [(A)](./annum/h13.md#a) (B) (C) - [Feriæ](./annum/h13.md#feriae)
+- `Dominica XIV` [(A)](./annum/h14.md#a) (B) [(C)](./annum/h14.md#c) - [Feriæ](./annum/h14.md#feriae)
+- `Dominica XV` [(A)](./annum/h15.md#a) (B) [(C)](./annum/h15.md#c) - [Feriæ](./annum/h15.md#feriae)
 
 ----
 
@@ -60,17 +65,15 @@
 
 ----
 
-- `Dominica XIV` (A) (B) [(C)](./annum/h14.md#c) - [Feriæ](./annum/h14.md#feriae)
-- `Dominica XV` (A) (B) [(C)](./annum/h15.md#c) - [Feriæ](./annum/h15.md#feriae)
-- `Dominica XVI` (A) (B) [(C)](./annum/h16.md#c) - [Feriæ](./annum/h16.md#feriae)
-- `Dominica XVII` (A) (B) [(C)](./annum/h17.md#c) - [Feriæ](./annum/h17.md#feriae)
-- `Dominica XVIII` (A) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
+- `Dominica XVI` [(A)](./annum/h16.md#a) (B) [(C)](./annum/h16.md#c) - [Feriæ](./annum/h16.md#feriae)
+- `Dominica XVII` [(A)](./annum/h17.md#a) (B) [(C)](./annum/h17.md#c) - [Feriæ](./annum/h17.md#feriae)
+- `Dominica XVIII` [(A)](./annum/h18.md#a) (B) [(C)](./annum/h18.md#c) - [Feriæ](./annum/h18.md#feriae)
+- `Dominica XIX` [(A)](./annum/h19.md#a) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
+- `Dominica XX` [(A)](./annum/h20.md#a) (B) [(C)](./annum/h20.md#c) - [Feriæ](./annum/h20.md#feriae)
+- `Dominica XXI` [(A)](./annum/h21.md#a) (B) [(C)](./annum/h21.md#c) - [Feriæ](./annum/h21.md#feriae)
 
 ----
 
-- `Dominica XIX` (A) (B) [(C)](./annum/h19.md#c) - [Feriæ](./annum/h19.md#feriae)
-- `Dominica XX` (A) (B) [(C)](./annum/h20.md#c) - [Feriæ](./annum/h20.md#feriae)
-- `Dominica XXI` (A) (B) [(C)](./annum/h21.md#c) - [Feriæ](./annum/h21.md#feriae)
 
 ###### luc
 
