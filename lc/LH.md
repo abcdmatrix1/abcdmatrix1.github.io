@@ -34,13 +34,14 @@
 - Tempus [Quadragesimæ](./LQ.md)  
 - Tempus [Paschale](./LP.md)  
 	- In [Ascensione](./paschale/ascension.md)  Domini
-- [Dominica Pentecostes](./paschale/pentecoste.md)  
+	- [Dominica Pentecostes](./paschale/pentecoste.md)  
+
 ---- 
 
 - Sanctissimae [Trinitatis](./domini/trinidad.md)  
-	- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
-		- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
-			- [Immaculati Cordis](./mariae/imm-cor.md) Beatæ Mariæ Virginis
+- Sanctissimi [Corporis et Sanguinis Christi](./domini/corpus-christi.md)  
+	- Sacratissimi [Cordis](./domini/coeur.md) Iesu  
+		- [Immaculati Cordis](./mariae/imm-cor.md) Beatæ Mariæ Virginis
 
 ----
 
