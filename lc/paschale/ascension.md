@@ -5,6 +5,16 @@
 
 - 부활 [제7주일](./p7.md)  
   
+  
+- [1](https://www.ncronline.org/spirituality/pencil-preaching/i-am-you-always-0)
+
+- [2](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/you-always)
+
+- [3](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/where-do-we-go-here-0)
+
+
+
+
 ----
   
 > `사도 1,11` 갈릴래아 사람들아, 왜 하늘을 쳐다보며 서 있느냐? 주님은 너희가 보는 앞에서 하늘로 올라가신 모습 그대로 다시 오시리라. 알렐루야.  
