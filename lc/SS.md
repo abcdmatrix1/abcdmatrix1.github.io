@@ -88,8 +88,8 @@
 - 5 한국 성직자들의 수호자 성 [김대건](./sanctorum/0705.md) 안드레아 사제 순교자 `신심미사`
 - 11 S. Benedicti, abbatis
 - 15 S. Bonaventuræ, episcopi et Ecclesiæ doctoris
-- 22 S. Mariæ Magdalenæ
-- 25 S. [Iacobi](./sanctorum/0725.md), apostoli
+- 22 Sancti Mariæ [Magdalenæ](./sanctorum/0722.md)
+- 25 Sancti [Iacobi](./sanctorum/0725.md), apostoli
 - 26 Sanctorum Ioachim et Annæ, parentum Beatæ Mariæ Virginis
 - 29 Sanctorum [Marthæ](./sanctorum/0729.md), Mariæ et Lazari
 - 31 S. Ignatii de Loyola, presbyteri
@@ -113,7 +113,7 @@
 
 #### 9
 
-- 20 성 [김대건](./sanctorum/0920.md) 안드레아와 성 정하상 바오로와 동료 순교자들 대축일
+- 20 성 김대건 안드레아와 성 정하상 바오로와 동료 [순교자](./sanctorum/0920.md)들 대축일
 - 29 Sanctorum Michælis, Gabrielis et Raphælis, [archangelorum](./sanctorum/0929.md)  
 
 ----
