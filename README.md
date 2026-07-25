@@ -75,3 +75,38 @@ que me aleje de tu amor
 Nada, no puede haber nada, 
 que me aleje de tu amor, 
 que me aleje de tu amor.
+
+----
+
+#### Serviteurs dans la foi 
+
+Serviteurs dans la foi,  
+Nous avons frayé un chemin de confiance.  
+Vienne ton heure qui nous affermira.  
+Quand s'épuise l'espoir,  
+la grâce est abondante.  
+
+Serviteurs sans éclat,  
+Nous avons choisi d'obéir et de croire.  
+Elle intercède, la mère du Seigneur :  
+Ecoutez ce qu'il dit et vous verrez sa gloire.  
+
+Serviteurs fatigués,  
+Nous avons peiné et porté en silence.  
+Où tu demeures se trouve le repos.  
+Au sillon de ce temps, que germe la patience.  
+
+Serviteurs aux mains nues,  
+Nous avons puisé dans le creux de nos failles.  
+Et le miracle a jailli de nos mains.  
+Tu imprimes en nos cœurs le signe de ta gloire.  
+
+Serviteurs bienheureux,  
+Nous avons goûté au bon vin de la noce.  
+Joie débordante, abondance inouïe,  
+Dieu révèle son cœur à ceux qui se font pauvres.  
+
+- Gloire à toi,  Gloire à toi,  
+Dieu de toute espérance.  
+Vin joyeux, Esprit Saint remplis-nous  
+De ta douce présence.  
