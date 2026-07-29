@@ -10,6 +10,10 @@
 1457년 갈리스토 3세 교황께서 보편 전례력에 이 축일을 받아들이셨다.
 ```
 
+![](https://www.ncronline.org/files/completed%20crane_0.jpg)  
+
+- [Transfigured](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/transfigured)
+
 ----
 
 > `마태 17,5` 빛나는 구름 속에서 성령이 나타나시고 아버지의 목소리가 들려왔네. 이는 내가 사랑하는 아들, 내 마음에 드는 아들이니, 너희는 그의 말을 들어라.
