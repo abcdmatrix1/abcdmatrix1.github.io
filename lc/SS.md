@@ -99,6 +99,7 @@
 #### 8
 
 - 8 S. Dominici, presbyteri
+- 10 Sancti [Laurentii](./sanctorum/0810.md), diaconi et martyris  
 - 11 S. Claræ, virginis
 - 14 S. Maximiliani Mariæ Kolbe, presbyteri et martyris
 - 20 S. Bernardi, abbatis et Ecclesiæ doctoris
