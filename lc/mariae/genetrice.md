@@ -5,9 +5,7 @@
 ![](https://www.ncronline.org/files/styles/article_one_third_width/public/Assumption_0.jpg)
 
 - [Mother Mary](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/mother-mary-0)  
-
 - [A mother's love](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/mothers-love) 
-
 - [Mother Mary](https://www.ncronline.org/spirituality/pencil-preaching/mother-mary)  
 
 ----
