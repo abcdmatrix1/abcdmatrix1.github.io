@@ -105,6 +105,7 @@
 - 20 S. Bernardi, abbatis et Ecclesiæ doctoris
 - 21 S. Pii X, papæ
 - 23 S. Rosæ de Lima, virginis
+- 24 Sancti [Bartholomæi](./sanctorum/0824.md), apostoli
 - 27 S. Monicæ
 - 28 S. Augustini, episcopi et Ecclesiæ doctoris
 - 29 In [Passione](./sanctorum/0829.md) Sancti Ioannis Baptistæ, martyris
