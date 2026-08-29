@@ -78,24 +78,25 @@
 
 ###### luc
 
-- `Dominica XXII` (A) (B) [(C)](./annum/h22.md#c) - [Feriæ](./annum/h22.md#feriae)
-- `Dominica XXIII` (A) (B) [(C)](./annum/h23.md#c) - [Feriæ](./annum/h23.md#feriae)
-- `Dominica XXIV` (A) (B) [(C)](./annum/h24.md#c) - [Feriæ](./annum/h24.md#feriae)
-- `Dominica XXV` (A) (B) [(C)](./annum/h25.md#c) - [Feriæ](./annum/h25.md#feriae)
-- `Dominica XXVI` (A) (B) [(C)](./annum/h26.md#c) - [Feriæ](./annum/h26.md#feriae)
+- `Dominica XXII` [(A)](./annum/h22.md#feriae) (B) [(C)](./annum/h22.md#c) - [Feriæ](./annum/h22.md#feriae)
+- `Dominica XXIII` [(A)](./annum/h23.md#feriae) (B) [(C)](./annum/h23.md#c) - [Feriæ](./annum/h23.md#feriae)
+- `Dominica XXIV` [(A)](./annum/h24.md#feriae) (B) [(C)](./annum/h24.md#c) - [Feriæ](./annum/h24.md#feriae)
+- `Dominica XXV` [(A)](./annum/h25.md#feriae) (B) [(C)](./annum/h25.md#c) - [Feriæ](./annum/h25.md#feriae)
+- `Dominica XXVI` [(A)](./annum/h26.md#feriae) (B) [(C)](./annum/h26.md#c) - [Feriæ](./annum/h26.md#feriae)
 
 ----
 
+- 성 김대건 안드레아 사제와 성 정하상 바오로와 동료 [순교자](./sanctorum/0920.md)들 대축일
 - [한가위](./annum/0815k.md) 
 - 민족들의 [복음화](./annum/evangelization.md)를 위한 기원 미사  
 
 ----
 
-- `Dominica XXVII` (A) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
-- `Dominica XXVIII` (A) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
-- `Dominica XXIX` (A) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
-- `Dominica XXX` (A) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
-- `Dominica XXXI` (A) (B) [(C)](./annum/h31.md#c) - [Feriæ](./annum/h31.md#feriae)
+- `Dominica XXVII` [(A)](./annum/h27.md#feriae) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
+- `Dominica XXVIII` [(A)](./annum/h28.md#feriae) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
+- `Dominica XXIX` [(A)](./annum/h29.md#feriae) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
+- `Dominica XXX` [(A)](./annum/h30.md#feriae) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
+- `Dominica XXXI` [(A)](./annum/h31.md#feriae) (B) [(C)](./annum/h31.md#c) - [Feriæ](./annum/h31.md#feriae)
 
 ----
 
