@@ -634,6 +634,10 @@
 
 - [Indignation](https://www.ncronline.org/news/spirituality/pencil-preaching/indignation-0)
 
+![](https://www.ncronline.org/files/10th%20leper_1.jpg)  
+
+- [Si puedo](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/si-puedo)
+
 > `시편 112(111),4` 올곧은 이들에게는 어둠 속에서 빛이 솟으리라. 주님은 너그럽고 자비로우며 의로우시다.
 
 > 전능하신 하느님, 별의 인도로 구세주의 탄생을 알려 주셨으니 저희가 언제나 구세주를 믿고
