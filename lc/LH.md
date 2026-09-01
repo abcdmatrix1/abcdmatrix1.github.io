@@ -86,6 +86,7 @@
 
 ----
 
+- [In Nativitate](./mariae/0908.md) Beatæ Mariæ Virginis
 - 성 김대건 안드레아 사제와 성 정하상 바오로와 동료 [순교자](./sanctorum/0920.md)들 대축일
 - [한가위](./annum/0815k.md) 
 - 민족들의 [복음화](./annum/evangelization.md)를 위한 기원 미사  
