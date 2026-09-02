@@ -52,8 +52,8 @@ Beatæ Mariæ Virginis in Sabbato
 ----
 
 #### 9
-- 8 [In Nativitate](./mariae/0908.md) Beatæ Mariæ Virginis
-- 12 [Sanctissimi Nominis]() Mariæ
+- 8 In [Nativitate](./mariae/0908.md) Beatæ Mariæ Virginis
+- 12 Sanctissimi Nominis Mariæ
 - 15 Beatæ Mariæ Virginis [Perdolentis](./mariae/0915.md)
 
 ----
@@ -65,15 +65,15 @@ Beatæ Mariæ Virginis in Sabbato
 
 #### 11
 
-- 21 [In Præsentatione]() Beatæ Mariæ Virginis 
+- 21 [In Præsentatione](./mariae/1121.md) Beatæ Mariæ Virginis 
 	- [Rich Widow](https://www.ncronline.org/spirituality/pencil-preaching/rich-widow)
 	- **Commemoration of the Presentation of Mary**
 
 ----
 
 #### 12
-- 8 In Conceptione [Immaculata](./mariae/imm-conception.md) Beatæ Mariæ Virginis
+- 8 In [Conceptione Immaculata](./mariae/imm-conception.md) Beatæ Mariæ Virginis
 - 12 Beatæ Mariæ Virginis de [Guadalupe](./mariae/guadalupe.md)
-- Sanctæ Familiæ Iesu, Mariæ et Ioseph
+- Sanctæ [Familiæ](./nativitatis/familia.md) Iesu, Mariæ et Ioseph
 
 ----
