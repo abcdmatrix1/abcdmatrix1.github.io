@@ -90,13 +90,15 @@
 ----
 
 ###### 6
+
 > De VI die infra octavam Nativitatis
 > 성탄 팔일 축제 제6일
+
+- [Guides to the New Year](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/guides-new-year)
 
 ----
 
 `지혜 18,14-15` 부드러운 정적이 만물을 뒤덮고, 시간은 흘러 한밤중이 되었을 때, 주님, 당신의 전능한 말씀이 하늘의 왕좌에서 내려왔나이다.
-
 
 ----
 

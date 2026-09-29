@@ -59,7 +59,7 @@ Beatæ Mariæ Virginis in Sabbato
 ----
 
 #### 10
-- 7 Beatæ Mariæ Virginis [a Rosario](./mariae/rosario.md)
+- 7 Beatæ Mariæ Virginis [a Rosario](./mariae/1007.md)
 
 ----
 

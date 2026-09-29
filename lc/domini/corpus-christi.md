@@ -7,6 +7,8 @@
 - [삼위일체 대축일](./trinidad.md)  
 - 지극히 거룩하신 [예수 성심 대축일](./coeur.md)  
 
+- [Become what we consume](https://www.ncronline.org/news/spirituality/pencil-preaching/become-what-we-consume)
+
 ----
 
 > `시편 81(80),17` 내 백성에게 나는 기름진 참밀을 먹이고, 바위틈의 석청으로 배부르게 하였노라.
