@@ -107,7 +107,7 @@
 - 23 S. Rosæ de Lima, virginis
 - 24 Sancti [Bartholomæi](./sanctorum/0824.md), apostoli
 - 27 S. Monicæ
-- 28 S. Augustini, episcopi et Ecclesiæ doctoris
+- 28 Sancti Augustini, episcopi et Ecclesiæ doctoris
 - 29 In [Passione](./sanctorum/0829.md) Sancti Ioannis Baptistæ, martyris
 
 
@@ -134,10 +134,10 @@
 
 #### 11
 
-- 1 [Omnium Sanctorum](./sanctorum/1101.md)
-- 2 In Commemoratione Omnium Fidelium Defunctorum
+- 1 [Omnium Sanctorum](./annum/1101.md)
+- 2 In Commemoratione Omnium Fidelium [Defunctorum](./annum/1102.md)
 - 4 S. Caroli Borromeo, episcopi
-- 9 In Dedicatione basilicæ [Lateranensis](./sanctorum/1109.md)
+- 9 In Dedicatione basilicæ [Lateranensis](./annum/1109.md)
 - 10 S. Leonis Magni, papæ et Ecclesiæ doctoris
 - 11 S. Martini Turonensis, episcopi ([pencil](https://www.ncronline.org/spirituality/pencil-preaching/nonviolent-discipleship)) 
 - 12 S. Iosaphat, episcopi et martyris
@@ -146,9 +146,9 @@
 	- S. Margaritæ Scotiæ
 - 17 S. Elisabeth Hungariæ, religiosæ
 - 18 In Dedicatione Basilicarum Ss. Petri et Pauli, apostolorum
-- 22 S. Cæciliæ, virginis et martyris ([Sound Music](https://www.ncronline.org/spirituality/pencil-preaching/sound-music))
-- 24 Ss. Andreæ Dũng Lac, presbyteri, et sociorum, martyrum
-- 30 S. [Andreæ](./sanctorum/1130.md), apostoli
+- 22 Sanctae Cæciliæ, virginis et martyris ([Sound Music](https://www.ncronline.org/spirituality/pencil-preaching/sound-music))
+- 24 Santorum Andreæ Dũng Lac, presbyteri, et sociorum, martyrum
+- 30 Sancti [Andreæ](./sanctorum/1130.md), apostoli
 
 ----
 
