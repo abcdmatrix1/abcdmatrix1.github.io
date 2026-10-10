@@ -1,27 +1,17 @@
 # In Ascensione Domini
-- 주님 승천 대축일  
 
 > [inicio](./README.md) / [Calendario](../../LC.md) / [Tempus Paschae](../LP.md) / Ascensione Domini  
 
+- 주님 승천 대축일  
 - 부활 [제7주일](./p7.md)  
   
-  
-- [1](https://www.ncronline.org/spirituality/pencil-preaching/i-am-you-always-0)
-
-- [2](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/you-always)
-
-- [3](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/where-do-we-go-here-0)
-
-
-
-
 ----
   
 > `사도 1,11` 갈릴래아 사람들아, 왜 하늘을 쳐다보며 서 있느냐? 주님은 너희가 보는 앞에서 하늘로 올라가신 모습 그대로 다시 오시리라. 알렐루야.  
 
 > 전능하신 하느님, 성자 그리스도의 승천으로 저희를 들어 높이셨으니, 저희가 거룩한 기쁨에 가득 차 감사의 제사를 바치며 머리이신 그리스도께서 영광스럽게 올라가신 하늘 나라에 그 지체인 저희의 희망을 두게 하소서.
 
-> 전능하신 하느님, 저희 구세주이신 외아드님께서 오늘 하늘로 오르셨음을 굳게 믿사오니, 저희가 하늘에서 아드님과 함께 길이 살게 하소서. 
+> `vel` 전능하신 하느님, 저희 구세주이신 외아드님께서 오늘 하늘로 오르셨음을 굳게 믿사오니, 저희가 하늘에서 아드님과 함께 길이 살게 하소서. 
 
 ----
 
@@ -106,7 +96,7 @@
 
 ----
 
-#### A
+### a
 
 `마태 28,16-20` 그때에 16 열한 제자는 갈릴래아로 떠나 예수님께서 분부하신 산으로 갔다.  
 17 그들은 예수님을 뵙고 엎드려 경배하였다. 그러나 더러는 의심하였다.  
@@ -121,9 +111,10 @@
 ![](https://www.ncronline.org/files/leap.jpg)  
 
 - [Where do we go from here?](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/where-do-we-go-here-0)
+
 ----
 
-#### B 
+### b 
 
 `마르 16,15-20ㄴ` 그때에 예수님께서 열한 제자에게 나타나시어 15 그들에게 이르셨다.  
 > “너희는 온 세상에 가서 모든 피조물에게 복음을 선포하여라.  
@@ -138,7 +129,9 @@
 
 ----
 
-#### C
+### c
+
+![](https://www.ncronline.org/files/depatrutre.jpg)  
 
 - [With you always](https://www.ncronline.org/news/spirituality/pencil-preaching/you-always-0)
 

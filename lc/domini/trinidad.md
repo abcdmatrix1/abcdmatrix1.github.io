@@ -96,6 +96,10 @@
 
 > `묵시 1,8` 지금도 계시고 전에도 계셨으며 앞으로 오실 하느님 성부 성자 성령은 영광받으소서.
 
+![](https://www.ncronline.org/files/unity%20in%20diversity.jpg)  
+
+- [Indwelling](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/indwelling)
+
 `마태 28,16-20` 그때에 16 열한 제자는 갈릴래아로 떠나 예수님께서 분부하신 산으로 갔다.  
 17 그들은 예수님을 뵙고 엎드려 경배하였다. 그러나 더러는 의심하였다.  
 18 예수님께서는 그들에게 다가가 이르셨다.
