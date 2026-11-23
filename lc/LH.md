@@ -12,9 +12,9 @@
 ----
 
 - In [Baptismate](./nativitatis/baptismate.md) Domini  - [Feriæ](./annum/h01.md#feriae)  `hebdomadæ I per annum`    
-- `Dominica II`  (A) (B) [(C)](./annum/h02.md#c) - [Feriæ](./annum/h02.md#feriae)  `hebdomadæ II per annum`   
-- `Dominica III` [(A)](./annum/h03.md#a) (B) [(C)](./annum/h03.md#c) - [Feriæ](./annum/h03.md#feriae) `hebdomadæ III per annum`   
-- `Dominica IV`  [(A)](./annum/h04.md#a) (B) (C) - [Feriæ](./annum/h04.md#feriae) `hebdomadæ IV per annum`   
+- `Dominica II`  (A) [(B)](./annum/h02.md#b) [(C)](./annum/h02.md#c) - [Feriæ](./annum/h02.md#feriae)  `hebdomadæ II per annum`   
+- `Dominica III` [(A)](./annum/h03.md#a) [(B)](./annum/h03.md#b) [(C)](./annum/h03.md#c) - [Feriæ](./annum/h03.md#feriae) `hebdomadæ III per annum`   
+- `Dominica IV`  [(A)](./annum/h04.md#a) [(B)](./annum/h04.md#b) (C) - [Feriæ](./annum/h04.md#feriae) `hebdomadæ IV per annum`   
 - `Dominica V` [(A)](./annum/h05.md#a) (B) [(C)](./annum/h05.md#c) - [Feriæ](./annum/h05.md#feriae) `hebdomadæ V per annum`   
 - In [Presentatione](./domini/presentatione.md) Domini  
 
@@ -93,7 +93,7 @@
 
 ----
 
-- `Dominica XXVII` [(A)](./annum/h27.md#a) (B) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
+- `Dominica XXVII` [(A)](./annum/h27.md#a) [(B)](./annum/h27.md#b) [(C)](./annum/h27.md#c) - [Feriæ](./annum/h27.md#feriae)
 - `Dominica XXVIII` [(A)](./annum/h28.md#a) (B) [(C)](./annum/h28.md#c) - [Feriæ](./annum/h28.md#feriae)
 - `Dominica XXIX` [(A)](./annum/h29.md#a) (B) [(C)](./annum/h29.md#c) - [Feriæ](./annum/h29.md#feriae)
 - `Dominica XXX` [(A)](./annum/h30.md#a) (B) [(C)](./annum/h30.md#c) - [Feriæ](./annum/h30.md#feriae)
@@ -109,7 +109,7 @@
 
 - `Dominica XXXII` (A) (B) [(C)](./annum/h32.md#c) - [Feriæ](./annum/h32.md#feriae)
 - `Dominica XXXIII` (A) (B) [(C)](./annum/h33.md#c) - [Feriæ](./annum/h33.md#feriae)
-- `Domini nostri Iesu Christi Universorum Regis`  [(A)](./annum/h34.md#a) (B) (C) - [Feriæ](./annum/h34.md#feriae)  `Hebdomadæ XXXIV per annum`
+- `Domini nostri Iesu Christi Universorum Regis`  [(A)](./annum/h34.md#a) [(B)](./annum/h34.md#b) [(C)](./annum/h34.md#c) - [Feriæ](./annum/h34.md#feriae)  `Hebdomadæ XXXIV per annum`
 
 ----
 

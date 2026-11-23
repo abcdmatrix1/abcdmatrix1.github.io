@@ -4,11 +4,11 @@
 
 ----
 
-* `Dominica Prima Adventus`  [(A)](./adventus/A01.md#a) (B) (C) - [feriae](./adventus/A01.md#feriae)  
-* `Dominica Secunda Adventus` [(A)](./adventus/A02.md#a) (B) (C) - [feriae](./adventus/A02.md#feriae)  
+* `Dominica Prima Adventus`  [(A)](./adventus/A01.md#a) [(B)](./adventus/A01.md#b) [(C)](./adventus/A01.md#c) - [feriae](./adventus/A01.md#feriae)  
+* `Dominica Secunda Adventus` [(A)](./adventus/A02.md#a) [(B)](./adventus/A02.md#b) [(C)](./adventus/A02.md#c) - [feriae](./adventus/A02.md#feriae)  
 	* In Conceptione [Immaculata](./mariae/imm-conception.md) Beatæ Mariæ Virginis
-* `Dominica Tertia Adventus` [(A)](./adventus/A03.md#a) (B) (C) - [feriae](./adventus/A03.md#feriae)  
-* `Dominica Quarta Adventus` [(A)](./adventus/A04.md#a) (B) (C) - [feriae](./adventus/A04.md#feriae)  
+* `Dominica Tertia Adventus` [(A)](./adventus/A03.md#a) [(B)](./adventus/A03.md#b) (C) - [feriae](./adventus/A03.md#feriae)  
+* `Dominica Quarta Adventus` [(A)](./adventus/A04.md#a) [(B)](./adventus/A04.md#b) (C) - [feriae](./adventus/A04.md#feriae)  
 	* [Die 17 decembris](./adventus/A04.md#17) O Sapientia  
 	* [Die 18 decembris](./adventus/A04.md#18) O Lord and Ruler  
 	* [Die 19 decembris](./adventus/A04.md#19) O Radix Jesse  
