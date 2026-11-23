@@ -68,7 +68,14 @@
 
 > `루카 1,28` 은총이 가득하신 마리아님, 기뻐하소서. 주님께서 함께 계시니, 여인 중에 복되시나이다.  
 
+![](https://www.ncronline.org/files/announcement_4.jpg)  
+
 - [Mother God](https://www.ncronline.org/news/spirituality/pencil-preaching/mother-god)
+
+![](https://www.ncronline.org/files/Immac.%20Conc.jpg)  
+
+- [Mary as model](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/mary-model)
+
 
 `루카 1,26-38` 그때에 26 하느님께서는 가브리엘 천사를 갈릴래아 지방 나자렛이라는 고을로 보내시어, 27 다윗 집안의 요셉이라는 사람과 약혼한 처녀를 찾아가게 하셨다. 그 처녀의 이름은 마리아였다.  
 28 천사가 마리아의 집으로 들어가 말하였다.  

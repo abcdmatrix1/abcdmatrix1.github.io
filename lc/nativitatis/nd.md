@@ -42,6 +42,11 @@
 
 > 거룩한 날이 우리에게 밝았네. 민족들아, 어서 와 주님을 경배하여라. 오늘 큰 빛이 땅 위에 내린다.
 
+![](https://www.ncronline.org/files/Dec%252025%2520color.jpg)  
+
+- [Welcome the light](https://www.ncronline.org/spirituality/pencil-preaching/pencil-preaching/welcome-light)
+
+
 `요한 1,1-18` 1 한처음에 말씀이 계셨다.  
 말씀은 하느님과 함께 계셨는데 말씀은 하느님이셨다.  
 2 그분께서는 한처음에 하느님과 함께 계셨다.  
